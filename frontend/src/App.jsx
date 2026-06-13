@@ -10,6 +10,7 @@ import RecordsPage from "./components/RecordsPage";
 import AuditPage from "./components/AuditPage";
 import PoliciesPage from "./components/PoliciesPage";
 import ReportsPage from "./components/ReportsPage";
+import Landing from "./components/Landing";
 
 import "./App.css";
 
@@ -25,6 +26,7 @@ function App() {
   const [stats, setStats] = useState({});
   const [activePage, setActivePage] = useState("dashboard");
   const [sidebarOpen, setSidebarOpen] = useState(false);
+  const [view, setView] = useState("landing");
 
   useEffect(() => {
     axios
@@ -65,6 +67,10 @@ function App() {
         return <DashboardPage stats={stats} />;
     }
   };
+
+  if (view === "landing") {
+    return <Landing onLaunch={() => setView("app")} />;
+  }
 
   return (
     <div className="app-shell">
