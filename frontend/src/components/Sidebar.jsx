@@ -5,6 +5,7 @@ import {
   LuFileText,
   LuChartBar,
   LuArchive,
+  LuHouse,
 } from "react-icons/lu";
 
 const NAV_ITEMS = [
@@ -15,7 +16,7 @@ const NAV_ITEMS = [
   { key: "reports", label: "Reports", Icon: LuChartBar },
 ];
 
-function Sidebar({ activePage, onNavigate, open, onClose }) {
+function Sidebar({ activePage, onNavigate, open, onClose, onHome }) {
   const lastArchived = "Jun 13, 2026 · 02:00 AM";
 
   return (
@@ -27,12 +28,17 @@ function Sidebar({ activePage, onNavigate, open, onClose }) {
       />
 
       <aside className={`sidebar ${open ? "open" : ""}`} aria-label="Primary">
-        <div className="sidebar-brand">
+        <button
+          type="button"
+          className="sidebar-brand"
+          onClick={onHome}
+          aria-label="Back to home"
+        >
           <span className="brand-mark" aria-hidden="true">
             <LuArchive size={15} />
           </span>
           ArchiveOS
-        </div>
+        </button>
 
         <nav className="sidebar-nav">
           {NAV_ITEMS.map(({ key, label, Icon }) => (
@@ -50,6 +56,11 @@ function Sidebar({ activePage, onNavigate, open, onClose }) {
         </nav>
 
         <div className="sidebar-system">
+          <button type="button" className="home-btn" onClick={onHome}>
+            <LuHouse size={15} aria-hidden="true" />
+            Back to Home
+          </button>
+
           <div className="system-label">System</div>
           <div className="system-line">
             <span className="system-dot" aria-hidden="true" />

@@ -9,8 +9,8 @@
   --text-primary: #111111;
   --text-muted: #6b6b6b;
   --border: #e5e5e2;
-  --accent: #2563eb;
-  --accent-soft: #eff4ff;
+  --accent: #ff5a1f;
+  --accent-soft: #fff1ea;
   --black: #111111;
   --hover-row: #f9f9f7;
   --alt-row: #f9f9f9;
@@ -106,6 +106,12 @@
   color: var(--text-primary);
   padding: 6px 8px 22px 8px;
   letter-spacing: -0.01em;
+  width: 100%;
+  border: none;
+  background: transparent;
+  font-family: inherit;
+  text-align: left;
+  cursor: pointer;
 }
 
 .sidebar-brand .brand-mark {
@@ -187,6 +193,45 @@
   letter-spacing: 0.06em;
   color: var(--text-muted);
   margin-bottom: 6px;
+}
+
+.home-btn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  width: 100%;
+  border: 1px solid var(--border);
+  background: #ffffff;
+  color: var(--text-primary);
+  font-family: inherit;
+  font-size: 13px;
+  font-weight: 500;
+  padding: 9px 10px;
+  border-radius: 8px;
+  cursor: pointer;
+  margin-bottom: 16px;
+  transition: background 0.18s ease, border-color 0.18s ease,
+    transform 0.12s ease, box-shadow 0.18s ease;
+}
+
+.home-btn:hover {
+  background: var(--black);
+  border-color: var(--black);
+  color: #ffffff;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.12);
+}
+
+.home-btn:active {
+  transform: scale(0.98);
+}
+
+.home-btn svg {
+  transition: transform 0.2s ease;
+}
+
+.home-btn:hover svg {
+  transform: translateX(-2px);
 }
 
 .sidebar-system .system-line {
@@ -736,6 +781,10 @@
   .mobile-topbar .mobile-brand {
     font-size: 15px;
     font-weight: 500;
+  }
+
+  .mobile-topbar .mobile-home-btn {
+    margin-left: auto;
   }
 
   .sidebar {

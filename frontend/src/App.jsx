@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 import axios from "axios";
 
-import { LuDownload, LuFileSpreadsheet, LuMenu } from "react-icons/lu";
+import { LuDownload, LuFileSpreadsheet, LuMenu, LuHouse } from "react-icons/lu";
 
 import Sidebar from "./components/Sidebar";
 import TopBar from "./components/TopBar";
@@ -45,6 +45,11 @@ function App() {
     setSidebarOpen(false);
   };
 
+  const goHome = () => {
+    setSidebarOpen(false);
+    setView("landing");
+  };
+
   const exportCsv = () =>
     window.open(`${import.meta.env.VITE_API_URL}/api/export/csv`);
 
@@ -79,6 +84,7 @@ function App() {
         onNavigate={handleNavigate}
         open={sidebarOpen}
         onClose={() => setSidebarOpen(false)}
+        onHome={goHome}
       />
 
       <div className="main-area">
@@ -92,6 +98,14 @@ function App() {
             <LuMenu size={18} />
           </button>
           <span className="mobile-brand">ArchiveOS</span>
+          <button
+            type="button"
+            className="menu-btn mobile-home-btn"
+            onClick={goHome}
+            aria-label="Back to home"
+          >
+            <LuHouse size={18} />
+          </button>
         </div>
 
         <TopBar title={PAGE_TITLES[activePage]}>
