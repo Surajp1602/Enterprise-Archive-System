@@ -10,15 +10,7 @@ import os
 app = Flask(__name__)
 CORS(app)
 
-UPLOAD_FOLDER = "uploads"
-
-os.makedirs(
-    UPLOAD_FOLDER,
-    exist_ok=True
-)
-
-app.config["UPLOAD_FOLDER"] = UPLOAD_FOLDER
-
+ 
 @app.route("/")
 def home():
     return "Archive System Running"
@@ -276,119 +268,9 @@ def export_excel():
         as_attachment=True
     )
 
-@app.route(
-    "/api/upload-document",
-    methods=["POST"]
-)
-def upload_document():
 
-    file = request.files["file"]
 
-    employee_name = request.form[
-        "employee_name"
-    ]
 
-    department = request.form[
-        "department"
-    ]
-
-    document_type = request.form[
-        "document_type"
-    ]
-
-    filename = secure_filename(
-        file.filename
-    )
-
-    filepath = os.path.join(
-        app.config["UPLOAD_FOLDER"],
-        filename
-    )
-
-    file.save(filepath)
-
-    with engine.begin() as conn:
-
-        conn.execute(
-            text("""
-            INSERT INTO documents
-            (
-                employee_name,
-                department,
-                document_type,
-                file_name,
-                file_path
-            )
-            VALUES
-            (
-                :employee,
-                :department,
-                :document_type,
-                :file_name,
-                :file_path
-            )
-            """),
-            {
-                "employee":
-                employee_name,
-
-                "department":
-                department,
-
-                "document_type":
-                document_type,
-
-                "file_name":
-                filename,
-
-                "file_path":
-                filepath
-            }
-        )
-
-    return jsonify({
-        "message":
-        "Document Uploaded Successfully"
-    })
-
-@app.route("/api/documents")
-def get_documents():
-
-    with engine.connect() as conn:
-
-        result = conn.execute(
-            text("""
-            SELECT *
-            FROM documents
-            ORDER BY upload_date DESC
-            """)
-        )
-
-        documents = []
-
-        for row in result:
-
-            documents.append({
-                "document_id":
-                row.document_id,
-
-                "employee_name":
-                row.employee_name,
-
-                "department":
-                row.department,
-
-                "document_type":
-                row.document_type,
-
-                "file_name":
-                row.file_name,
-
-                "upload_date":
-                str(row.upload_date)
-            })
-
-    return jsonify(documents)
 
 if __name__ == "__main__":
     app.run(
