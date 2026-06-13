@@ -50,6 +50,8 @@ function App() {
     setView("landing");
   };
 
+  console.log("API URL:", import.meta.env.VITE_API_URL);
+  
   const exportCsv = () =>
     window.open(`${import.meta.env.VITE_API_URL}/api/export/csv`);
 
