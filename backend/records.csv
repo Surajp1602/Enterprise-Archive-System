@@ -1,0 +1,1299 @@
+record_id,employee_name,department,joining_date,status,document_type,created_at
+1,Colleen Mckenzie,IT,2025-05-22,Active,NDA,2026-06-13 16:26:37.490699
+2,Nicholas Ortiz,IT,2022-10-30,Inactive,Employee Record,2026-06-13 16:26:37.490699
+3,Krystal Mitchell,Marketing,2022-11-06,Active,Contract,2026-06-13 16:26:37.490699
+4,Jessica Good,HR,2023-12-25,Active,Invoice,2026-06-13 16:26:37.490699
+5,Sandra Johnson,IT,2022-04-11,Inactive,Contract,2026-06-13 16:26:37.490699
+12,Leslie Johnson,Sales,2021-10-16,Inactive,Contract,2026-06-13 16:26:37.490699
+13,Diana May,Marketing,2023-09-03,Inactive,Employee Record,2026-06-13 16:26:37.490699
+14,Matthew Clark,Sales,2025-04-26,Inactive,Invoice,2026-06-13 16:26:37.490699
+15,Troy Crawford,Sales,2022-07-27,Inactive,Invoice,2026-06-13 16:26:37.490699
+19,Jamie Green,Marketing,2025-02-18,Inactive,Payslip,2026-06-13 16:26:37.490699
+25,Tony Giles,Operations,2021-12-28,Active,Contract,2026-06-13 16:26:37.490699
+26,Carlos Brown,Finance,2025-06-09,Inactive,Payslip,2026-06-13 16:26:37.490699
+27,Sarah Conrad,Finance,2026-03-07,Inactive,Employee Record,2026-06-13 16:26:37.490699
+29,Jeremy Jennings,Sales,2022-04-01,Inactive,Contract,2026-06-13 16:26:37.490699
+30,Michael Drake,Operations,2021-07-05,Inactive,Employee Record,2026-06-13 16:26:37.490699
+33,Deanna Werner,Marketing,2021-10-14,Active,Contract,2026-06-13 16:26:37.490699
+34,Samantha Parker,IT,2023-06-27,Active,Invoice,2026-06-13 16:26:37.490699
+36,Christine Aguilar,HR,2022-03-02,Active,Contract,2026-06-13 16:26:37.490699
+37,Marissa Smith,Operations,2022-03-14,Active,NDA,2026-06-13 16:26:37.490699
+38,Jennifer Williams,Operations,2025-08-16,Active,Employee Record,2026-06-13 16:26:37.490699
+41,Brooke Berg,Operations,2026-04-27,Inactive,Contract,2026-06-13 16:26:37.490699
+42,Sydney Williamson,Marketing,2022-05-06,Active,Contract,2026-06-13 16:26:37.490699
+46,Richard Johnson MD,Sales,2023-04-02,Inactive,Invoice,2026-06-13 16:26:37.490699
+47,Kim Johnson,Operations,2022-04-07,Active,Contract,2026-06-13 16:26:37.490699
+48,Erica Sanchez MD,Operations,2023-03-31,Active,Invoice,2026-06-13 16:26:37.490699
+51,Marco Murphy,Marketing,2021-10-13,Active,Contract,2026-06-13 16:26:37.490699
+56,Nicholas Robinson,HR,2022-07-26,Inactive,Invoice,2026-06-13 16:26:37.490699
+57,Thomas Perez,Operations,2025-02-16,Inactive,Invoice,2026-06-13 16:26:37.490699
+59,Marissa Jones,Operations,2022-01-03,Inactive,Invoice,2026-06-13 16:26:37.490699
+60,Christopher Mendez,Finance,2022-03-01,Inactive,Contract,2026-06-13 16:26:37.490699
+61,Robin Rivera,Sales,2024-01-06,Inactive,Contract,2026-06-13 16:26:37.490699
+62,Jane Lewis,Marketing,2023-02-24,Inactive,Employee Record,2026-06-13 16:26:37.490699
+63,Jennifer Guzman,Operations,2024-02-04,Inactive,Payslip,2026-06-13 16:26:37.490699
+65,Nathaniel Lopez,Operations,2025-03-18,Inactive,Invoice,2026-06-13 16:26:37.490699
+66,Jason Rivera MD,Finance,2024-06-21,Inactive,Employee Record,2026-06-13 16:26:37.490699
+68,Sarah Vincent,Operations,2025-10-03,Inactive,Contract,2026-06-13 16:26:37.490699
+73,Sean Clark,Marketing,2022-07-27,Inactive,Contract,2026-06-13 16:26:37.490699
+74,Julia Evans,Sales,2022-04-23,Active,NDA,2026-06-13 16:26:37.490699
+76,Joshua Daniels,Operations,2024-10-26,Inactive,Payslip,2026-06-13 16:26:37.490699
+78,Daniel Ortiz MD,IT,2024-11-02,Active,NDA,2026-06-13 16:26:37.490699
+79,Kimberly Clark,Finance,2026-03-02,Inactive,Contract,2026-06-13 16:26:37.490699
+80,Carmen Simpson,Operations,2024-02-27,Active,Payslip,2026-06-13 16:26:37.490699
+81,Joanna Hawkins,IT,2022-02-28,Inactive,Invoice,2026-06-13 16:26:37.490699
+84,Joshua Jenkins,Marketing,2023-02-07,Active,Employee Record,2026-06-13 16:26:37.490699
+85,Veronica Thompson,Operations,2022-11-07,Active,Contract,2026-06-13 16:26:37.490699
+88,Emily Jones,Sales,2022-01-26,Active,Contract,2026-06-13 16:26:37.490699
+89,Katie Roberts,HR,2022-03-22,Inactive,Payslip,2026-06-13 16:26:37.490699
+90,Juan Patterson,Finance,2025-05-02,Inactive,NDA,2026-06-13 16:26:37.490699
+91,Deborah Martinez,IT,2024-10-05,Active,Contract,2026-06-13 16:26:37.490699
+92,John Turner,Sales,2025-11-19,Inactive,NDA,2026-06-13 16:26:37.490699
+93,Sean Stewart,Marketing,2023-11-09,Inactive,Invoice,2026-06-13 16:26:37.490699
+94,Walter Lawson,HR,2022-02-20,Active,NDA,2026-06-13 16:26:37.490699
+97,Shannon Taylor,Finance,2023-03-04,Inactive,NDA,2026-06-13 16:26:37.490699
+100,Edward Gonzalez,Finance,2022-05-12,Inactive,Contract,2026-06-13 16:26:37.490699
+101,Stacy Vega,Sales,2026-04-18,Inactive,Employee Record,2026-06-13 16:26:37.490699
+102,Thomas Medina,Finance,2025-06-06,Inactive,Invoice,2026-06-13 16:26:37.490699
+111,Ryan Williamson,IT,2025-10-04,Inactive,Payslip,2026-06-13 16:26:37.490699
+112,Deborah Key,IT,2023-03-09,Inactive,Employee Record,2026-06-13 16:26:37.490699
+113,Felicia Ford,HR,2026-01-13,Inactive,Invoice,2026-06-13 16:26:37.490699
+114,John Harris,IT,2024-04-19,Active,Employee Record,2026-06-13 16:26:37.490699
+116,April Whitehead,IT,2023-09-09,Active,Payslip,2026-06-13 16:26:37.490699
+117,Philip Casey,Operations,2022-04-10,Active,NDA,2026-06-13 16:26:37.490699
+118,Michael Ray,Operations,2022-09-07,Inactive,NDA,2026-06-13 16:26:37.490699
+119,Jennifer White,Finance,2025-09-22,Inactive,Employee Record,2026-06-13 16:26:37.490699
+122,Adrian Webb,HR,2023-10-02,Inactive,Invoice,2026-06-13 16:26:37.490699
+123,Tyler Proctor,HR,2025-05-09,Inactive,Invoice,2026-06-13 16:26:37.490699
+124,Vanessa Kim,Finance,2023-03-15,Active,Employee Record,2026-06-13 16:26:37.490699
+125,Brittney Carr,IT,2022-04-25,Inactive,Employee Record,2026-06-13 16:26:37.490699
+133,Nicholas Swanson,Finance,2025-04-01,Inactive,Payslip,2026-06-13 16:26:37.490699
+134,Andrea Sullivan,Finance,2021-11-06,Inactive,Contract,2026-06-13 16:26:37.490699
+136,Mr. John Anderson,IT,2022-12-09,Active,Contract,2026-06-13 16:26:37.490699
+137,Kenneth Mitchell,Sales,2022-09-15,Active,Invoice,2026-06-13 16:26:37.490699
+142,Roberta Cabrera,Finance,2025-08-25,Inactive,Contract,2026-06-13 16:26:37.490699
+143,Derrick English,Operations,2021-12-12,Inactive,Invoice,2026-06-13 16:26:37.490699
+144,Patricia Fletcher,Operations,2024-07-30,Active,NDA,2026-06-13 16:26:37.490699
+145,Angel Hernandez,Marketing,2022-04-19,Active,Payslip,2026-06-13 16:26:37.490699
+147,James Goodman,Sales,2026-03-09,Inactive,Contract,2026-06-13 16:26:37.490699
+148,Ms. Stephanie Martinez DDS,IT,2024-11-22,Inactive,Contract,2026-06-13 16:26:37.490699
+149,Cody Hurley,Marketing,2024-02-26,Active,Contract,2026-06-13 16:26:37.490699
+150,Connor Vazquez,Operations,2022-09-19,Inactive,Payslip,2026-06-13 16:26:37.490699
+151,Douglas Mata,Sales,2021-12-22,Active,Contract,2026-06-13 16:26:37.490699
+152,William King,HR,2026-05-15,Inactive,Invoice,2026-06-13 16:26:37.490699
+153,Melissa Dennis,Finance,2026-04-07,Active,Invoice,2026-06-13 16:26:37.490699
+154,David Larsen,Sales,2022-09-10,Active,NDA,2026-06-13 16:26:37.490699
+155,Sonya Green,Finance,2021-10-24,Inactive,Employee Record,2026-06-13 16:26:37.490699
+156,Lisa Peterson,Marketing,2025-05-07,Active,Employee Record,2026-06-13 16:26:37.490699
+159,Anna Jones,Finance,2024-05-13,Active,NDA,2026-06-13 16:26:37.490699
+160,Tyler Brown,Operations,2025-09-21,Active,Contract,2026-06-13 16:26:37.490699
+161,Anna Mills,IT,2022-01-15,Inactive,Employee Record,2026-06-13 16:26:37.490699
+163,Donna Mcdonald,HR,2022-04-28,Inactive,Contract,2026-06-13 16:26:37.490699
+164,Matthew Simpson,HR,2022-06-23,Active,Payslip,2026-06-13 16:26:37.490699
+165,Julie Oliver,Sales,2024-11-08,Active,Invoice,2026-06-13 16:26:37.490699
+168,Shannon Nelson,Sales,2024-12-27,Inactive,Employee Record,2026-06-13 16:26:37.490699
+171,Amy Alvarado,Sales,2025-12-15,Active,Contract,2026-06-13 16:26:37.490699
+172,Roger Weaver,Sales,2024-05-17,Active,Payslip,2026-06-13 16:26:37.490699
+174,Christina Lozano,IT,2024-10-14,Active,Contract,2026-06-13 16:26:37.490699
+176,Lauren Jones,Marketing,2024-12-05,Inactive,Contract,2026-06-13 16:26:37.490699
+178,Nicole White,Finance,2024-11-11,Inactive,Employee Record,2026-06-13 16:26:37.490699
+182,Shelley Williams,Operations,2023-03-19,Active,Employee Record,2026-06-13 16:26:37.490699
+185,Hailey Farmer,IT,2026-03-29,Inactive,Payslip,2026-06-13 16:26:37.490699
+186,Peggy Harper,HR,2023-03-21,Inactive,Contract,2026-06-13 16:26:37.490699
+187,Cameron Flores,Sales,2025-07-30,Inactive,Contract,2026-06-13 16:26:37.490699
+188,George Tyler,Operations,2026-02-04,Inactive,Contract,2026-06-13 16:26:37.490699
+189,David Alexander,Marketing,2022-05-22,Active,Payslip,2026-06-13 16:26:37.490699
+190,Sarah Cisneros,IT,2022-10-05,Active,Payslip,2026-06-13 16:26:37.490699
+194,Misty Gray,Sales,2023-01-24,Active,Payslip,2026-06-13 16:26:37.490699
+195,April Haynes,Sales,2025-05-26,Active,Payslip,2026-06-13 16:26:37.490699
+196,Emily Dickerson,Finance,2025-07-22,Inactive,NDA,2026-06-13 16:26:37.490699
+198,Cameron Horn,Sales,2023-01-01,Active,NDA,2026-06-13 16:26:37.490699
+200,Christopher Meadows,Sales,2021-08-30,Inactive,Employee Record,2026-06-13 16:26:37.490699
+202,April Ramirez,Marketing,2021-10-21,Active,Contract,2026-06-13 16:26:37.490699
+203,Wayne Olson,Finance,2024-06-24,Inactive,Payslip,2026-06-13 16:26:37.490699
+204,Denise Murphy,Operations,2024-05-15,Active,Payslip,2026-06-13 16:26:37.490699
+205,Edward Perez,Marketing,2022-02-14,Inactive,Employee Record,2026-06-13 16:26:37.490699
+207,Tammy Williams,Finance,2021-06-24,Inactive,Employee Record,2026-06-13 16:26:37.490699
+208,Jack Carter,IT,2025-10-23,Active,Contract,2026-06-13 16:26:37.490699
+213,Melissa Ibarra,Finance,2024-10-12,Active,Contract,2026-06-13 16:26:37.490699
+214,James Holland,Finance,2022-10-01,Active,Contract,2026-06-13 16:26:37.490699
+215,Janet Galvan,Sales,2022-01-29,Active,Invoice,2026-06-13 16:26:37.490699
+217,Katie Vaughan,Operations,2023-09-10,Active,NDA,2026-06-13 16:26:37.490699
+218,Tamara Mcfarland,Marketing,2024-01-06,Active,Employee Record,2026-06-13 16:26:37.490699
+222,Luke Smith,Operations,2026-05-21,Inactive,Contract,2026-06-13 16:26:37.490699
+223,Dakota Williams,Finance,2024-02-18,Active,NDA,2026-06-13 16:26:37.490699
+225,Sheila Garrett,Sales,2026-01-07,Inactive,Invoice,2026-06-13 16:26:37.490699
+227,John Allen,HR,2024-10-25,Inactive,Employee Record,2026-06-13 16:26:37.490699
+228,Robert Simmons,Operations,2025-08-04,Inactive,Invoice,2026-06-13 16:26:37.490699
+230,Amy Carpenter,Marketing,2024-10-14,Inactive,Invoice,2026-06-13 16:26:37.490699
+231,Stephanie Booth,Sales,2023-10-13,Active,Contract,2026-06-13 16:26:37.490699
+236,Elizabeth Tyler,HR,2022-07-14,Active,Employee Record,2026-06-13 16:26:37.490699
+238,Breanna Wallace,HR,2023-01-06,Inactive,Payslip,2026-06-13 16:26:37.490699
+242,Kathryn Scott,IT,2021-12-19,Active,NDA,2026-06-13 16:26:37.490699
+244,Nathan Ayers,HR,2022-08-27,Inactive,Employee Record,2026-06-13 16:26:37.490699
+248,Mary Castaneda,Sales,2025-09-04,Active,Employee Record,2026-06-13 16:26:37.490699
+249,Daniel Clements,Marketing,2021-07-23,Inactive,Invoice,2026-06-13 16:26:37.490699
+250,Warren Johnson,IT,2022-08-03,Active,Payslip,2026-06-13 16:26:37.490699
+253,Andrew Pham,IT,2022-07-17,Active,Invoice,2026-06-13 16:26:37.490699
+256,Brittany Sanders,Finance,2023-10-26,Inactive,NDA,2026-06-13 16:26:37.490699
+261,Sydney Haney,HR,2023-03-02,Inactive,Employee Record,2026-06-13 16:26:37.490699
+263,Paul Dudley,HR,2023-09-11,Active,Employee Record,2026-06-13 16:26:37.490699
+265,Rebecca Vazquez,IT,2023-08-28,Active,Contract,2026-06-13 16:26:37.490699
+267,Shawn Cox,Sales,2025-05-20,Inactive,Contract,2026-06-13 16:26:37.490699
+268,Patrick Robertson,IT,2024-10-17,Inactive,Payslip,2026-06-13 16:26:37.490699
+269,Brooke Buckley,IT,2025-06-08,Inactive,Invoice,2026-06-13 16:26:37.490699
+271,Ashley Atkinson,HR,2024-04-15,Active,Payslip,2026-06-13 16:26:37.490699
+275,Kevin Lynch,Sales,2026-04-03,Inactive,Invoice,2026-06-13 16:26:37.490699
+276,Dawn Jimenez,Finance,2022-03-31,Inactive,Payslip,2026-06-13 16:26:37.490699
+277,Kimberly Baker PhD,Finance,2022-07-24,Active,Payslip,2026-06-13 16:26:37.490699
+279,Brittney Cook,HR,2024-10-04,Active,NDA,2026-06-13 16:26:37.490699
+280,Melissa Harris,Sales,2023-09-21,Active,Payslip,2026-06-13 16:26:37.490699
+283,Theresa Wheeler,IT,2021-07-31,Active,Payslip,2026-06-13 16:26:37.490699
+284,Amanda Johnson,Finance,2025-12-26,Active,Payslip,2026-06-13 16:26:37.490699
+285,Amanda Barker,HR,2026-05-02,Active,Contract,2026-06-13 16:26:37.490699
+287,Brooke Dawson,Finance,2023-10-18,Active,NDA,2026-06-13 16:26:37.490699
+290,Angela Rivera,IT,2024-10-21,Active,Invoice,2026-06-13 16:26:37.490699
+292,Mr. Antonio Shelton,Finance,2021-11-19,Active,Payslip,2026-06-13 16:26:37.490699
+293,Mark Byrd,Sales,2023-10-23,Inactive,Contract,2026-06-13 16:26:37.490699
+294,Melinda Werner,Operations,2024-09-13,Active,Payslip,2026-06-13 16:26:37.490699
+295,Joshua Brown,IT,2025-05-09,Active,Contract,2026-06-13 16:26:37.490699
+296,Jacqueline Brown,HR,2025-02-20,Active,Employee Record,2026-06-13 16:26:37.490699
+297,Christine Wilcox,Operations,2024-11-02,Active,Employee Record,2026-06-13 16:26:37.490699
+299,Laura Morrow,HR,2022-03-17,Inactive,Payslip,2026-06-13 16:26:37.490699
+300,Sharon Moreno,HR,2022-01-05,Inactive,Employee Record,2026-06-13 16:26:37.490699
+303,William Lewis,Operations,2022-05-05,Inactive,Contract,2026-06-13 16:26:37.490699
+305,Caroline Evans,Sales,2024-11-20,Inactive,Invoice,2026-06-13 16:26:37.490699
+306,Keith Baker,Operations,2026-01-19,Active,Contract,2026-06-13 16:26:37.490699
+309,Amanda Cox,Finance,2023-10-02,Active,Payslip,2026-06-13 16:26:37.490699
+310,Willie Allen,Finance,2025-03-22,Active,NDA,2026-06-13 16:26:37.490699
+315,Sherry Smith,Sales,2024-07-05,Active,Invoice,2026-06-13 16:26:37.490699
+318,Lori Bonilla,Sales,2022-07-31,Active,Payslip,2026-06-13 16:26:37.490699
+319,Mr. Jonathan Perez,Marketing,2025-02-12,Active,Invoice,2026-06-13 16:26:37.490699
+322,Jillian Rice,IT,2023-05-20,Active,Invoice,2026-06-13 16:26:37.490699
+325,Anthony Carpenter,Operations,2023-09-15,Active,Invoice,2026-06-13 16:26:37.490699
+326,Diana Cook,Marketing,2023-05-23,Active,Invoice,2026-06-13 16:26:37.490699
+327,Seth Holland,Operations,2022-10-02,Active,Employee Record,2026-06-13 16:26:37.490699
+329,Teresa Jackson,Sales,2022-11-15,Active,Payslip,2026-06-13 16:26:37.490699
+330,Darrell Roberts,IT,2024-04-02,Active,Employee Record,2026-06-13 16:26:37.490699
+331,Kara Garcia,Marketing,2022-04-28,Active,Contract,2026-06-13 16:26:37.490699
+336,Justin Hernandez,Sales,2022-08-06,Active,Contract,2026-06-13 16:26:37.490699
+340,Richard Woods,HR,2025-11-28,Inactive,Invoice,2026-06-13 16:26:37.490699
+341,Troy Norton,HR,2022-09-22,Inactive,Contract,2026-06-13 16:26:37.490699
+342,Lance Wright,Marketing,2024-06-26,Inactive,NDA,2026-06-13 16:26:37.490699
+345,Tammie Carpenter,Finance,2023-12-12,Active,Payslip,2026-06-13 16:26:37.490699
+346,Austin Graves,Operations,2024-07-25,Active,Invoice,2026-06-13 16:26:37.490699
+347,Morgan Roberts,IT,2025-10-31,Active,Invoice,2026-06-13 16:26:37.490699
+348,Andrea Miranda,Sales,2025-04-01,Inactive,Payslip,2026-06-13 16:26:37.490699
+349,John Johnson,IT,2026-02-01,Inactive,Employee Record,2026-06-13 16:26:37.490699
+350,Timothy Green,Marketing,2026-04-17,Active,Payslip,2026-06-13 16:26:37.490699
+351,Wendy Fisher,Finance,2023-09-12,Inactive,Invoice,2026-06-13 16:26:37.490699
+352,Ian Hamilton,Marketing,2025-01-30,Inactive,Payslip,2026-06-13 16:26:37.490699
+353,Troy Peterson MD,HR,2023-06-29,Active,NDA,2026-06-13 16:26:37.490699
+355,Christopher Roman,Sales,2024-07-01,Inactive,NDA,2026-06-13 16:26:37.490699
+357,Stephanie Browning,Operations,2025-12-03,Inactive,Contract,2026-06-13 16:26:37.490699
+358,Matthew Coleman,HR,2022-12-04,Active,NDA,2026-06-13 16:26:37.490699
+362,Mr. John Sosa,Sales,2022-02-25,Active,Invoice,2026-06-13 16:26:37.490699
+363,Tracy Carter,Operations,2023-12-09,Inactive,Contract,2026-06-13 16:26:37.490699
+370,Billy Rodriguez,Operations,2021-08-20,Active,Payslip,2026-06-13 16:26:37.490699
+371,Michael Mason,Sales,2022-12-10,Active,Invoice,2026-06-13 16:26:37.490699
+372,Lori Hoffman,Operations,2025-07-10,Inactive,Payslip,2026-06-13 16:26:37.490699
+373,Julia Peters,IT,2022-05-12,Inactive,Invoice,2026-06-13 16:26:37.490699
+374,Emily Ibarra,Finance,2024-12-15,Active,Payslip,2026-06-13 16:26:37.490699
+378,Jesus Walsh,IT,2021-12-11,Active,Invoice,2026-06-13 16:26:37.490699
+379,Brandon Hopkins,Sales,2022-03-08,Active,NDA,2026-06-13 16:26:37.490699
+381,Karen Ryan,Operations,2025-09-20,Active,Invoice,2026-06-13 16:26:37.490699
+384,Debbie Mack,Marketing,2022-04-29,Inactive,Employee Record,2026-06-13 16:26:37.490699
+387,Diana Osborne,HR,2025-02-18,Active,Payslip,2026-06-13 16:26:37.490699
+389,Erica Hensley,Finance,2021-07-03,Inactive,Employee Record,2026-06-13 16:26:37.490699
+391,Douglas Patterson,Operations,2025-06-19,Inactive,Contract,2026-06-13 16:26:37.490699
+392,Vanessa Edwards,Finance,2023-02-22,Active,Payslip,2026-06-13 16:26:37.490699
+394,Deborah Miller,Finance,2025-08-28,Inactive,Invoice,2026-06-13 16:26:37.490699
+395,Alicia Fisher,Marketing,2021-11-30,Inactive,Contract,2026-06-13 16:26:37.490699
+396,Brenda Clark,IT,2025-06-13,Inactive,Employee Record,2026-06-13 16:26:37.490699
+397,David Wright,IT,2021-08-25,Active,NDA,2026-06-13 16:26:37.490699
+401,Charles Murray,HR,2025-06-30,Inactive,NDA,2026-06-13 16:26:37.490699
+402,Miranda Johnson,HR,2026-02-17,Inactive,Employee Record,2026-06-13 16:26:37.490699
+403,Nicholas Suarez,HR,2025-11-27,Active,Invoice,2026-06-13 16:26:37.490699
+406,Shannon Johnson,Marketing,2022-10-31,Inactive,Contract,2026-06-13 16:26:37.490699
+408,Carrie Lee,Finance,2023-03-26,Active,Invoice,2026-06-13 16:26:37.490699
+411,Monique Sanchez,Sales,2021-10-30,Active,Payslip,2026-06-13 16:26:37.490699
+412,Dillon Hudson,Marketing,2025-09-18,Inactive,Employee Record,2026-06-13 16:26:37.490699
+414,John Hernandez,HR,2024-04-27,Inactive,NDA,2026-06-13 16:26:37.490699
+415,Justin Hall,HR,2022-12-02,Inactive,Payslip,2026-06-13 16:26:37.490699
+417,Ann Tran,Marketing,2021-12-30,Active,Payslip,2026-06-13 16:26:37.490699
+418,Joseph Black,IT,2024-03-09,Active,Payslip,2026-06-13 16:26:37.490699
+420,Donald Ward,IT,2022-12-12,Inactive,NDA,2026-06-13 16:26:37.490699
+421,Patricia Singh,Sales,2021-11-01,Inactive,Invoice,2026-06-13 16:26:37.490699
+423,Catherine Young,Operations,2024-11-11,Inactive,NDA,2026-06-13 16:26:37.490699
+424,Nicholas Mcdaniel,HR,2025-03-09,Inactive,NDA,2026-06-13 16:26:37.490699
+425,Andrew Murphy,Operations,2021-09-15,Inactive,Employee Record,2026-06-13 16:26:37.490699
+426,Paul Riley,Operations,2025-08-04,Active,Invoice,2026-06-13 16:26:37.490699
+428,Douglas Gonzalez,Finance,2023-05-04,Active,Payslip,2026-06-13 16:26:37.490699
+429,Gary Greer,Finance,2024-05-31,Inactive,Invoice,2026-06-13 16:26:37.490699
+430,Kelly Trevino,HR,2022-10-23,Inactive,Invoice,2026-06-13 16:26:37.490699
+431,Jeffrey Ortiz,HR,2025-12-21,Active,Invoice,2026-06-13 16:26:37.490699
+439,Scott Perkins,Finance,2025-11-20,Inactive,Invoice,2026-06-13 16:26:37.490699
+441,Kathy Lowery,Finance,2026-06-04,Active,NDA,2026-06-13 16:26:37.490699
+442,Jill Lee,HR,2025-02-11,Active,Payslip,2026-06-13 16:26:37.490699
+446,Glen Brown,HR,2023-02-28,Inactive,Payslip,2026-06-13 16:26:37.490699
+449,Patrick White,Marketing,2022-07-26,Inactive,NDA,2026-06-13 16:26:37.490699
+450,Ricky Summers Jr.,Sales,2025-01-28,Active,Employee Record,2026-06-13 16:26:37.490699
+453,John Elliott,HR,2022-05-28,Inactive,NDA,2026-06-13 16:26:37.490699
+454,Brooke Greene,Operations,2026-02-24,Inactive,Invoice,2026-06-13 16:26:37.490699
+456,Ana Johnson,Operations,2025-12-08,Active,NDA,2026-06-13 16:26:37.490699
+459,Gary Barajas,Operations,2024-11-01,Inactive,Contract,2026-06-13 16:26:37.490699
+460,Theresa Browning,Finance,2022-03-20,Active,Contract,2026-06-13 16:26:37.490699
+464,Matthew Camacho,Finance,2024-06-29,Inactive,Payslip,2026-06-13 16:26:37.490699
+467,Paula Cuevas,HR,2024-02-25,Inactive,Contract,2026-06-13 16:26:37.490699
+470,Aaron Garcia,HR,2024-04-09,Active,NDA,2026-06-13 16:26:37.490699
+471,Kathy Leonard,IT,2022-07-16,Inactive,Invoice,2026-06-13 16:26:37.490699
+473,Jason Blake,HR,2024-01-08,Inactive,Contract,2026-06-13 16:26:37.490699
+474,Christian Rodriguez,HR,2025-06-11,Inactive,Contract,2026-06-13 16:26:37.490699
+480,Theresa Myers,Operations,2025-05-15,Active,NDA,2026-06-13 16:26:37.490699
+482,Paul Padilla,Operations,2021-11-12,Inactive,Invoice,2026-06-13 16:26:37.490699
+483,Maurice Taylor,Marketing,2026-02-09,Active,Invoice,2026-06-13 16:26:37.490699
+485,Jennifer Rivera,Marketing,2025-04-08,Active,Payslip,2026-06-13 16:26:37.490699
+486,Jennifer Hansen,HR,2026-04-19,Inactive,Employee Record,2026-06-13 16:26:37.490699
+490,Veronica Graham,IT,2025-08-23,Active,NDA,2026-06-13 16:26:37.490699
+492,James Bell,HR,2026-06-01,Active,Employee Record,2026-06-13 16:26:37.490699
+493,Justin Wang,Marketing,2022-06-27,Inactive,Contract,2026-06-13 16:26:37.490699
+494,Christopher Foster,Finance,2024-08-04,Active,Contract,2026-06-13 16:26:37.490699
+495,John Patterson,Operations,2021-12-13,Active,Contract,2026-06-13 16:26:37.490699
+496,Alexander Proctor,Operations,2025-04-10,Active,Employee Record,2026-06-13 16:26:37.490699
+498,Timothy Cervantes,Operations,2023-08-31,Inactive,Employee Record,2026-06-13 16:26:37.490699
+499,Laura Smith,IT,2025-11-24,Active,Contract,2026-06-13 16:26:37.490699
+500,Toni Peters,Finance,2021-09-25,Inactive,NDA,2026-06-13 16:26:37.490699
+501,Mike Williams,HR,2023-09-26,Inactive,Contract,2026-06-13 16:26:37.490699
+502,Nicholas Mack,IT,2022-12-17,Inactive,NDA,2026-06-13 16:26:37.490699
+505,Dr. Ashley Burton,IT,2021-09-03,Active,Payslip,2026-06-13 16:26:37.490699
+506,Casey Cunningham,Marketing,2022-11-21,Inactive,NDA,2026-06-13 16:26:37.490699
+507,Robin Medina,HR,2023-08-21,Inactive,Contract,2026-06-13 16:26:37.490699
+510,Jasmine Taylor,IT,2025-08-12,Inactive,Contract,2026-06-13 16:26:37.490699
+511,Beverly West,IT,2024-02-07,Inactive,Payslip,2026-06-13 16:26:37.490699
+513,Charles Anderson,Sales,2024-03-04,Active,Payslip,2026-06-13 16:26:37.490699
+516,Michael Reid,HR,2022-01-16,Active,Invoice,2026-06-13 16:26:37.490699
+517,Scott Tran,Marketing,2023-11-02,Inactive,Payslip,2026-06-13 16:26:37.490699
+519,Tiffany Hall,Sales,2022-07-01,Active,NDA,2026-06-13 16:26:37.490699
+522,Laura Fuller,IT,2021-07-13,Inactive,Contract,2026-06-13 16:26:37.490699
+523,Candice Gardner,Finance,2022-09-15,Active,Employee Record,2026-06-13 16:26:37.490699
+525,Amanda Rollins,HR,2022-05-03,Inactive,NDA,2026-06-13 16:26:37.490699
+528,Denise Duran,Operations,2025-04-01,Active,Payslip,2026-06-13 16:26:37.490699
+530,Sarah Cisneros,Operations,2025-12-23,Active,Payslip,2026-06-13 16:26:37.490699
+531,Jordan Alexander,Operations,2025-01-07,Active,Payslip,2026-06-13 16:26:37.490699
+532,Jennifer Huffman,Finance,2023-03-14,Active,NDA,2026-06-13 16:26:37.490699
+534,Kara Gonzalez,HR,2022-02-11,Inactive,Invoice,2026-06-13 16:26:37.490699
+536,Christy Bond,Marketing,2021-11-11,Inactive,NDA,2026-06-13 16:26:37.490699
+537,Ricky Wilson,HR,2021-11-16,Inactive,Invoice,2026-06-13 16:26:37.490699
+539,Travis Powell,HR,2026-01-19,Inactive,Employee Record,2026-06-13 16:26:37.490699
+540,Wyatt Durham,Operations,2025-10-07,Inactive,Contract,2026-06-13 16:26:37.490699
+541,Katie Wagner,Operations,2023-11-24,Active,Payslip,2026-06-13 16:26:37.490699
+542,Bethany Hooper,Marketing,2024-06-27,Inactive,NDA,2026-06-13 16:26:37.490699
+546,Lucas Campbell,IT,2024-08-08,Inactive,Employee Record,2026-06-13 16:26:37.490699
+549,Amy Figueroa,Finance,2026-01-11,Active,Payslip,2026-06-13 16:26:37.490699
+551,Daniel Ross,Marketing,2025-04-06,Active,Invoice,2026-06-13 16:26:37.490699
+552,Frederick Martinez,Sales,2025-04-13,Active,Invoice,2026-06-13 16:26:37.490699
+555,Karen Nash,IT,2023-07-22,Inactive,Employee Record,2026-06-13 16:26:37.490699
+556,Jake White,HR,2024-06-03,Inactive,NDA,2026-06-13 16:26:37.490699
+557,Robert Faulkner,Sales,2024-08-27,Active,Contract,2026-06-13 16:26:37.490699
+558,Thomas Hernandez,Sales,2022-12-11,Inactive,Employee Record,2026-06-13 16:26:37.490699
+560,Derek Williams,Sales,2022-12-03,Active,Invoice,2026-06-13 16:26:37.490699
+564,Samuel Evans,HR,2021-06-19,Active,Employee Record,2026-06-13 16:26:37.490699
+565,Toni Cooper,Finance,2026-03-20,Inactive,NDA,2026-06-13 16:26:37.490699
+566,Clinton Case,Finance,2026-02-22,Active,NDA,2026-06-13 16:26:37.490699
+572,Joseph Walker,HR,2021-10-09,Inactive,NDA,2026-06-13 16:26:37.490699
+573,Sara Rodriguez,IT,2025-07-22,Inactive,Invoice,2026-06-13 16:26:37.490699
+576,John Lewis,IT,2026-01-15,Inactive,NDA,2026-06-13 16:26:37.490699
+577,Jessica Hayes,HR,2025-05-04,Inactive,NDA,2026-06-13 16:26:37.490699
+583,Raymond Gordon,HR,2022-03-17,Inactive,Payslip,2026-06-13 16:26:37.490699
+584,Tammy Smith,HR,2025-10-02,Active,Contract,2026-06-13 16:26:37.490699
+586,Emily Flores,IT,2024-04-24,Inactive,Contract,2026-06-13 16:26:37.490699
+587,Andres Jones,Marketing,2024-01-27,Active,Contract,2026-06-13 16:26:37.490699
+588,Corey Brown,Marketing,2026-03-18,Inactive,NDA,2026-06-13 16:26:37.490699
+589,Marie Houston,Sales,2024-03-13,Inactive,NDA,2026-06-13 16:26:37.490699
+591,Dr. Peter Perez,IT,2025-08-22,Active,Employee Record,2026-06-13 16:26:37.490699
+593,Nicholas Austin,Finance,2023-04-06,Inactive,NDA,2026-06-13 16:26:37.490699
+594,Jesse Jenkins,HR,2024-09-22,Active,Invoice,2026-06-13 16:26:37.490699
+597,Caroline Russo,HR,2022-03-28,Inactive,Employee Record,2026-06-13 16:26:37.490699
+598,Matthew Campbell,IT,2025-03-04,Active,Invoice,2026-06-13 16:26:37.490699
+600,Janice Blake,Operations,2025-04-05,Inactive,Employee Record,2026-06-13 16:26:37.490699
+601,Justin Francis,Finance,2021-06-26,Inactive,Invoice,2026-06-13 16:26:37.490699
+602,Michael Ramirez,IT,2025-08-05,Active,Payslip,2026-06-13 16:26:37.490699
+603,Nicholas Stevens,Marketing,2025-03-17,Inactive,NDA,2026-06-13 16:26:37.490699
+604,Matthew Stanley,HR,2022-02-19,Inactive,Contract,2026-06-13 16:26:37.490699
+605,James Ferguson,Finance,2025-09-22,Inactive,Contract,2026-06-13 16:26:37.490699
+607,Kerry Bradford,IT,2021-08-20,Inactive,NDA,2026-06-13 16:26:37.490699
+608,Eric Small,Sales,2021-11-18,Active,NDA,2026-06-13 16:26:37.490699
+615,Daniel Schroeder MD,Finance,2024-05-18,Inactive,NDA,2026-06-13 16:26:37.490699
+616,Robin Fox,Operations,2023-04-29,Inactive,Contract,2026-06-13 16:26:37.490699
+617,Melanie Ryan,IT,2024-07-13,Inactive,Invoice,2026-06-13 16:26:37.490699
+622,Jason Rodriguez,IT,2024-03-09,Active,NDA,2026-06-13 16:26:37.490699
+624,Fred Bradford,Operations,2024-10-11,Inactive,Payslip,2026-06-13 16:26:37.490699
+629,Courtney Herring,Marketing,2025-07-06,Inactive,Employee Record,2026-06-13 16:26:37.490699
+631,Daniel Brown,Operations,2023-03-06,Inactive,Contract,2026-06-13 16:26:37.490699
+632,Brian Watson,Finance,2025-08-19,Inactive,Employee Record,2026-06-13 16:26:37.490699
+634,Tracie Frank,Finance,2024-10-08,Active,NDA,2026-06-13 16:26:37.490699
+635,Adriana House,Sales,2025-10-19,Inactive,Contract,2026-06-13 16:26:37.490699
+636,Thomas Flores,Operations,2021-11-06,Inactive,Employee Record,2026-06-13 16:26:37.490699
+639,Jennifer Harris,Operations,2026-01-06,Inactive,NDA,2026-06-13 16:26:37.490699
+643,Stacey Bradley,IT,2025-03-06,Inactive,Invoice,2026-06-13 16:26:37.490699
+645,Karen Jones,Operations,2026-05-07,Active,Employee Record,2026-06-13 16:26:37.490699
+646,Christina Black,IT,2025-07-01,Active,NDA,2026-06-13 16:26:37.490699
+649,Tyler Nash,Sales,2023-09-23,Inactive,NDA,2026-06-13 16:26:37.490699
+651,Jack Sharp,Finance,2022-11-08,Active,NDA,2026-06-13 16:26:37.490699
+654,Shane Carroll,Sales,2025-03-25,Active,Invoice,2026-06-13 16:26:37.490699
+657,Carrie Fuller,IT,2025-07-22,Active,NDA,2026-06-13 16:26:37.490699
+663,Andrew Jacobs,Finance,2022-06-28,Active,NDA,2026-06-13 16:26:37.490699
+664,Rachel Rollins,IT,2026-02-21,Inactive,Contract,2026-06-13 16:26:37.490699
+666,Teresa Hayes,Sales,2025-06-07,Active,NDA,2026-06-13 16:26:37.490699
+667,Lindsay Campbell,Operations,2024-11-30,Inactive,Employee Record,2026-06-13 16:26:37.490699
+668,Cassie Miller,IT,2022-06-15,Active,NDA,2026-06-13 16:26:37.490699
+673,Thomas Andrews PhD,Operations,2025-02-05,Active,Employee Record,2026-06-13 16:26:37.490699
+674,Dylan Buck,IT,2022-04-14,Active,Employee Record,2026-06-13 16:26:37.490699
+675,Melissa Burton,Marketing,2022-10-08,Inactive,Employee Record,2026-06-13 16:26:37.490699
+678,Lori Williams,Operations,2024-04-25,Inactive,NDA,2026-06-13 16:26:37.490699
+679,Tracy Allen MD,Finance,2023-12-09,Active,Contract,2026-06-13 16:26:37.490699
+680,Marilyn Coleman,Marketing,2022-07-14,Active,Invoice,2026-06-13 16:26:37.490699
+682,Joseph Vang,Finance,2025-07-13,Active,Invoice,2026-06-13 16:26:37.490699
+683,Charles Lin,Finance,2022-09-21,Inactive,Invoice,2026-06-13 16:26:37.490699
+684,Nicholas Villanueva,Marketing,2021-09-05,Active,Invoice,2026-06-13 16:26:37.490699
+687,Danielle Martin,Finance,2026-04-08,Inactive,NDA,2026-06-13 16:26:37.490699
+688,Jeremiah Barnett,Sales,2023-01-24,Active,Invoice,2026-06-13 16:26:37.490699
+690,David Bryant,Marketing,2025-10-21,Active,Payslip,2026-06-13 16:26:37.490699
+693,Chelsea Little,HR,2026-01-30,Inactive,NDA,2026-06-13 16:26:37.490699
+698,Deborah Jimenez,Operations,2024-05-29,Inactive,Payslip,2026-06-13 16:26:37.490699
+699,Stephanie Stevenson,Sales,2024-01-23,Inactive,NDA,2026-06-13 16:26:37.490699
+703,Rebecca Haney,IT,2023-12-26,Active,NDA,2026-06-13 16:26:37.490699
+704,Kelly Williams,IT,2022-07-21,Active,Employee Record,2026-06-13 16:26:37.490699
+708,Christine Nichols,IT,2023-09-16,Active,Employee Record,2026-06-13 16:26:37.490699
+710,Lori Boyd,IT,2022-02-24,Inactive,Invoice,2026-06-13 16:26:37.490699
+711,Troy Cowan,Sales,2024-02-21,Inactive,Payslip,2026-06-13 16:26:37.490699
+712,Margaret Mcguire,HR,2023-03-10,Inactive,Employee Record,2026-06-13 16:26:37.490699
+713,Emma King,Operations,2026-06-08,Active,Contract,2026-06-13 16:26:37.490699
+716,Jennifer Mathews,Marketing,2026-02-24,Inactive,Invoice,2026-06-13 16:26:37.490699
+719,Nicholas Solomon,Operations,2023-10-26,Active,Payslip,2026-06-13 16:26:37.490699
+721,Brian Berg,Sales,2022-04-03,Inactive,Contract,2026-06-13 16:26:37.490699
+722,Andrew Lee,Finance,2024-08-18,Inactive,Contract,2026-06-13 16:26:37.490699
+725,Brian Mccarthy,Operations,2023-09-19,Inactive,Payslip,2026-06-13 16:26:37.490699
+726,Joel Stevens,IT,2026-04-11,Active,Employee Record,2026-06-13 16:26:37.490699
+727,Nancy Young,Marketing,2021-07-20,Inactive,NDA,2026-06-13 16:26:37.490699
+728,Sarah Lyons,Operations,2024-05-02,Inactive,Invoice,2026-06-13 16:26:37.490699
+730,Shannon Mckay,HR,2024-12-22,Active,Payslip,2026-06-13 16:26:37.490699
+735,Michael Ryan,Marketing,2022-12-13,Inactive,Contract,2026-06-13 16:26:37.490699
+738,Brandon Allison,Finance,2022-01-27,Active,Contract,2026-06-13 16:26:37.490699
+740,Mrs. Cassie Flowers PhD,Sales,2024-01-03,Inactive,Employee Record,2026-06-13 16:26:37.490699
+741,Brett Andrews,HR,2022-05-26,Active,NDA,2026-06-13 16:26:37.490699
+742,Jasmine Rivas,HR,2024-01-01,Inactive,Payslip,2026-06-13 16:26:37.490699
+743,Vanessa Murphy,Sales,2025-04-11,Inactive,Payslip,2026-06-13 16:26:37.490699
+745,Elizabeth Atkins,Marketing,2022-04-11,Active,NDA,2026-06-13 16:26:37.490699
+746,Carl Thomas,Sales,2022-10-14,Active,Payslip,2026-06-13 16:26:37.490699
+747,Carla Russell,Marketing,2023-07-21,Active,Payslip,2026-06-13 16:26:37.490699
+752,Aaron Johnson,IT,2023-06-17,Active,Contract,2026-06-13 16:26:37.490699
+755,Joshua Orr,Sales,2026-04-12,Inactive,Contract,2026-06-13 16:26:37.490699
+757,Cathy Flowers,IT,2022-11-28,Active,Employee Record,2026-06-13 16:26:37.490699
+758,Mr. James Phillips,Sales,2022-05-17,Active,Invoice,2026-06-13 16:26:37.490699
+759,Ronald Tanner,IT,2024-10-23,Inactive,Payslip,2026-06-13 16:26:37.490699
+763,Nicole Cunningham,Marketing,2025-07-12,Active,Contract,2026-06-13 16:26:37.490699
+765,Donna Dixon,Operations,2026-05-21,Active,NDA,2026-06-13 16:26:37.490699
+766,Clayton Hunter,IT,2021-12-11,Inactive,NDA,2026-06-13 16:26:37.490699
+767,Kendra White,HR,2025-12-31,Inactive,Payslip,2026-06-13 16:26:37.490699
+768,Andre Green,HR,2023-06-10,Active,Invoice,2026-06-13 16:26:37.490699
+769,Tammie Mcdaniel,IT,2025-09-24,Inactive,Invoice,2026-06-13 16:26:37.490699
+770,Nicholas Mills,Marketing,2025-05-31,Active,NDA,2026-06-13 16:26:37.490699
+771,Lindsay Chandler,Operations,2025-05-25,Inactive,Employee Record,2026-06-13 16:26:37.490699
+772,Laura Levine,IT,2024-08-12,Active,Employee Record,2026-06-13 16:26:37.490699
+773,Ashley Mcintyre,Marketing,2023-05-31,Active,Contract,2026-06-13 16:26:37.490699
+774,Patrick Figueroa,Marketing,2024-12-17,Active,Contract,2026-06-13 16:26:37.490699
+779,Christopher Chapman,Finance,2022-07-01,Active,Invoice,2026-06-13 16:26:37.490699
+780,Carmen Rivers,Sales,2024-08-22,Inactive,Invoice,2026-06-13 16:26:37.490699
+781,Daniel Martinez,Sales,2024-04-18,Active,Contract,2026-06-13 16:26:37.490699
+784,Joshua Santiago,HR,2023-06-29,Inactive,Payslip,2026-06-13 16:26:37.490699
+785,Wendy Swanson,Marketing,2026-01-18,Inactive,NDA,2026-06-13 16:26:37.490699
+786,Vanessa Ingram,Finance,2021-08-14,Active,NDA,2026-06-13 16:26:37.490699
+788,Erik Jones,Sales,2024-04-23,Active,Employee Record,2026-06-13 16:26:37.490699
+790,Donald Vaughn,HR,2024-09-27,Inactive,NDA,2026-06-13 16:26:37.490699
+791,Amy Nelson,Sales,2024-05-21,Active,Payslip,2026-06-13 16:26:37.490699
+792,Stacey Brown,IT,2023-04-20,Inactive,NDA,2026-06-13 16:26:37.490699
+793,Debra Medina,Finance,2025-05-26,Inactive,Employee Record,2026-06-13 16:26:37.490699
+795,Jacob Shaw,Finance,2022-03-07,Inactive,Contract,2026-06-13 16:26:37.490699
+796,Nancy Jensen,Sales,2024-03-13,Inactive,Employee Record,2026-06-13 16:26:37.490699
+798,Roy Mills,Marketing,2022-06-11,Active,Employee Record,2026-06-13 16:26:37.490699
+799,Jamie Harvey,Finance,2021-11-10,Active,Employee Record,2026-06-13 16:26:37.490699
+801,Billy Wells,IT,2024-06-27,Inactive,Contract,2026-06-13 16:26:37.490699
+802,Joe Powers,IT,2022-08-26,Inactive,NDA,2026-06-13 16:26:37.490699
+805,Kelly Pena,Finance,2024-12-13,Active,Employee Record,2026-06-13 16:26:37.490699
+809,Carol Serrano,IT,2026-01-07,Active,NDA,2026-06-13 16:26:37.490699
+810,Jane Mitchell,HR,2023-06-02,Active,Payslip,2026-06-13 16:26:37.490699
+812,Vincent Curry,Sales,2021-06-21,Inactive,Contract,2026-06-13 16:26:37.490699
+813,Jeffery Jones,Finance,2024-07-23,Inactive,Invoice,2026-06-13 16:26:37.490699
+814,Lisa Becker,Finance,2024-11-26,Active,NDA,2026-06-13 16:26:37.490699
+815,Frank Valdez,Finance,2026-02-04,Inactive,Invoice,2026-06-13 16:26:37.490699
+816,Gregory Hamilton,Sales,2025-12-27,Active,NDA,2026-06-13 16:26:37.490699
+819,Michael Eaton Jr.,Marketing,2025-02-03,Inactive,Contract,2026-06-13 16:26:37.490699
+821,Stephen Hayes,Marketing,2023-10-01,Inactive,Employee Record,2026-06-13 16:26:37.490699
+822,Mason Hayden,HR,2022-06-08,Inactive,Employee Record,2026-06-13 16:26:37.490699
+823,Chelsey Rogers,IT,2022-07-05,Active,Contract,2026-06-13 16:26:37.490699
+824,Stacey Cook,Sales,2024-03-17,Active,NDA,2026-06-13 16:26:37.490699
+830,Gina Bryant,IT,2022-02-15,Active,Contract,2026-06-13 16:26:37.490699
+831,Roger Jefferson,HR,2025-05-09,Active,NDA,2026-06-13 16:26:37.490699
+834,Rebecca Combs,Operations,2022-06-10,Active,Invoice,2026-06-13 16:26:37.490699
+836,Jennifer Williams,HR,2025-03-06,Inactive,Invoice,2026-06-13 16:26:37.490699
+837,Robert Gill,IT,2021-07-01,Inactive,Invoice,2026-06-13 16:26:37.490699
+841,Crystal Mack,HR,2023-04-10,Inactive,Employee Record,2026-06-13 16:26:37.490699
+842,Patrick Wise,Sales,2023-05-01,Active,Contract,2026-06-13 16:26:37.490699
+843,Emily Rivera,Sales,2024-02-02,Active,Contract,2026-06-13 16:26:37.490699
+844,Jessica Hurst,Finance,2025-05-20,Active,NDA,2026-06-13 16:26:37.490699
+846,James Webster,Sales,2024-07-23,Active,Contract,2026-06-13 16:26:37.490699
+847,Linda Leon,Finance,2023-08-01,Active,Invoice,2026-06-13 16:26:37.490699
+848,Samuel Davis,HR,2024-07-30,Active,Payslip,2026-06-13 16:26:37.490699
+850,Cynthia Holmes,IT,2022-09-14,Inactive,NDA,2026-06-13 16:26:37.490699
+851,Brenda Morales,Finance,2026-04-28,Active,Contract,2026-06-13 16:26:37.490699
+852,Christina Crawford,Sales,2022-06-04,Active,Invoice,2026-06-13 16:26:37.490699
+853,Tanya Ritter,HR,2023-08-31,Active,Employee Record,2026-06-13 16:26:37.490699
+854,Nathaniel Miller,Marketing,2022-08-16,Inactive,NDA,2026-06-13 16:26:37.490699
+855,Bryan Mcguire,Sales,2025-04-24,Inactive,NDA,2026-06-13 16:26:37.490699
+856,Frank Williams,IT,2022-11-27,Active,Contract,2026-06-13 16:26:37.490699
+857,Melissa Hodges,Finance,2023-11-14,Active,Invoice,2026-06-13 16:26:37.490699
+859,Charlene Thomas,Finance,2021-10-11,Active,Invoice,2026-06-13 16:26:37.490699
+861,Tara Charles,Operations,2024-06-10,Active,Employee Record,2026-06-13 16:26:37.490699
+864,Jerry Sims,Finance,2026-02-02,Inactive,Payslip,2026-06-13 16:26:37.490699
+867,Ernest Green,IT,2023-05-28,Active,Invoice,2026-06-13 16:26:37.490699
+868,Robert Brown,Marketing,2024-09-26,Active,Contract,2026-06-13 16:26:37.490699
+869,Nancy Johnston,Marketing,2025-06-29,Active,Contract,2026-06-13 16:26:37.490699
+870,Amanda Bernard,Sales,2022-11-20,Inactive,Contract,2026-06-13 16:26:37.490699
+871,Michael Hoffman,Sales,2024-08-03,Inactive,Contract,2026-06-13 16:26:37.490699
+872,Michelle Lamb,Sales,2023-07-08,Inactive,Contract,2026-06-13 16:26:37.490699
+874,Katie Jones,Marketing,2026-04-30,Active,Employee Record,2026-06-13 16:26:37.490699
+875,Maria Nguyen,IT,2022-10-08,Inactive,Contract,2026-06-13 16:26:37.490699
+878,Gail Price,HR,2023-09-03,Active,NDA,2026-06-13 16:26:37.490699
+880,Paul Rios,IT,2025-01-22,Inactive,Invoice,2026-06-13 16:26:37.490699
+881,Paige Thompson,Marketing,2022-08-15,Active,Contract,2026-06-13 16:26:37.490699
+882,Jack Saunders,IT,2022-05-17,Active,Contract,2026-06-13 16:26:37.490699
+884,Grant Moore,Marketing,2023-09-06,Inactive,Contract,2026-06-13 16:26:37.490699
+885,William Miller,Sales,2023-06-23,Active,Payslip,2026-06-13 16:26:37.490699
+889,Brittany Maddox,IT,2022-08-29,Inactive,NDA,2026-06-13 16:26:37.490699
+890,Christine Kelley,Operations,2022-10-19,Active,Employee Record,2026-06-13 16:26:37.490699
+891,Kaitlin Mckenzie,Finance,2024-05-18,Inactive,NDA,2026-06-13 16:26:37.490699
+892,Jonathan Santos IV,Marketing,2022-04-02,Active,Employee Record,2026-06-13 16:26:37.490699
+894,Francisco Potter,HR,2022-01-03,Active,Employee Record,2026-06-13 16:26:37.490699
+903,Charles Sandoval,HR,2025-11-15,Active,NDA,2026-06-13 16:26:37.490699
+904,Lindsay Howard,Finance,2022-05-25,Inactive,Contract,2026-06-13 16:26:37.490699
+905,Gordon Huber,Finance,2025-10-18,Active,Contract,2026-06-13 16:26:37.490699
+909,Sandra Maynard,HR,2025-07-09,Active,Contract,2026-06-13 16:26:37.490699
+910,Adam Townsend,Marketing,2022-08-29,Inactive,Invoice,2026-06-13 16:26:37.490699
+911,Terri Wiggins,Finance,2024-10-18,Inactive,Contract,2026-06-13 16:26:37.490699
+912,Stacy Lane,IT,2026-02-16,Inactive,Payslip,2026-06-13 16:26:37.490699
+916,Lisa Horn,Operations,2022-12-04,Inactive,Payslip,2026-06-13 16:26:37.490699
+917,Julie Santos,Marketing,2023-07-22,Inactive,Contract,2026-06-13 16:26:37.490699
+918,Anthony Blair,IT,2022-06-06,Active,NDA,2026-06-13 16:26:37.490699
+919,Kenneth Simpson,Operations,2024-06-21,Inactive,Employee Record,2026-06-13 16:26:37.490699
+921,Luke Patel,IT,2025-02-08,Inactive,Payslip,2026-06-13 16:26:37.490699
+922,Mr. Jeremy Ellis,IT,2025-03-19,Inactive,NDA,2026-06-13 16:26:37.490699
+924,Jacob Francis,HR,2024-12-27,Inactive,Payslip,2026-06-13 16:26:37.490699
+925,Justin Wong,IT,2024-04-07,Active,NDA,2026-06-13 16:26:37.490699
+926,Chris Jones,Marketing,2024-05-11,Active,NDA,2026-06-13 16:26:37.490699
+927,Benjamin Moore,Marketing,2026-03-03,Inactive,Employee Record,2026-06-13 16:26:37.490699
+928,Kyle Wilson,Marketing,2025-07-13,Inactive,Contract,2026-06-13 16:26:37.490699
+930,Benjamin Stevens,Sales,2022-07-01,Active,NDA,2026-06-13 16:26:37.490699
+932,Erika Arnold,IT,2025-06-14,Inactive,Employee Record,2026-06-13 16:26:37.490699
+933,Jonathan Porter,Finance,2022-02-05,Inactive,NDA,2026-06-13 16:26:37.490699
+935,Taylor Ramos,Finance,2022-05-18,Inactive,NDA,2026-06-13 16:26:37.490699
+937,James Miller,HR,2021-12-23,Inactive,Contract,2026-06-13 16:26:37.490699
+938,John Christian,Marketing,2025-01-28,Inactive,Invoice,2026-06-13 16:26:37.490699
+939,Nicholas Hicks,IT,2023-07-13,Active,NDA,2026-06-13 16:26:37.490699
+940,Brian Burns,Operations,2024-11-10,Active,NDA,2026-06-13 16:26:37.490699
+941,James Villarreal,Finance,2023-10-18,Active,Employee Record,2026-06-13 16:26:37.490699
+944,Charles Harris,HR,2021-08-28,Active,Invoice,2026-06-13 16:26:37.490699
+945,Deborah Rivera,HR,2021-09-01,Inactive,NDA,2026-06-13 16:26:37.490699
+946,David Perez,Sales,2023-03-08,Inactive,Employee Record,2026-06-13 16:26:37.490699
+947,Angela Pennington,Marketing,2025-10-24,Inactive,NDA,2026-06-13 16:26:37.490699
+948,Joseph Marshall,HR,2023-04-26,Active,Employee Record,2026-06-13 16:26:37.490699
+949,Kathy Johnson,HR,2024-04-03,Inactive,Payslip,2026-06-13 16:26:37.490699
+951,Isaac Brown,HR,2023-06-29,Active,Invoice,2026-06-13 16:26:37.490699
+952,Stephanie Smith,Sales,2024-05-20,Inactive,Invoice,2026-06-13 16:26:37.490699
+953,Sherry Jenkins,Marketing,2024-07-30,Inactive,Invoice,2026-06-13 16:26:37.490699
+954,Richard Elliott,HR,2024-07-26,Inactive,Employee Record,2026-06-13 16:26:37.490699
+956,Virginia Holmes,HR,2023-02-19,Inactive,Employee Record,2026-06-13 16:26:37.490699
+957,John Mcconnell,Marketing,2025-10-30,Active,Payslip,2026-06-13 16:26:37.490699
+958,Erin Shannon,Operations,2021-06-28,Inactive,Invoice,2026-06-13 16:26:37.490699
+959,Vanessa Marquez,Marketing,2024-12-30,Active,Employee Record,2026-06-13 16:26:37.490699
+960,Marie Harris,Sales,2025-08-11,Active,Contract,2026-06-13 16:26:37.490699
+961,Emily White,HR,2025-08-21,Active,Invoice,2026-06-13 16:26:37.490699
+963,Sarah Hamilton,Operations,2024-03-10,Inactive,Payslip,2026-06-13 16:26:37.490699
+964,Matthew Torres,Marketing,2022-06-24,Inactive,Employee Record,2026-06-13 16:26:37.490699
+965,Maria Griffin,Operations,2025-01-31,Active,Contract,2026-06-13 16:26:37.490699
+966,Stephanie Wang,HR,2022-12-23,Active,Employee Record,2026-06-13 16:26:37.490699
+967,Ashley Bowen,Operations,2024-09-30,Inactive,Employee Record,2026-06-13 16:26:37.490699
+968,Jason Cooper,Operations,2025-03-10,Inactive,Payslip,2026-06-13 16:26:37.490699
+969,Valerie Hernandez,IT,2025-02-03,Active,Payslip,2026-06-13 16:26:37.490699
+970,Sara Kim,Marketing,2024-10-19,Active,Payslip,2026-06-13 16:26:37.490699
+973,Douglas Rose,Finance,2024-10-19,Inactive,Contract,2026-06-13 16:26:37.490699
+976,Michael Fernandez,Marketing,2024-04-28,Inactive,Invoice,2026-06-13 16:26:37.490699
+977,Maria Gould,Operations,2022-02-08,Active,Employee Record,2026-06-13 16:26:37.490699
+979,Mr. Brent Brady,HR,2025-10-08,Active,Payslip,2026-06-13 16:26:37.490699
+980,Erica Lucas,Operations,2023-12-17,Inactive,Contract,2026-06-13 16:26:37.490699
+981,Tiffany Archer,IT,2023-12-13,Active,NDA,2026-06-13 16:26:37.490699
+987,Daniel Arnold,Operations,2022-04-16,Inactive,NDA,2026-06-13 16:26:37.490699
+988,Glenda Day,Operations,2023-06-04,Inactive,NDA,2026-06-13 16:26:37.490699
+989,Mitchell Jackson,Operations,2026-05-17,Active,Contract,2026-06-13 16:26:37.490699
+990,Tanner Rodriguez,Finance,2024-03-24,Inactive,Employee Record,2026-06-13 16:26:37.490699
+991,Makayla Nguyen,Operations,2024-05-02,Inactive,Payslip,2026-06-13 16:26:37.490699
+992,David Hanson,HR,2026-03-31,Inactive,Contract,2026-06-13 16:26:37.490699
+993,Christopher Osborne,Operations,2023-01-03,Active,Invoice,2026-06-13 16:26:37.490699
+995,Kristina Moore,Marketing,2024-06-15,Inactive,Payslip,2026-06-13 16:26:37.490699
+999,Frederick Richardson,IT,2021-09-26,Inactive,Contract,2026-06-13 16:26:37.490699
+1000,Joseph Bradford,Operations,2022-03-18,Inactive,NDA,2026-06-13 16:26:37.490699
+1002,Erika Alvarez,IT,2022-11-10,Inactive,Payslip,2026-06-13 16:26:37.490699
+1004,Selena Hunt,Operations,2023-06-26,Active,Invoice,2026-06-13 16:26:37.490699
+1006,Alexandria Williams,Sales,2024-04-09,Active,NDA,2026-06-13 16:26:37.490699
+1007,Clayton Williams,Marketing,2024-09-05,Active,Employee Record,2026-06-13 16:26:37.490699
+1008,Aaron Juarez,Finance,2022-01-30,Active,Employee Record,2026-06-13 16:26:37.490699
+1009,Danielle Benton,HR,2023-07-16,Active,NDA,2026-06-13 16:26:37.490699
+1010,John Simmons,IT,2026-01-10,Active,NDA,2026-06-13 16:26:37.490699
+1011,Sarah Garner,HR,2021-10-06,Active,Invoice,2026-06-13 16:26:37.490699
+1012,Nicole Harris,Finance,2022-11-20,Inactive,Employee Record,2026-06-13 16:26:37.490699
+1013,Kristen Smith,HR,2023-07-04,Inactive,Payslip,2026-06-13 16:26:37.490699
+1014,Madison Stanley,Sales,2025-09-20,Inactive,Contract,2026-06-13 16:26:37.490699
+1016,Andrew Hall,Marketing,2022-06-11,Inactive,Payslip,2026-06-13 16:26:37.490699
+1018,Joshua Pineda,Sales,2021-08-15,Active,NDA,2026-06-13 16:26:37.490699
+1020,Megan Valdez,Operations,2026-04-18,Active,Payslip,2026-06-13 16:26:37.490699
+1021,Bruce Meyers,Sales,2023-03-29,Inactive,Employee Record,2026-06-13 16:26:37.490699
+1022,Anna Aguilar,Operations,2025-10-18,Active,Contract,2026-06-13 16:26:37.490699
+1023,Derrick Hampton,Sales,2026-04-06,Inactive,NDA,2026-06-13 16:26:37.490699
+1024,Mark Zhang,Sales,2022-07-19,Active,Payslip,2026-06-13 16:26:37.490699
+1027,Hunter Clark,Operations,2023-06-29,Active,Employee Record,2026-06-13 16:26:37.490699
+1028,Linda Rivera,HR,2026-01-27,Active,Invoice,2026-06-13 16:26:37.490699
+1029,Anna Smith,HR,2021-11-15,Active,Contract,2026-06-13 16:26:37.490699
+1030,David Simpson,Marketing,2021-11-19,Inactive,NDA,2026-06-13 16:26:37.490699
+1040,Diana Newton,Operations,2025-08-22,Inactive,Invoice,2026-06-13 16:26:37.490699
+1041,Christopher Dawson,Marketing,2024-06-05,Inactive,Invoice,2026-06-13 16:26:37.490699
+1042,Mrs. Lisa Petersen,Marketing,2024-12-05,Active,NDA,2026-06-13 16:26:37.490699
+1047,Isaac Daniels,IT,2026-01-20,Active,Invoice,2026-06-13 16:26:37.490699
+1049,Megan Richardson,Sales,2022-01-07,Inactive,NDA,2026-06-13 16:26:37.490699
+1052,Gregory Ramirez,Operations,2022-06-20,Inactive,Employee Record,2026-06-13 16:26:37.490699
+1054,Scott Miller,IT,2025-04-01,Inactive,NDA,2026-06-13 16:26:37.490699
+1055,Brittney Faulkner,IT,2023-01-10,Inactive,Payslip,2026-06-13 16:26:37.490699
+1057,Ryan Moore,Marketing,2025-10-21,Active,NDA,2026-06-13 16:26:37.490699
+1058,Thomas Wilson,Finance,2024-02-17,Active,Invoice,2026-06-13 16:26:37.490699
+1059,Cassandra Lucero,Marketing,2025-04-01,Inactive,NDA,2026-06-13 16:26:37.490699
+1061,Katherine Wood,Finance,2022-10-20,Active,NDA,2026-06-13 16:26:37.490699
+1063,Sarah Valdez,Operations,2024-08-14,Active,Contract,2026-06-13 16:26:37.490699
+1066,Leslie Hamilton,HR,2026-04-24,Inactive,Payslip,2026-06-13 16:26:37.490699
+1067,Steven Ward,Operations,2023-10-26,Inactive,Payslip,2026-06-13 16:26:37.490699
+1069,Richard Wagner,IT,2022-05-12,Active,Contract,2026-06-13 16:26:37.490699
+1070,Shannon Lewis,Finance,2026-01-02,Inactive,NDA,2026-06-13 16:26:37.490699
+1072,George Ray,Sales,2024-10-09,Inactive,Payslip,2026-06-13 16:26:37.490699
+1077,Clayton Floyd,Finance,2022-09-25,Active,Contract,2026-06-13 16:26:37.490699
+1081,Michael Yu,Operations,2025-11-24,Active,NDA,2026-06-13 16:26:37.490699
+1083,Scott Sampson,HR,2022-07-20,Active,Invoice,2026-06-13 16:26:37.490699
+1084,Deborah Zavala,Sales,2021-10-10,Active,Payslip,2026-06-13 16:26:37.490699
+1085,Jennifer Cunningham,Marketing,2025-03-25,Inactive,Contract,2026-06-13 16:26:37.490699
+1086,Daniel Brown,Marketing,2024-01-23,Active,NDA,2026-06-13 16:26:37.490699
+1087,Anthony Sanders,Sales,2022-08-19,Active,Contract,2026-06-13 16:26:37.490699
+1089,Ricky Koch,Sales,2023-06-16,Inactive,Payslip,2026-06-13 16:26:37.490699
+1091,James Moore,Operations,2023-04-09,Inactive,Contract,2026-06-13 16:26:37.490699
+1092,Cynthia Campbell,Marketing,2026-03-20,Inactive,Payslip,2026-06-13 16:26:37.490699
+1093,Deborah Terry,Operations,2023-12-10,Active,Invoice,2026-06-13 16:26:37.490699
+1094,Amber Johnson,Sales,2022-08-08,Inactive,Payslip,2026-06-13 16:26:37.490699
+1096,Matthew Fletcher,Marketing,2024-08-31,Active,NDA,2026-06-13 16:26:37.490699
+1099,Jeanette Evans,Sales,2023-11-16,Inactive,NDA,2026-06-13 16:26:37.490699
+1102,David Hanson,Sales,2023-11-05,Active,Employee Record,2026-06-13 16:26:37.490699
+1104,Howard Johnson,Finance,2023-09-09,Inactive,Contract,2026-06-13 16:26:37.490699
+1105,Robin Garza,Finance,2023-10-01,Inactive,Contract,2026-06-13 16:26:37.490699
+1107,David Frederick,IT,2025-01-09,Active,Payslip,2026-06-13 16:26:37.490699
+1108,Amanda Turner,HR,2025-05-27,Active,Invoice,2026-06-13 16:26:37.490699
+1109,Jane Hernandez,Sales,2024-08-30,Inactive,Contract,2026-06-13 16:26:37.490699
+1110,Caitlin Stanton,HR,2025-08-14,Inactive,Payslip,2026-06-13 16:26:37.490699
+1111,Renee Garcia,HR,2026-05-06,Inactive,Employee Record,2026-06-13 16:26:37.490699
+1112,Christopher Miller,Operations,2021-10-25,Inactive,Invoice,2026-06-13 16:26:37.490699
+1116,Brittany Hudson,Marketing,2024-09-30,Active,Employee Record,2026-06-13 16:26:37.490699
+1117,Adam Potts,Marketing,2025-01-31,Inactive,Employee Record,2026-06-13 16:26:37.490699
+1118,Mrs. Jaime Harmon,IT,2024-11-21,Active,Employee Record,2026-06-13 16:26:37.490699
+1121,Meghan Johnson,HR,2022-04-25,Inactive,Payslip,2026-06-13 16:26:37.490699
+1122,Christopher Hurley,HR,2024-08-30,Active,NDA,2026-06-13 16:26:37.490699
+1123,Wanda Brown,IT,2026-02-01,Inactive,NDA,2026-06-13 16:26:37.490699
+1124,Michelle Bowman,IT,2024-10-30,Active,Employee Record,2026-06-13 16:26:37.490699
+1125,Cynthia Parrish,Sales,2025-09-05,Active,Payslip,2026-06-13 16:26:37.490699
+1126,Joyce Torres,Sales,2024-09-05,Inactive,Invoice,2026-06-13 16:26:37.490699
+1127,Russell Parsons,Operations,2023-07-08,Inactive,Employee Record,2026-06-13 16:26:37.490699
+1128,Barbara Ross,Marketing,2025-11-23,Inactive,Employee Record,2026-06-13 16:26:37.490699
+1131,Stephanie Smith,HR,2026-05-08,Inactive,Contract,2026-06-13 16:26:37.490699
+1132,Andrew Patel,Marketing,2021-11-11,Inactive,NDA,2026-06-13 16:26:37.490699
+1133,Mr. Steven Smith,HR,2021-07-08,Inactive,Invoice,2026-06-13 16:26:37.490699
+1141,Logan Thompson,Finance,2023-11-25,Inactive,Invoice,2026-06-13 16:26:37.490699
+1144,Gregory Bradshaw,Marketing,2025-09-28,Inactive,NDA,2026-06-13 16:26:37.490699
+1145,Annette Walton,Sales,2023-12-30,Inactive,Invoice,2026-06-13 16:26:37.490699
+1146,Chelsey Bishop,HR,2022-01-26,Active,NDA,2026-06-13 16:26:37.490699
+1147,Laura Welch,Sales,2021-09-17,Active,Invoice,2026-06-13 16:26:37.490699
+1148,Adrienne Mejia,HR,2024-06-24,Active,NDA,2026-06-13 16:26:37.490699
+1151,Michele Stevenson,HR,2025-05-07,Inactive,Payslip,2026-06-13 16:26:37.490699
+1152,Michelle Banks,Sales,2024-04-06,Inactive,Contract,2026-06-13 16:26:37.490699
+1154,Karen Wilkins,Operations,2022-12-09,Inactive,NDA,2026-06-13 16:26:37.490699
+1156,Kimberly Walker,HR,2023-09-05,Active,Contract,2026-06-13 16:26:37.490699
+1158,Kayla Steele,HR,2021-11-19,Inactive,NDA,2026-06-13 16:26:37.490699
+1159,David Williams,IT,2021-12-15,Inactive,Contract,2026-06-13 16:26:37.490699
+1161,Tiffany Alvarez,Sales,2022-03-14,Inactive,Contract,2026-06-13 16:26:37.490699
+1162,Arthur Lynn,IT,2024-02-15,Active,Employee Record,2026-06-13 16:26:37.490699
+1166,Joanna Hart,Finance,2022-12-31,Inactive,NDA,2026-06-13 16:26:37.490699
+1167,Toni Harrington,Finance,2024-11-15,Inactive,Payslip,2026-06-13 16:26:37.490699
+1168,David Diaz,Sales,2022-02-14,Inactive,Invoice,2026-06-13 16:26:37.490699
+1171,Frank Ortiz,IT,2023-03-23,Active,NDA,2026-06-13 16:26:37.490699
+1175,Hector Freeman,Sales,2023-12-25,Inactive,NDA,2026-06-13 16:26:37.490699
+1178,Jessica Davis,Finance,2022-10-25,Active,Contract,2026-06-13 16:26:37.490699
+1179,Nathan Brown,Sales,2025-06-13,Active,Payslip,2026-06-13 16:26:37.490699
+1181,Jason Williams,Finance,2023-02-04,Inactive,Contract,2026-06-13 16:26:37.490699
+1185,Cassandra Griffith,Finance,2022-12-04,Inactive,Employee Record,2026-06-13 16:26:37.490699
+1187,Eddie Harrison,Sales,2024-03-15,Inactive,Invoice,2026-06-13 16:26:37.490699
+1188,Joseph Chen,IT,2023-08-23,Inactive,Payslip,2026-06-13 16:26:37.490699
+1195,Trevor Carter,Operations,2022-02-21,Inactive,Contract,2026-06-13 16:26:37.490699
+1201,Scott Morton,Sales,2022-02-26,Active,NDA,2026-06-13 16:26:37.490699
+1205,Jose Kelly,Operations,2021-08-21,Active,Invoice,2026-06-13 16:26:37.490699
+1206,Keith Baker,Operations,2025-03-26,Active,Employee Record,2026-06-13 16:26:37.490699
+1207,Nina Hoffman,HR,2021-08-19,Active,Payslip,2026-06-13 16:26:37.490699
+1209,John Yang,Operations,2024-11-19,Inactive,Payslip,2026-06-13 16:26:37.490699
+1212,Jennifer Best,Sales,2022-03-30,Active,Contract,2026-06-13 16:26:37.490699
+1214,Teresa Fields,Sales,2021-08-04,Active,Invoice,2026-06-13 16:26:37.490699
+1220,Stephanie Mendoza,Finance,2024-05-15,Inactive,Contract,2026-06-13 16:26:37.490699
+1221,Kristen Vega,Operations,2023-01-09,Active,Payslip,2026-06-13 16:26:37.490699
+1224,Marc Robinson,HR,2022-11-11,Active,Invoice,2026-06-13 16:26:37.490699
+1228,Tamara Clements,Operations,2026-01-04,Active,Contract,2026-06-13 16:26:37.490699
+1229,Victoria Young,Operations,2026-05-28,Inactive,NDA,2026-06-13 16:26:37.490699
+1230,Andrea Arnold,Finance,2021-12-24,Inactive,Invoice,2026-06-13 16:26:37.490699
+1234,Samantha Farmer,HR,2022-01-19,Active,Employee Record,2026-06-13 16:26:37.490699
+1236,Deborah Stark,Marketing,2023-06-27,Inactive,Employee Record,2026-06-13 16:26:37.490699
+1237,Kristin Murray,Finance,2024-03-01,Inactive,Invoice,2026-06-13 16:26:37.490699
+1238,Joshua Vega,Sales,2023-07-11,Inactive,NDA,2026-06-13 16:26:37.490699
+1239,Nicholas Lin,Marketing,2023-06-02,Inactive,Invoice,2026-06-13 16:26:37.490699
+1240,Todd Gonzalez,Marketing,2023-04-29,Active,Payslip,2026-06-13 16:26:37.490699
+1241,John Morse,Sales,2024-08-14,Active,Payslip,2026-06-13 16:26:37.490699
+1242,John Lewis,Marketing,2023-09-19,Active,NDA,2026-06-13 16:26:37.490699
+1243,Steven Thomas,Operations,2025-04-29,Active,Contract,2026-06-13 16:26:37.490699
+1248,Gordon Mcdonald,Operations,2025-02-26,Active,Contract,2026-06-13 16:26:37.490699
+1252,Dana Rodriguez,Finance,2024-06-10,Active,Contract,2026-06-13 16:26:37.490699
+1253,Sarah Peters,HR,2023-10-18,Inactive,Employee Record,2026-06-13 16:26:37.490699
+1254,Angela Jackson,Operations,2026-05-14,Inactive,Invoice,2026-06-13 16:26:37.490699
+1255,Dr. Monique Williams MD,Finance,2023-10-24,Inactive,Invoice,2026-06-13 16:26:37.490699
+1257,Lisa Mitchell,Marketing,2025-05-21,Active,Payslip,2026-06-13 16:26:37.490699
+1258,Timothy Knight,Operations,2022-01-13,Active,NDA,2026-06-13 16:26:37.490699
+1262,Jacob Berger,Marketing,2021-08-20,Inactive,Payslip,2026-06-13 16:26:37.490699
+1265,Steven Jones,Finance,2024-11-08,Inactive,Payslip,2026-06-13 16:26:37.490699
+1266,Rachel Bowers,Sales,2021-08-07,Inactive,NDA,2026-06-13 16:26:37.490699
+1269,Michael Terry,HR,2022-04-30,Active,NDA,2026-06-13 16:26:37.490699
+1273,Dana Stewart,Finance,2025-01-31,Active,Contract,2026-06-13 16:26:37.490699
+1275,Brandon Perkins,IT,2026-01-30,Active,Invoice,2026-06-13 16:26:37.490699
+1277,Brandon Terrell Jr.,HR,2024-09-13,Inactive,Invoice,2026-06-13 16:26:37.490699
+1278,Tony Pena,IT,2025-05-01,Active,Employee Record,2026-06-13 16:26:37.490699
+1279,Chad Cameron,Sales,2025-01-20,Active,Contract,2026-06-13 16:26:37.490699
+1286,William Barry,Finance,2022-07-29,Inactive,NDA,2026-06-13 16:26:37.490699
+1287,Erin Wheeler,IT,2023-12-20,Inactive,Employee Record,2026-06-13 16:26:37.490699
+1290,Jordan Hernandez,Operations,2023-02-08,Inactive,NDA,2026-06-13 16:26:37.490699
+1292,Sergio Rowland,IT,2024-03-13,Active,NDA,2026-06-13 16:26:37.490699
+1299,Kimberly Hendrix,HR,2023-02-10,Inactive,Contract,2026-06-13 16:26:37.490699
+1302,Dr. Robert Hicks,IT,2022-02-10,Inactive,NDA,2026-06-13 16:26:37.490699
+1306,Mark Hanson,Finance,2026-03-13,Inactive,NDA,2026-06-13 16:26:37.490699
+1307,Melissa Saunders,Finance,2024-11-22,Active,Invoice,2026-06-13 16:26:37.490699
+1308,Timothy Randolph,Sales,2023-11-03,Active,NDA,2026-06-13 16:26:37.490699
+1311,John Rivera,Operations,2025-05-29,Active,Payslip,2026-06-13 16:26:37.490699
+1312,John Wilson,Sales,2025-12-25,Active,NDA,2026-06-13 16:26:37.490699
+1313,Crystal Santos,Finance,2024-03-15,Inactive,NDA,2026-06-13 16:26:37.490699
+1314,Kristina Meza,Finance,2021-10-24,Active,Invoice,2026-06-13 16:26:37.490699
+1315,Melissa Martinez,Operations,2022-03-19,Inactive,Payslip,2026-06-13 16:26:37.490699
+1316,Daniel Moore,Finance,2024-11-20,Active,Invoice,2026-06-13 16:26:37.490699
+1317,Neil Wolfe,Marketing,2021-12-23,Active,Invoice,2026-06-13 16:26:37.490699
+1322,Amanda Mccarty,HR,2023-08-27,Active,NDA,2026-06-13 16:26:37.490699
+1323,Nicholas Little,Sales,2022-07-14,Inactive,Invoice,2026-06-13 16:26:37.490699
+1325,Daniel Webster,HR,2026-04-12,Inactive,Contract,2026-06-13 16:26:37.490699
+1326,Jamie Miller,IT,2025-08-23,Active,NDA,2026-06-13 16:26:37.490699
+1327,Cynthia Burns,Finance,2024-05-14,Active,Contract,2026-06-13 16:26:37.490699
+1328,Martin Marks,Finance,2022-05-14,Inactive,Invoice,2026-06-13 16:26:37.490699
+1332,Cynthia Quinn,Marketing,2021-10-16,Active,Payslip,2026-06-13 16:26:37.490699
+1333,Scott Kramer,Finance,2022-04-24,Inactive,Contract,2026-06-13 16:26:37.490699
+1335,Vicki Martinez,IT,2024-10-17,Inactive,Payslip,2026-06-13 16:26:37.490699
+1337,Kathryn Stevens MD,Marketing,2025-07-17,Active,Invoice,2026-06-13 16:26:37.490699
+1340,Alexandra Stone,Finance,2024-08-03,Active,Contract,2026-06-13 16:26:37.490699
+1341,Anna Miller,HR,2025-02-07,Active,NDA,2026-06-13 16:26:37.490699
+1342,Dylan Bauer,Marketing,2021-06-27,Inactive,Employee Record,2026-06-13 16:26:37.490699
+1345,Vanessa Johnson,Finance,2022-05-11,Inactive,Contract,2026-06-13 16:26:37.490699
+1347,Brian Carter,Marketing,2024-07-03,Active,Payslip,2026-06-13 16:26:37.490699
+1352,Justin Young,Sales,2022-09-18,Inactive,Employee Record,2026-06-13 16:26:37.490699
+1355,Christine Reyes,Operations,2021-12-09,Inactive,Employee Record,2026-06-13 16:26:37.490699
+1356,Cameron Hill,IT,2024-03-17,Inactive,Invoice,2026-06-13 16:26:37.490699
+1357,Valerie Montoya,Sales,2023-03-20,Inactive,Invoice,2026-06-13 16:26:37.490699
+1360,Erica Brown,Sales,2022-10-01,Active,Employee Record,2026-06-13 16:26:37.490699
+1362,Jessica Hansen,Finance,2025-07-31,Inactive,NDA,2026-06-13 16:26:37.490699
+1364,Felicia Davidson,Operations,2024-01-05,Inactive,Invoice,2026-06-13 16:26:37.490699
+1365,Alan Rodriguez,Finance,2023-06-25,Inactive,Contract,2026-06-13 16:26:37.490699
+1368,Brian Weaver,IT,2026-05-19,Active,NDA,2026-06-13 16:26:37.490699
+1369,Gary Gomez,Finance,2026-05-22,Active,Invoice,2026-06-13 16:26:37.490699
+1370,Terry Thompson,IT,2023-01-23,Active,Invoice,2026-06-13 16:26:37.490699
+1371,Heather Obrien,IT,2023-10-05,Inactive,Payslip,2026-06-13 16:26:37.490699
+1374,Austin Avila,IT,2025-09-13,Active,Contract,2026-06-13 16:26:37.490699
+1376,Kelsey Lee,Finance,2022-05-22,Inactive,Payslip,2026-06-13 16:26:37.490699
+1377,Matthew Berg,Finance,2022-06-23,Active,Payslip,2026-06-13 16:26:37.490699
+1379,Christian Shaffer,Marketing,2022-09-28,Inactive,Contract,2026-06-13 16:26:37.490699
+1380,Elizabeth Williams,Marketing,2025-01-14,Inactive,NDA,2026-06-13 16:26:37.490699
+1382,Kenneth Oconnor,IT,2023-02-17,Active,Payslip,2026-06-13 16:26:37.490699
+1383,Lynn Ward,Finance,2023-03-12,Inactive,Contract,2026-06-13 16:26:37.490699
+1384,Bryan Green,Sales,2025-12-14,Inactive,Contract,2026-06-13 16:26:37.490699
+1386,Kelly Davis,IT,2024-10-24,Inactive,Employee Record,2026-06-13 16:26:37.490699
+1388,Evan Matthews,Operations,2024-01-24,Active,Invoice,2026-06-13 16:26:37.490699
+1390,Michael Garcia,HR,2023-02-11,Inactive,NDA,2026-06-13 16:26:37.490699
+1394,Colleen Lopez,Sales,2025-05-09,Active,NDA,2026-06-13 16:26:37.490699
+1395,Michael Kelley,IT,2022-06-10,Active,Invoice,2026-06-13 16:26:37.490699
+1396,Mr. Dalton Munoz,IT,2021-08-16,Active,Contract,2026-06-13 16:26:37.490699
+1397,Stephanie Harvey,Finance,2023-10-14,Inactive,Contract,2026-06-13 16:26:37.490699
+1398,Kenneth Sampson,IT,2024-01-26,Inactive,Payslip,2026-06-13 16:26:37.490699
+1399,Samantha Richardson,HR,2025-10-10,Active,Contract,2026-06-13 16:26:37.490699
+1406,Christopher Bailey,Marketing,2024-11-19,Inactive,Contract,2026-06-13 16:26:37.490699
+1409,Sierra Ballard,Operations,2026-03-10,Active,Payslip,2026-06-13 16:26:37.490699
+1410,Susan Allen,Finance,2025-01-07,Inactive,Employee Record,2026-06-13 16:26:37.490699
+1411,Richard Ellis,Sales,2024-03-12,Inactive,Invoice,2026-06-13 16:26:37.490699
+1415,Elizabeth Perez,HR,2021-12-10,Active,Invoice,2026-06-13 16:26:37.490699
+1418,Dawn Schmidt,IT,2022-03-14,Inactive,Invoice,2026-06-13 16:26:37.490699
+1420,Thomas Daniels,IT,2025-03-15,Active,Payslip,2026-06-13 16:26:37.490699
+1421,Cassandra Mcclure,Finance,2022-08-06,Inactive,Employee Record,2026-06-13 16:26:37.490699
+1422,Lauren Robinson,Operations,2025-03-17,Active,NDA,2026-06-13 16:26:37.490699
+1424,Michael Fritz,Sales,2025-10-22,Inactive,Contract,2026-06-13 16:26:37.490699
+1426,Debbie Marshall,HR,2025-04-09,Active,Invoice,2026-06-13 16:26:37.490699
+1427,James Stanley,HR,2021-12-24,Active,Payslip,2026-06-13 16:26:37.490699
+1432,Sergio Ellis,Marketing,2025-10-17,Active,Payslip,2026-06-13 16:26:37.490699
+1433,Joseph Rice,Finance,2024-05-19,Inactive,Payslip,2026-06-13 16:26:37.490699
+1434,Matthew Payne,Marketing,2023-09-05,Inactive,Payslip,2026-06-13 16:26:37.490699
+1436,Ana Rodriguez,Sales,2022-05-11,Active,NDA,2026-06-13 16:26:37.490699
+1437,Adam Wright,Finance,2025-03-02,Active,Payslip,2026-06-13 16:26:37.490699
+1439,Tanya Clark,Marketing,2021-06-30,Inactive,Payslip,2026-06-13 16:26:37.490699
+1440,Blake Keller,IT,2026-05-18,Inactive,NDA,2026-06-13 16:26:37.490699
+1441,Robert Johnson,Operations,2024-11-26,Active,Contract,2026-06-13 16:26:37.490699
+1447,Kimberly Phillips,Marketing,2021-08-13,Inactive,Invoice,2026-06-13 16:26:37.490699
+1448,Matthew Kelly,Finance,2026-04-28,Active,Invoice,2026-06-13 16:26:37.490699
+1449,Taylor Baker,Operations,2023-12-06,Inactive,Employee Record,2026-06-13 16:26:37.490699
+1451,Lacey Bright,HR,2023-09-12,Active,Employee Record,2026-06-13 16:26:37.490699
+1452,Samantha Fletcher,HR,2022-05-07,Active,Payslip,2026-06-13 16:26:37.490699
+1455,Selena Hayes,Sales,2021-12-19,Inactive,Contract,2026-06-13 16:26:37.490699
+1456,Neil Perez,Sales,2022-04-08,Active,NDA,2026-06-13 16:26:37.490699
+1457,Andrea Vang,Operations,2024-04-06,Inactive,Employee Record,2026-06-13 16:26:37.490699
+1458,Dustin King Jr.,Sales,2025-04-14,Active,Invoice,2026-06-13 16:26:37.490699
+1459,Kimberly Shah,Finance,2025-06-30,Inactive,Payslip,2026-06-13 16:26:37.490699
+1460,Richard Gill,Finance,2022-02-21,Inactive,Invoice,2026-06-13 16:26:37.490699
+1461,Lynn Ross,IT,2023-05-29,Inactive,Invoice,2026-06-13 16:26:37.490699
+1464,Jenna Elliott,HR,2024-05-06,Inactive,Contract,2026-06-13 16:26:37.490699
+1465,Kenneth Hunt,Marketing,2021-06-21,Active,Employee Record,2026-06-13 16:26:37.490699
+1467,Frank Campbell,IT,2026-06-09,Active,Invoice,2026-06-13 16:26:37.490699
+1468,Dawn Graham,IT,2023-07-06,Inactive,NDA,2026-06-13 16:26:37.490699
+1469,Regina Hunt,HR,2022-10-02,Inactive,Employee Record,2026-06-13 16:26:37.490699
+1470,Kenneth Powers,Finance,2022-11-03,Active,Employee Record,2026-06-13 16:26:37.490699
+1471,Paige Moody,HR,2022-07-25,Active,Contract,2026-06-13 16:26:37.490699
+1475,Jennifer Martin,Operations,2022-07-10,Inactive,NDA,2026-06-13 16:26:37.490699
+1476,Stacey Yang,Finance,2021-11-18,Active,NDA,2026-06-13 16:26:37.490699
+1477,William Taylor,Sales,2021-11-11,Inactive,Contract,2026-06-13 16:26:37.490699
+1478,Sylvia Ramirez,Sales,2022-05-09,Inactive,Employee Record,2026-06-13 16:26:37.490699
+1479,James Schroeder,Finance,2022-09-11,Inactive,Payslip,2026-06-13 16:26:37.490699
+1480,Lauren Cox,Operations,2024-09-17,Active,NDA,2026-06-13 16:26:37.490699
+1482,Jessica Morris,Marketing,2024-04-18,Active,Contract,2026-06-13 16:26:37.490699
+1483,Andrew Martin,Sales,2025-01-04,Inactive,Invoice,2026-06-13 16:26:37.490699
+1484,Natalie Perez,HR,2022-02-21,Active,Invoice,2026-06-13 16:26:37.490699
+1485,Vanessa Little,IT,2025-02-10,Active,Payslip,2026-06-13 16:26:37.490699
+1486,Renee Holloway,HR,2022-11-26,Inactive,NDA,2026-06-13 16:26:37.490699
+1492,Robert Martin,Finance,2023-04-14,Inactive,Payslip,2026-06-13 16:26:37.490699
+1494,Amy Fuller,HR,2022-10-19,Active,Invoice,2026-06-13 16:26:37.490699
+1498,Sabrina Smith,Marketing,2026-03-21,Inactive,Employee Record,2026-06-13 16:26:37.490699
+1499,Seth Castillo,Finance,2025-04-29,Inactive,Invoice,2026-06-13 16:26:37.490699
+1500,Wesley Sutton,Marketing,2023-08-24,Active,Contract,2026-06-13 16:26:37.490699
+1501,Tiffany Hernandez,Marketing,2024-09-10,Active,Contract,2026-06-13 16:26:37.490699
+1504,Christopher Cobb,Marketing,2021-12-31,Inactive,Employee Record,2026-06-13 16:26:37.490699
+1506,Kevin Beck,Sales,2022-04-13,Inactive,Employee Record,2026-06-13 16:26:37.490699
+1508,Laura Williams,Marketing,2021-10-11,Inactive,Invoice,2026-06-13 16:26:37.490699
+1509,Charles Perez,IT,2024-11-20,Inactive,Payslip,2026-06-13 16:26:37.490699
+1510,John Peterson,Operations,2024-07-15,Inactive,Employee Record,2026-06-13 16:26:37.490699
+1512,Jessica Ferguson,Operations,2021-10-30,Inactive,NDA,2026-06-13 16:26:37.490699
+1513,Scott Cameron,Sales,2024-01-26,Active,Payslip,2026-06-13 16:26:37.490699
+1516,Rachel Wilson,Finance,2026-03-16,Inactive,Contract,2026-06-13 16:26:37.490699
+1517,Cynthia Perkins,Finance,2025-09-11,Active,Employee Record,2026-06-13 16:26:37.490699
+1518,Christian Peterson,Sales,2021-10-08,Active,NDA,2026-06-13 16:26:37.490699
+1519,Cindy Butler,Sales,2023-07-02,Active,Payslip,2026-06-13 16:26:37.490699
+1521,John Smith,IT,2021-10-13,Inactive,Invoice,2026-06-13 16:26:37.490699
+1522,Courtney Thompson,Marketing,2025-10-22,Inactive,Invoice,2026-06-13 16:26:37.490699
+1525,Joshua Riley,IT,2025-12-18,Inactive,NDA,2026-06-13 16:26:37.490699
+1526,Tiffany Gardner,HR,2025-03-26,Inactive,Payslip,2026-06-13 16:26:37.490699
+1528,Shelley Davis,Finance,2024-08-24,Inactive,Payslip,2026-06-13 16:26:37.490699
+1529,Justin Davila,Operations,2025-03-09,Active,Invoice,2026-06-13 16:26:37.490699
+1531,Ryan Buckley,Operations,2026-01-02,Active,Invoice,2026-06-13 16:26:37.490699
+1532,Tracy Rodgers,Marketing,2022-10-19,Inactive,Contract,2026-06-13 16:26:37.490699
+1534,Laurie Delgado,HR,2022-01-08,Inactive,Employee Record,2026-06-13 16:26:37.490699
+1538,Gregory Davis,Finance,2021-06-27,Inactive,Contract,2026-06-13 16:26:37.490699
+1544,Curtis Welch,IT,2022-02-09,Inactive,Payslip,2026-06-13 16:26:37.490699
+1545,Brian Barnett,HR,2023-01-11,Active,Payslip,2026-06-13 16:26:37.490699
+1546,Riley Soto,HR,2025-10-25,Inactive,Contract,2026-06-13 16:26:37.490699
+1550,Erin Holland,Finance,2026-04-09,Inactive,Invoice,2026-06-13 16:26:37.490699
+1552,Ashley Long,HR,2022-01-18,Active,Payslip,2026-06-13 16:26:37.490699
+1554,Michael Smith,Operations,2023-10-23,Inactive,Employee Record,2026-06-13 16:26:37.490699
+1556,Andrea Jacobson,Finance,2024-02-07,Inactive,NDA,2026-06-13 16:26:37.490699
+1558,Bethany Jones,IT,2022-01-27,Active,Employee Record,2026-06-13 16:26:37.490699
+1562,Jamie Williams,HR,2022-07-02,Inactive,Invoice,2026-06-13 16:26:37.490699
+1563,Erin Davis,HR,2025-10-22,Active,NDA,2026-06-13 16:26:37.490699
+1564,Angela Lynch,Finance,2025-09-19,Inactive,Contract,2026-06-13 16:26:37.490699
+1565,Johnny Brown,HR,2024-02-26,Inactive,Invoice,2026-06-13 16:26:37.490699
+1566,Johnny Zhang,Finance,2024-10-10,Inactive,NDA,2026-06-13 16:26:37.490699
+1568,Amanda Fowler,Finance,2023-01-12,Active,Invoice,2026-06-13 16:26:37.490699
+1570,Mary French,Finance,2025-01-27,Inactive,NDA,2026-06-13 16:26:37.490699
+1572,Angela Bowman,HR,2022-11-15,Active,Invoice,2026-06-13 16:26:37.490699
+1573,Michael Singh,Finance,2022-03-20,Inactive,NDA,2026-06-13 16:26:37.490699
+1574,Allen Maxwell,Sales,2021-08-24,Inactive,NDA,2026-06-13 16:26:37.490699
+1575,Jacob Reilly,HR,2023-11-09,Inactive,Invoice,2026-06-13 16:26:37.490699
+1576,Anthony Sanchez,HR,2024-08-21,Active,NDA,2026-06-13 16:26:37.490699
+1579,Ronald Solomon,Marketing,2026-04-16,Inactive,Payslip,2026-06-13 16:26:37.490699
+1580,Jason Henderson,Marketing,2023-05-20,Active,NDA,2026-06-13 16:26:37.490699
+1582,Amanda Martinez,Finance,2024-04-05,Inactive,Invoice,2026-06-13 16:26:37.490699
+1592,James Hansen,IT,2026-01-24,Active,Invoice,2026-06-13 16:26:37.490699
+1593,Christopher Rice,Finance,2025-03-27,Active,Payslip,2026-06-13 16:26:37.490699
+1595,Robert Tran,HR,2025-07-26,Active,Invoice,2026-06-13 16:26:37.490699
+1599,Samantha Bennett,HR,2021-06-24,Active,Payslip,2026-06-13 16:26:37.490699
+1600,Robin Johnson,Finance,2022-11-09,Inactive,Payslip,2026-06-13 16:26:37.490699
+1601,Tami Galvan,Sales,2022-07-10,Inactive,Payslip,2026-06-13 16:26:37.490699
+1603,Amy Cherry,IT,2022-09-22,Inactive,Invoice,2026-06-13 16:26:37.490699
+1604,Elizabeth Taylor,Operations,2022-12-08,Inactive,Payslip,2026-06-13 16:26:37.490699
+1605,Dustin Hicks,Finance,2023-12-22,Active,NDA,2026-06-13 16:26:37.490699
+1606,Nancy Snow,Sales,2022-03-08,Active,Employee Record,2026-06-13 16:26:37.490699
+1607,Patricia Hodges,HR,2024-03-30,Inactive,NDA,2026-06-13 16:26:37.490699
+1608,Robert Buckley,HR,2026-02-02,Inactive,NDA,2026-06-13 16:26:37.490699
+1609,Ann Keith,Sales,2021-12-22,Inactive,Contract,2026-06-13 16:26:37.490699
+1610,Justin Woods,Operations,2023-07-30,Active,Invoice,2026-06-13 16:26:37.490699
+1611,Sarah Thompson,Marketing,2022-05-17,Active,Invoice,2026-06-13 16:26:37.490699
+1616,Jimmy Newman,Marketing,2024-04-26,Active,Invoice,2026-06-13 16:26:37.490699
+1618,Billy Reyes,Marketing,2023-05-29,Inactive,Payslip,2026-06-13 16:26:37.490699
+1621,Daniel Lopez,Sales,2024-02-14,Inactive,NDA,2026-06-13 16:26:37.490699
+1622,Mr. Brian Williams,Sales,2022-05-27,Inactive,Payslip,2026-06-13 16:26:37.490699
+1623,Patricia Garcia,Marketing,2026-04-02,Active,NDA,2026-06-13 16:26:37.490699
+1625,Kathleen Franklin,Finance,2025-07-08,Active,Employee Record,2026-06-13 16:26:37.490699
+1627,Robert Campbell DDS,IT,2024-12-24,Inactive,Invoice,2026-06-13 16:26:37.490699
+1628,Emily Espinoza,Sales,2022-12-05,Inactive,Payslip,2026-06-13 16:26:37.490699
+1629,Melissa Warren,Sales,2021-12-16,Inactive,Invoice,2026-06-13 16:26:37.490699
+1632,Kenneth Stevens,IT,2023-08-15,Inactive,Payslip,2026-06-13 16:26:37.490699
+1633,John Wallace,HR,2026-02-26,Inactive,Invoice,2026-06-13 16:26:37.490699
+1636,Heidi Miller,HR,2022-08-24,Active,Payslip,2026-06-13 16:26:37.490699
+1637,Stephanie Golden,Sales,2023-12-23,Active,Employee Record,2026-06-13 16:26:37.490699
+1639,Kimberly Lam,Sales,2026-02-28,Inactive,Payslip,2026-06-13 16:26:37.490699
+1641,Matthew Silva,Sales,2022-08-31,Inactive,Invoice,2026-06-13 16:26:37.490699
+1644,Robert Huerta,Marketing,2025-04-14,Active,Contract,2026-06-13 16:26:37.490699
+1645,Clifford Lawson,Sales,2024-09-15,Inactive,NDA,2026-06-13 16:26:37.490699
+1647,Andrew Johnson,Marketing,2026-01-10,Inactive,NDA,2026-06-13 16:26:37.490699
+1649,Mary Jones,Finance,2026-03-06,Inactive,Contract,2026-06-13 16:26:37.490699
+1650,David Ward,IT,2022-01-15,Active,Contract,2026-06-13 16:26:37.490699
+1651,James Conrad,Operations,2023-02-16,Inactive,Invoice,2026-06-13 16:26:37.490699
+1656,Scott Gardner,HR,2023-09-22,Active,Payslip,2026-06-13 16:26:37.490699
+1657,Melody Carter,Operations,2024-02-15,Inactive,Invoice,2026-06-13 16:26:37.490699
+1660,Briana Wagner,HR,2025-11-16,Inactive,Employee Record,2026-06-13 16:26:37.490699
+1662,Sarah Cameron,Marketing,2023-12-31,Inactive,Contract,2026-06-13 16:26:37.490699
+1664,Keith Warren,Sales,2021-09-27,Inactive,Payslip,2026-06-13 16:26:37.490699
+1667,Christopher Ferguson,Operations,2022-08-06,Inactive,Invoice,2026-06-13 16:26:37.490699
+1668,Ashley Rocha,Finance,2023-12-17,Active,Payslip,2026-06-13 16:26:37.490699
+1669,Emily Roberson,Operations,2024-10-16,Active,Invoice,2026-06-13 16:26:37.490699
+1670,Justin West,Sales,2025-06-07,Inactive,Employee Record,2026-06-13 16:26:37.490699
+1671,Brian Mclean,Sales,2022-02-01,Inactive,Contract,2026-06-13 16:26:37.490699
+1673,Jordan Fisher,Finance,2025-10-20,Active,NDA,2026-06-13 16:26:37.490699
+1675,Michael Odonnell,IT,2023-05-16,Active,Invoice,2026-06-13 16:26:37.490699
+1677,Jessica Robinson,Marketing,2021-10-28,Active,Contract,2026-06-13 16:26:37.490699
+1678,Kathryn Wright,Marketing,2024-10-17,Inactive,Employee Record,2026-06-13 16:26:37.490699
+1679,David Marshall,Sales,2025-10-08,Inactive,NDA,2026-06-13 16:26:37.490699
+1680,Carolyn Abbott,Marketing,2026-01-18,Inactive,NDA,2026-06-13 16:26:37.490699
+1681,Shelley Cunningham,IT,2025-10-04,Active,Employee Record,2026-06-13 16:26:37.490699
+1684,Brittany Hayden,IT,2024-02-11,Active,NDA,2026-06-13 16:26:37.490699
+1685,Walter Gilbert,Operations,2025-11-09,Active,Invoice,2026-06-13 16:26:37.490699
+1689,Sandra Thompson,Operations,2023-08-29,Inactive,Contract,2026-06-13 16:26:37.490699
+1690,Donna Horn,Marketing,2023-08-14,Inactive,Invoice,2026-06-13 16:26:37.490699
+1691,Carrie Wolfe,Sales,2024-11-19,Inactive,Contract,2026-06-13 16:26:37.490699
+1692,Danny Terry,IT,2024-02-29,Active,Invoice,2026-06-13 16:26:37.490699
+1694,Bruce Kent,Marketing,2025-03-19,Active,Employee Record,2026-06-13 16:26:37.490699
+1701,Jose Jacobs,Operations,2021-12-30,Active,Contract,2026-06-13 16:26:37.490699
+1706,Anthony Chang MD,IT,2023-04-08,Inactive,Employee Record,2026-06-13 16:26:37.490699
+1708,Victoria White,Finance,2023-02-25,Active,Contract,2026-06-13 16:26:37.490699
+1709,Stephanie Moore,IT,2022-08-01,Inactive,Contract,2026-06-13 16:26:37.490699
+1711,Lisa Johnson,Sales,2025-09-23,Inactive,Employee Record,2026-06-13 16:26:37.490699
+1712,Leslie Griffin,Sales,2026-02-17,Inactive,Payslip,2026-06-13 16:26:37.490699
+1714,James Lopez,Operations,2025-10-26,Inactive,NDA,2026-06-13 16:26:37.490699
+1719,Jessica Hicks,IT,2026-06-09,Inactive,Employee Record,2026-06-13 16:26:37.490699
+1721,Shannon Taylor,Marketing,2026-02-09,Active,Employee Record,2026-06-13 16:26:37.490699
+1723,Latoya Schultz,IT,2021-07-29,Active,Contract,2026-06-13 16:26:37.490699
+1724,Donald Cox,HR,2025-02-19,Inactive,Employee Record,2026-06-13 16:26:37.490699
+1725,Angel Hill,Sales,2024-08-26,Active,Employee Record,2026-06-13 16:26:37.490699
+1726,Luke Perry,Marketing,2025-05-02,Inactive,Employee Record,2026-06-13 16:26:37.490699
+1727,Ann Zuniga,Marketing,2022-10-23,Active,Payslip,2026-06-13 16:26:37.490699
+1729,Pamela Griffin,HR,2022-08-10,Inactive,Contract,2026-06-13 16:26:37.490699
+1730,Andrew Kennedy DVM,Sales,2022-03-07,Active,Payslip,2026-06-13 16:26:37.490699
+1731,Heather Strickland,Operations,2025-08-27,Inactive,Contract,2026-06-13 16:26:37.490699
+1735,Anthony Adams,HR,2024-08-04,Active,Invoice,2026-06-13 16:26:37.490699
+1736,Jack Lopez,HR,2022-05-04,Inactive,Payslip,2026-06-13 16:26:37.490699
+1738,Lisa Miles,Sales,2025-12-24,Active,NDA,2026-06-13 16:26:37.490699
+1739,Corey Tanner,IT,2022-04-24,Active,NDA,2026-06-13 16:26:37.490699
+1740,Timothy Wood,Finance,2025-01-03,Inactive,Contract,2026-06-13 16:26:37.490699
+1743,Joseph Silva,Sales,2024-09-17,Inactive,Payslip,2026-06-13 16:26:37.490699
+1744,Cameron Guerrero,Finance,2024-07-02,Inactive,Payslip,2026-06-13 16:26:37.490699
+1745,Corey Turner,HR,2024-01-13,Inactive,Invoice,2026-06-13 16:26:37.490699
+1747,Theresa Perez,Sales,2024-03-30,Active,Invoice,2026-06-13 16:26:37.490699
+1748,Abigail Smith,Marketing,2023-10-23,Inactive,Contract,2026-06-13 16:26:37.490699
+1749,Amy Cole,Finance,2023-11-29,Active,Payslip,2026-06-13 16:26:37.490699
+1750,Marie Murphy,IT,2023-12-06,Inactive,Contract,2026-06-13 16:26:37.490699
+1751,Jonathan Parker,Finance,2025-07-08,Active,NDA,2026-06-13 16:26:37.490699
+1752,Alexandra Ball,HR,2025-03-03,Inactive,Employee Record,2026-06-13 16:26:37.490699
+1755,Justin Hudson,Finance,2023-09-30,Inactive,Invoice,2026-06-13 16:26:37.490699
+1756,Kelli Jones,Sales,2022-10-13,Inactive,Payslip,2026-06-13 16:26:37.490699
+1757,Wayne Sweeney,IT,2022-08-11,Inactive,Invoice,2026-06-13 16:26:37.490699
+1758,Dale Gray,Sales,2022-09-21,Inactive,Payslip,2026-06-13 16:26:37.490699
+1762,Hunter Leonard,Marketing,2024-01-29,Active,Contract,2026-06-13 16:26:37.490699
+1763,Brian Gray,IT,2021-09-12,Active,Invoice,2026-06-13 16:26:37.490699
+1764,Meghan Aguilar,IT,2023-01-16,Inactive,Contract,2026-06-13 16:26:37.490699
+1765,Ashley Brown,Sales,2021-11-25,Inactive,Contract,2026-06-13 16:26:37.490699
+1767,Melissa Brooks,IT,2021-07-14,Active,NDA,2026-06-13 16:26:37.490699
+1771,Russell Alexander,Finance,2025-07-09,Active,Employee Record,2026-06-13 16:26:37.490699
+1772,Samantha Charles,IT,2023-04-20,Inactive,Employee Record,2026-06-13 16:26:37.490699
+1773,Hunter Bradshaw,Finance,2025-12-29,Inactive,Employee Record,2026-06-13 16:26:37.490699
+1778,Scott Sanford,IT,2021-11-20,Inactive,NDA,2026-06-13 16:26:37.490699
+1779,Jeffrey Simpson,Sales,2026-02-18,Active,Employee Record,2026-06-13 16:26:37.490699
+1780,Peter Marshall,Sales,2024-10-25,Inactive,Payslip,2026-06-13 16:26:37.490699
+1783,Scott Alvarez,IT,2025-10-31,Active,Payslip,2026-06-13 16:26:37.490699
+1789,Julian Park,IT,2025-01-01,Active,Contract,2026-06-13 16:26:37.490699
+1791,Jessica Thompson,Marketing,2022-12-08,Inactive,Payslip,2026-06-13 16:26:37.490699
+1792,Earl Lozano,Sales,2022-07-22,Active,Invoice,2026-06-13 16:26:37.490699
+1795,Robert Roy,IT,2023-12-05,Active,Payslip,2026-06-13 16:26:37.490699
+1798,Pamela Roberson,HR,2024-06-12,Inactive,Payslip,2026-06-13 16:26:37.490699
+1800,Victoria Maldonado,HR,2021-12-23,Inactive,Employee Record,2026-06-13 16:26:37.490699
+1802,Samuel Perkins,IT,2022-07-28,Active,NDA,2026-06-13 16:26:37.490699
+1804,Elizabeth Wise,HR,2021-09-22,Inactive,Employee Record,2026-06-13 16:26:37.490699
+1805,Jenna Williams,HR,2024-08-30,Active,Invoice,2026-06-13 16:26:37.490699
+1806,Christina Kirby,Sales,2023-12-26,Inactive,Contract,2026-06-13 16:26:37.490699
+1807,Erin Carlson,Marketing,2022-09-12,Inactive,Payslip,2026-06-13 16:26:37.490699
+1808,Jesse Stevens,Sales,2025-08-05,Inactive,Payslip,2026-06-13 16:26:37.490699
+1809,Patrick Edwards MD,Sales,2022-05-19,Inactive,Payslip,2026-06-13 16:26:37.490699
+1811,Cassandra Lester,Finance,2023-08-23,Inactive,NDA,2026-06-13 16:26:37.490699
+1814,Kent Baldwin,HR,2026-05-07,Inactive,Contract,2026-06-13 16:26:37.490699
+1815,Edward Kelly,Marketing,2024-07-10,Active,Employee Record,2026-06-13 16:26:37.490699
+1816,Jessica Clark,IT,2025-02-02,Inactive,Payslip,2026-06-13 16:26:37.490699
+1817,Lori Johnson,Sales,2023-03-31,Active,Invoice,2026-06-13 16:26:37.490699
+1818,Miss Cynthia Cook,HR,2024-10-06,Active,NDA,2026-06-13 16:26:37.490699
+1820,Anita Bonilla,Marketing,2022-11-10,Active,Employee Record,2026-06-13 16:26:37.490699
+1824,Justin Arias,Finance,2024-11-14,Inactive,NDA,2026-06-13 16:26:37.490699
+1828,Vicki Li,IT,2023-03-14,Active,NDA,2026-06-13 16:26:37.490699
+1830,Madison Mason,Marketing,2026-03-29,Active,Invoice,2026-06-13 16:26:37.490699
+1832,Karen Webb,Marketing,2023-05-25,Active,Employee Record,2026-06-13 16:26:37.490699
+1834,Ronald Thomas,Marketing,2025-01-05,Inactive,Employee Record,2026-06-13 16:26:37.490699
+1835,Mrs. Jessica Gomez,HR,2023-05-19,Inactive,NDA,2026-06-13 16:26:37.490699
+1839,Ryan Palmer,Finance,2024-07-24,Active,Payslip,2026-06-13 16:26:37.490699
+1840,Ronald Trevino,Sales,2021-10-28,Inactive,NDA,2026-06-13 16:26:37.490699
+1845,Kelli Bender,Sales,2025-10-06,Active,Invoice,2026-06-13 16:26:37.490699
+1848,Nicholas Peterson,Finance,2022-12-05,Inactive,Invoice,2026-06-13 16:26:37.490699
+1849,Kevin Farmer,IT,2024-05-05,Inactive,Invoice,2026-06-13 16:26:37.490699
+1850,Ronald Miller,Sales,2022-10-26,Inactive,Payslip,2026-06-13 16:26:37.490699
+1851,Michael Schmidt,Finance,2022-05-19,Active,Invoice,2026-06-13 16:26:37.490699
+1852,Penny Webster,HR,2023-10-20,Active,Employee Record,2026-06-13 16:26:37.490699
+1854,Rachel Shaw,HR,2025-11-28,Inactive,Contract,2026-06-13 16:26:37.490699
+1855,Sarah Williams,HR,2021-10-10,Inactive,Employee Record,2026-06-13 16:26:37.490699
+1860,Tracey Garrett,Operations,2024-12-01,Active,Contract,2026-06-13 16:26:37.490699
+1862,Frank Powell,Sales,2025-04-23,Active,Payslip,2026-06-13 16:26:37.490699
+1863,Kristine White,Sales,2022-11-01,Active,Invoice,2026-06-13 16:26:37.490699
+1869,Michael Blankenship,Marketing,2025-01-28,Inactive,NDA,2026-06-13 16:26:37.490699
+1870,Marcus Robertson,HR,2025-03-01,Active,Contract,2026-06-13 16:26:37.490699
+1871,Stacey Walker,IT,2024-11-28,Active,Payslip,2026-06-13 16:26:37.490699
+1874,Joseph Allen,IT,2021-12-28,Inactive,Invoice,2026-06-13 16:26:37.490699
+1877,Sarah Morgan,IT,2023-09-11,Inactive,Payslip,2026-06-13 16:26:37.490699
+1878,Dennis Schneider,Sales,2026-05-14,Active,Invoice,2026-06-13 16:26:37.490699
+1879,Peter Stein,Finance,2025-10-20,Active,NDA,2026-06-13 16:26:37.490699
+1880,Thomas Sweeney,HR,2024-04-22,Inactive,Employee Record,2026-06-13 16:26:37.490699
+1885,Brandon Owens,Marketing,2024-09-07,Active,Invoice,2026-06-13 16:26:37.490699
+1886,Kimberly Hobbs,Finance,2023-09-11,Active,Contract,2026-06-13 16:26:37.490699
+1888,Dustin Jones,IT,2021-08-17,Active,Invoice,2026-06-13 16:26:37.490699
+1889,Melissa Ruiz,Sales,2024-05-10,Active,Payslip,2026-06-13 16:26:37.490699
+1890,Rebecca Escobar,Marketing,2025-06-11,Active,Contract,2026-06-13 16:26:37.490699
+1891,Trevor Villanueva,Operations,2026-01-06,Inactive,NDA,2026-06-13 16:26:37.490699
+1892,Mariah Valentine,Operations,2022-06-25,Active,NDA,2026-06-13 16:26:37.490699
+1894,John Perry MD,Marketing,2023-02-10,Active,Payslip,2026-06-13 16:26:37.490699
+1895,Jennifer Shea,Marketing,2024-07-02,Active,NDA,2026-06-13 16:26:37.490699
+1898,Stephanie Obrien,Marketing,2025-05-22,Active,Invoice,2026-06-13 16:26:37.490699
+1899,Crystal Robinson,Operations,2024-11-07,Inactive,Employee Record,2026-06-13 16:26:37.490699
+1902,Dana White,Finance,2026-04-26,Active,Contract,2026-06-13 16:26:37.490699
+1903,Shawn Rodriguez,HR,2022-03-14,Inactive,Contract,2026-06-13 16:26:37.490699
+1905,Paul Nichols,Operations,2025-12-09,Active,Contract,2026-06-13 16:26:37.490699
+1906,Wesley Andrews,IT,2021-08-13,Inactive,Contract,2026-06-13 16:26:37.490699
+1908,Matthew Phillips,Finance,2023-11-24,Active,Payslip,2026-06-13 16:26:37.490699
+1910,Ashley Roberts,Operations,2023-09-28,Inactive,Invoice,2026-06-13 16:26:37.490699
+1914,Thomas Schultz,Finance,2025-06-30,Inactive,NDA,2026-06-13 16:26:37.490699
+1916,Jonathon Kelley,Finance,2023-06-10,Active,Invoice,2026-06-13 16:26:37.490699
+1917,Rebecca Moore,Sales,2021-11-25,Inactive,Payslip,2026-06-13 16:26:37.490699
+1918,Justin Carey MD,Sales,2023-04-01,Inactive,Contract,2026-06-13 16:26:37.490699
+1922,Lisa White,Operations,2022-02-24,Active,Employee Record,2026-06-13 16:26:37.490699
+1924,Rebecca Sims,IT,2023-03-08,Inactive,Payslip,2026-06-13 16:26:37.490699
+1926,Anthony Joseph,Finance,2024-03-04,Inactive,Contract,2026-06-13 16:26:37.490699
+1927,Christina Brown,Finance,2021-08-06,Inactive,Employee Record,2026-06-13 16:26:37.490699
+1928,Patrick Calderon,IT,2023-08-22,Inactive,NDA,2026-06-13 16:26:37.490699
+1933,Destiny Davis,Operations,2024-01-31,Inactive,Contract,2026-06-13 16:26:37.490699
+1935,David Rios,Sales,2023-03-07,Active,NDA,2026-06-13 16:26:37.490699
+1940,Carlos Morgan,Finance,2025-10-28,Inactive,Contract,2026-06-13 16:26:37.490699
+1943,Daniel Stone,HR,2023-05-12,Active,Payslip,2026-06-13 16:26:37.490699
+1945,James Allen,Finance,2025-09-13,Inactive,NDA,2026-06-13 16:26:37.490699
+1948,Melvin Esparza,IT,2023-05-06,Inactive,NDA,2026-06-13 16:26:37.490699
+1949,Mr. Alan Osborne,IT,2022-04-05,Active,NDA,2026-06-13 16:26:37.490699
+1950,Adam Torres,Sales,2025-12-19,Active,Invoice,2026-06-13 16:26:37.490699
+1951,Gail Flowers,HR,2022-09-07,Active,Payslip,2026-06-13 16:26:37.490699
+1952,Jacob Flores,Operations,2023-11-26,Inactive,Employee Record,2026-06-13 16:26:37.490699
+1953,Jessica Miranda,Sales,2022-06-07,Active,Payslip,2026-06-13 16:26:37.490699
+1954,Thomas Trevino,Marketing,2023-07-10,Active,Payslip,2026-06-13 16:26:37.490699
+1955,Christina Lawrence MD,Finance,2024-05-10,Active,Payslip,2026-06-13 16:26:37.490699
+1957,William Taylor,HR,2025-01-22,Active,NDA,2026-06-13 16:26:37.490699
+1961,Larry Weaver,IT,2024-08-08,Active,Invoice,2026-06-13 16:26:37.490699
+1967,Cole Fry,IT,2024-01-31,Inactive,Employee Record,2026-06-13 16:26:37.490699
+1968,Teresa Ware,Sales,2022-12-10,Active,Employee Record,2026-06-13 16:26:37.490699
+1971,Steven Morales,Finance,2025-12-24,Active,Payslip,2026-06-13 16:26:37.490699
+1977,Ricky Munoz,Operations,2021-07-10,Active,Employee Record,2026-06-13 16:26:37.490699
+1978,Valerie Ballard,Operations,2022-11-26,Active,Payslip,2026-06-13 16:26:37.490699
+1983,James Armstrong,Marketing,2022-04-28,Active,Invoice,2026-06-13 16:26:37.490699
+1985,David Brown,Finance,2025-02-19,Active,NDA,2026-06-13 16:26:37.490699
+1986,Karl Hall,Finance,2025-06-25,Active,NDA,2026-06-13 16:26:37.490699
+1987,Russell Jones DDS,IT,2024-09-07,Inactive,Payslip,2026-06-13 16:26:37.490699
+1990,Nicole Nelson,Marketing,2021-10-01,Inactive,Invoice,2026-06-13 16:26:37.490699
+1993,Michael Love,Marketing,2022-05-20,Active,NDA,2026-06-13 16:26:37.490699
+1994,Daniel Holloway,Marketing,2025-02-28,Active,Employee Record,2026-06-13 16:26:37.490699
+1997,Jessica Baker,HR,2023-05-29,Inactive,Employee Record,2026-06-13 16:26:37.490699
+1999,Julia Stone,HR,2022-08-28,Inactive,Invoice,2026-06-13 16:26:37.490699
+2002,Austin Lee,Marketing,2024-05-25,Active,Employee Record,2026-06-13 16:26:37.490699
+2005,Tammy Estrada,Finance,2026-03-03,Active,Invoice,2026-06-13 16:26:37.490699
+2006,Melissa Bailey,IT,2025-10-09,Active,NDA,2026-06-13 16:26:37.490699
+2010,Randy Russell,Sales,2023-06-21,Inactive,Employee Record,2026-06-13 16:26:37.490699
+2011,Matthew Thomas,Finance,2022-10-24,Inactive,NDA,2026-06-13 16:26:37.490699
+2012,Tricia Sherman,Finance,2023-04-18,Inactive,Invoice,2026-06-13 16:26:37.490699
+2014,Timothy Maldonado,Sales,2023-02-25,Active,Employee Record,2026-06-13 16:26:37.490699
+2017,Shane Kim,IT,2026-05-24,Inactive,Invoice,2026-06-13 16:26:37.490699
+2019,Kari Little,Sales,2023-03-23,Active,Invoice,2026-06-13 16:26:37.490699
+2022,Maria Parker,HR,2024-07-10,Inactive,Contract,2026-06-13 16:26:37.490699
+2026,Susan Calhoun,Sales,2025-04-16,Active,Invoice,2026-06-13 16:26:37.490699
+2027,Paul Fischer,Marketing,2021-12-09,Active,Contract,2026-06-13 16:26:37.490699
+2029,Robin Zamora,Sales,2026-04-25,Inactive,Contract,2026-06-13 16:26:37.490699
+2030,Victoria Hall,IT,2022-12-03,Active,NDA,2026-06-13 16:26:37.490699
+2031,Zachary Hernandez,Sales,2025-09-22,Inactive,Payslip,2026-06-13 16:26:37.490699
+2032,William Mitchell,Finance,2021-11-10,Active,Invoice,2026-06-13 16:26:37.490699
+2033,Joyce Gill,Marketing,2025-05-21,Active,Invoice,2026-06-13 16:26:37.490699
+2035,Rebecca Turner,Finance,2025-07-04,Active,NDA,2026-06-13 16:26:37.490699
+2039,Kimberly Lucero,IT,2024-04-15,Inactive,Contract,2026-06-13 16:26:37.490699
+2040,Alex Mccoy,HR,2024-10-23,Active,Invoice,2026-06-13 16:26:37.490699
+2042,Crystal Roth,Operations,2024-05-06,Active,Contract,2026-06-13 16:26:37.490699
+2043,Nancy Roberts,HR,2022-12-30,Active,Employee Record,2026-06-13 16:26:37.490699
+2045,Wayne Rodgers,Sales,2023-12-25,Inactive,Payslip,2026-06-13 16:26:37.490699
+2046,Kayla Owens,Operations,2025-11-02,Active,Contract,2026-06-13 16:26:37.490699
+2049,Albert Klein,Sales,2025-11-12,Active,NDA,2026-06-13 16:26:37.490699
+2053,Helen Callahan,IT,2023-05-31,Active,NDA,2026-06-13 16:26:37.490699
+2054,Lisa Johnson,Sales,2022-07-01,Active,NDA,2026-06-13 16:26:37.490699
+2057,Julie Garner,Sales,2022-12-14,Inactive,NDA,2026-06-13 16:26:37.490699
+2059,Kevin Forbes,Operations,2026-01-09,Inactive,NDA,2026-06-13 16:26:37.490699
+2060,Evan Johnson,Finance,2025-11-27,Inactive,Contract,2026-06-13 16:26:37.490699
+2061,Jennifer Nelson,Finance,2024-04-01,Inactive,Employee Record,2026-06-13 16:26:37.490699
+2064,Rita Richardson,Operations,2022-07-02,Inactive,Invoice,2026-06-13 16:26:37.490699
+2065,Larry Strong,Operations,2023-04-22,Inactive,Payslip,2026-06-13 16:26:37.490699
+2066,Calvin Rivera,Marketing,2025-10-25,Active,Contract,2026-06-13 16:26:37.490699
+2067,Diana Chapman,IT,2023-05-30,Active,Payslip,2026-06-13 16:26:37.490699
+2068,Andrew Fowler,IT,2024-04-25,Inactive,Employee Record,2026-06-13 16:26:37.490699
+2070,Sandra Herrera,Marketing,2023-12-04,Active,Invoice,2026-06-13 16:26:37.490699
+2071,Susan Deleon,Operations,2025-03-28,Active,Payslip,2026-06-13 16:26:37.490699
+2072,George Flynn,Sales,2021-11-15,Active,Invoice,2026-06-13 16:26:37.490699
+2073,Michael Richards,Operations,2022-09-07,Inactive,Invoice,2026-06-13 16:26:37.490699
+2076,Brian Harrington,Sales,2025-05-02,Inactive,Contract,2026-06-13 16:26:37.490699
+2078,David Brown,Marketing,2023-03-28,Active,Invoice,2026-06-13 16:26:37.490699
+2080,Vincent Yu,Operations,2021-10-13,Inactive,Employee Record,2026-06-13 16:26:37.490699
+2083,Eric Gonzales,HR,2021-06-26,Inactive,Contract,2026-06-13 16:26:37.490699
+2086,Matthew Moreno,IT,2023-10-09,Inactive,Employee Record,2026-06-13 16:26:37.490699
+2087,Beverly Harris,Operations,2023-05-03,Inactive,Payslip,2026-06-13 16:26:37.490699
+2088,Mrs. Vickie Young,Sales,2023-07-28,Active,Employee Record,2026-06-13 16:26:37.490699
+2090,Denise Li,IT,2025-08-23,Inactive,Employee Record,2026-06-13 16:26:37.490699
+2091,Robert Jacobs,Marketing,2025-02-25,Inactive,Contract,2026-06-13 16:26:37.490699
+2092,Daniel Kramer,Marketing,2021-11-30,Active,NDA,2026-06-13 16:26:37.490699
+2093,Cassandra Meyers,HR,2022-09-15,Inactive,Payslip,2026-06-13 16:26:37.490699
+2100,Michael Russo,IT,2024-09-15,Active,Invoice,2026-06-13 16:26:37.490699
+2104,Mr. Joseph Matthews Jr.,Sales,2023-03-28,Active,Contract,2026-06-13 16:26:37.490699
+2106,Ryan Smith,HR,2022-03-02,Active,Invoice,2026-06-13 16:26:37.490699
+2107,Sandra Dodson MD,Marketing,2023-07-24,Active,Payslip,2026-06-13 16:26:37.490699
+2110,Benjamin Burnett,IT,2024-01-19,Active,Payslip,2026-06-13 16:26:37.490699
+2112,Ricardo Roman,Sales,2025-07-09,Inactive,Contract,2026-06-13 16:26:37.490699
+2114,Nancy Neal,Finance,2023-07-10,Active,Employee Record,2026-06-13 16:26:37.490699
+2118,Darrell Green,Operations,2023-05-27,Inactive,Employee Record,2026-06-13 16:26:37.490699
+2119,Thomas Sandoval,Marketing,2022-07-12,Active,Contract,2026-06-13 16:26:37.490699
+2120,Ashley Scott,Operations,2024-11-25,Active,Invoice,2026-06-13 16:26:37.490699
+2122,Kimberly Scott,Sales,2023-01-23,Active,Employee Record,2026-06-13 16:26:37.490699
+2123,Jennifer Grant,IT,2023-07-07,Inactive,Contract,2026-06-13 16:26:37.490699
+2127,Jennifer Williams,HR,2026-04-05,Inactive,Invoice,2026-06-13 16:26:37.490699
+2129,Jessica Williams,IT,2024-10-21,Inactive,Employee Record,2026-06-13 16:26:37.490699
+2130,Rachel Lewis,IT,2021-12-21,Active,Payslip,2026-06-13 16:26:37.490699
+2132,Christopher Adams,Operations,2024-12-11,Inactive,Invoice,2026-06-13 16:26:37.490699
+2133,Dr. Jennifer Hanson,IT,2024-01-14,Inactive,Employee Record,2026-06-13 16:26:37.490699
+2134,Angela Morgan,Finance,2022-07-26,Inactive,Contract,2026-06-13 16:26:37.490699
+2135,Laura Ball,Marketing,2024-01-03,Active,Contract,2026-06-13 16:26:37.490699
+2136,Cynthia Gordon,HR,2021-08-04,Inactive,Contract,2026-06-13 16:26:37.490699
+2141,Christina Patterson,IT,2025-09-18,Inactive,Invoice,2026-06-13 16:26:37.490699
+2142,Jacqueline Hopkins,IT,2024-09-24,Active,Employee Record,2026-06-13 16:26:37.490699
+2143,William Day,Finance,2025-10-05,Active,Employee Record,2026-06-13 16:26:37.490699
+2147,Renee Andrews,HR,2021-06-22,Inactive,Invoice,2026-06-13 16:26:37.490699
+2150,Emily Davis,Marketing,2025-04-11,Inactive,Employee Record,2026-06-13 16:26:37.490699
+2155,David Vazquez,HR,2024-10-03,Active,Invoice,2026-06-13 16:26:37.490699
+2156,Michael Evans,Sales,2025-07-27,Inactive,NDA,2026-06-13 16:26:37.490699
+2157,Emily Perry,Finance,2025-11-21,Inactive,Contract,2026-06-13 16:26:37.490699
+2161,Jennifer Anderson,HR,2025-09-27,Inactive,NDA,2026-06-13 16:26:37.490699
+2164,Victoria Chapman,IT,2025-12-19,Inactive,Payslip,2026-06-13 16:26:37.490699
+2167,Matthew Wagner,HR,2023-07-11,Active,Employee Record,2026-06-13 16:26:37.490699
+2168,Brian Hines,Finance,2024-04-22,Active,Contract,2026-06-13 16:26:37.490699
+2169,Matthew Caldwell,Operations,2024-11-20,Inactive,Invoice,2026-06-13 16:26:37.490699
+2170,Cindy Miranda,HR,2023-04-03,Active,NDA,2026-06-13 16:26:37.490699
+2171,Jessica Allen,IT,2026-06-10,Active,Payslip,2026-06-13 16:26:37.490699
+2173,Charles Thomas,Marketing,2023-05-14,Inactive,Payslip,2026-06-13 16:26:37.490699
+2174,Cody Richardson,IT,2026-02-04,Inactive,Contract,2026-06-13 16:26:37.490699
+2175,Margaret Young,Marketing,2023-08-04,Active,Invoice,2026-06-13 16:26:37.490699
+2176,Daniel Mendoza,Marketing,2025-08-12,Inactive,Payslip,2026-06-13 16:26:37.490699
+2178,Daniel Brown,Marketing,2022-11-25,Active,Contract,2026-06-13 16:26:37.490699
+2179,William Baker,Sales,2022-11-08,Active,Employee Record,2026-06-13 16:26:37.490699
+2181,David Warren,Operations,2025-03-21,Inactive,Contract,2026-06-13 16:26:37.490699
+2183,Mark Wood,Sales,2024-04-19,Active,Invoice,2026-06-13 16:26:37.490699
+2184,Danielle Woodard,Marketing,2023-05-31,Inactive,Invoice,2026-06-13 16:26:37.490699
+2185,Michelle Weaver,IT,2025-07-11,Inactive,Employee Record,2026-06-13 16:26:37.490699
+2187,Joshua Hancock,Finance,2024-08-28,Active,Payslip,2026-06-13 16:26:37.490699
+2188,Mary Sanders,Finance,2026-01-17,Active,Payslip,2026-06-13 16:26:37.490699
+2195,Lisa Pratt,Operations,2024-07-18,Active,Contract,2026-06-13 16:26:37.490699
+2198,Karen Brown,Operations,2025-12-03,Active,Payslip,2026-06-13 16:26:37.490699
+2201,Amy Davis,Marketing,2025-02-24,Active,Contract,2026-06-13 16:26:37.490699
+2202,Melissa Dean,HR,2026-06-04,Active,NDA,2026-06-13 16:26:37.490699
+2203,Nicholas Welch,IT,2023-10-17,Active,Employee Record,2026-06-13 16:26:37.490699
+2204,Stephanie Vasquez,Finance,2026-01-20,Active,Invoice,2026-06-13 16:26:37.490699
+2209,Andrew Harris,IT,2025-03-19,Active,NDA,2026-06-13 16:26:37.490699
+2210,Jeffrey Adams,Finance,2022-03-26,Inactive,NDA,2026-06-13 16:26:37.490699
+2212,Andrew Morales,IT,2022-09-27,Inactive,Contract,2026-06-13 16:26:37.490699
+2213,Melinda Robinson,Finance,2025-09-02,Inactive,Employee Record,2026-06-13 16:26:37.490699
+2214,Isaiah Carroll,Finance,2023-03-11,Active,Invoice,2026-06-13 16:26:37.490699
+2215,Kimberly Santana,HR,2024-01-31,Active,Employee Record,2026-06-13 16:26:37.490699
+2217,Kimberly Matthews,Operations,2023-09-25,Active,Employee Record,2026-06-13 16:26:37.490699
+2220,Elizabeth Wilson,Marketing,2022-01-05,Active,Contract,2026-06-13 16:26:37.490699
+2224,Joyce Turner,HR,2022-03-25,Active,Invoice,2026-06-13 16:26:37.490699
+2228,Ashley Anthony,Finance,2022-03-26,Active,NDA,2026-06-13 16:26:37.490699
+2229,David Gill,Operations,2025-05-12,Inactive,Employee Record,2026-06-13 16:26:37.490699
+2230,Claudia Barry,Operations,2022-08-15,Inactive,Payslip,2026-06-13 16:26:37.490699
+2234,Daniel Vargas,IT,2024-09-14,Inactive,Invoice,2026-06-13 16:26:37.490699
+2238,Kayla Osborne,Sales,2023-04-04,Active,NDA,2026-06-13 16:26:37.490699
+2242,Diane Hanson,Operations,2021-07-19,Inactive,Invoice,2026-06-13 16:26:37.490699
+2243,Ethan Jackson,Finance,2026-03-12,Inactive,Employee Record,2026-06-13 16:26:37.490699
+2244,Morgan Hernandez,IT,2023-05-01,Active,Invoice,2026-06-13 16:26:37.490699
+2249,Paul Erickson,HR,2023-11-24,Active,Invoice,2026-06-13 16:26:37.490699
+2250,Emily Keith,HR,2023-09-24,Inactive,Payslip,2026-06-13 16:26:37.490699
+2251,Lance Santana,IT,2022-05-31,Inactive,NDA,2026-06-13 16:26:37.490699
+2252,Melinda Patel,Sales,2026-01-30,Inactive,Contract,2026-06-13 16:26:37.490699
+2256,Joshua Alvarado,IT,2022-03-12,Active,NDA,2026-06-13 16:26:37.490699
+2258,Dr. Rhonda Monroe,HR,2022-12-25,Active,Employee Record,2026-06-13 16:26:37.490699
+2259,Justin Pena MD,Operations,2025-01-30,Inactive,Invoice,2026-06-13 16:26:37.490699
+2262,Michael Smith,Operations,2025-03-28,Active,Employee Record,2026-06-13 16:26:37.490699
+2263,Scott Patterson,Marketing,2025-08-09,Inactive,NDA,2026-06-13 16:26:37.490699
+2264,Kendra Griffin,Sales,2025-11-24,Inactive,NDA,2026-06-13 16:26:37.490699
+2266,Phyllis Hernandez,IT,2023-03-17,Inactive,Invoice,2026-06-13 16:26:37.490699
+2268,Adriana Gibson,Finance,2023-07-27,Active,Contract,2026-06-13 16:26:37.490699
+2269,Jacob Simpson,IT,2021-09-06,Active,Employee Record,2026-06-13 16:26:37.490699
+2271,Jacob Wolfe,HR,2023-04-02,Inactive,Employee Record,2026-06-13 16:26:37.490699
+2272,Tyler Ferguson,Sales,2025-04-25,Active,Invoice,2026-06-13 16:26:37.490699
+2273,Jerry Hernandez,Operations,2023-07-17,Inactive,Payslip,2026-06-13 16:26:37.490699
+2276,Michael Meyer,HR,2022-10-22,Inactive,NDA,2026-06-13 16:26:37.490699
+2278,Brooke Powell,IT,2024-01-28,Active,Payslip,2026-06-13 16:26:37.490699
+2279,Jeremy Mccormick,Operations,2023-09-18,Active,Employee Record,2026-06-13 16:26:37.490699
+2282,Cory Jones,Sales,2023-01-17,Active,Contract,2026-06-13 16:26:37.490699
+2283,Debbie Reyes,Marketing,2023-10-29,Inactive,NDA,2026-06-13 16:26:37.490699
+2287,Elizabeth Brown,Sales,2025-12-13,Inactive,NDA,2026-06-13 16:26:37.490699
+2289,Christopher Elliott,Finance,2026-05-25,Active,Contract,2026-06-13 16:26:37.490699
+2292,Krystal Kelly,Operations,2024-07-13,Active,NDA,2026-06-13 16:26:37.490699
+2293,Jordan Barron,HR,2023-03-01,Active,Payslip,2026-06-13 16:26:37.490699
+2294,Joseph Terry,Operations,2023-09-14,Active,Employee Record,2026-06-13 16:26:37.490699
+2295,Pamela Thomas,Sales,2023-01-11,Active,Employee Record,2026-06-13 16:26:37.490699
+2300,Gregory Harrison,Operations,2023-07-13,Active,NDA,2026-06-13 16:26:37.490699
+2301,Martha Snyder,Finance,2025-10-10,Inactive,NDA,2026-06-13 16:26:37.490699
+2303,Michelle Li,Sales,2023-02-25,Inactive,NDA,2026-06-13 16:26:37.490699
+2307,Jeffrey Coleman,Marketing,2026-05-18,Active,Payslip,2026-06-13 16:26:37.490699
+2308,Dr. Dean Farrell Jr.,IT,2023-04-20,Inactive,Payslip,2026-06-13 16:26:37.490699
+2309,Zachary Day Jr.,Finance,2025-11-02,Active,Payslip,2026-06-13 16:26:37.490699
+2315,Linda Thomas,Marketing,2025-05-10,Active,Invoice,2026-06-13 16:26:37.490699
+2316,James Moreno,IT,2022-01-25,Inactive,NDA,2026-06-13 16:26:37.490699
+2317,Dustin Johnson MD,IT,2024-09-29,Active,Invoice,2026-06-13 16:26:37.490699
+2318,Brian Ayers,Operations,2024-03-31,Active,Payslip,2026-06-13 16:26:37.490699
+2320,Jeff Mcgee,Operations,2022-08-24,Inactive,Employee Record,2026-06-13 16:26:37.490699
+2323,Mark Reed,Operations,2023-11-18,Active,Invoice,2026-06-13 16:26:37.490699
+2324,Clayton Perkins,Sales,2021-07-17,Active,Invoice,2026-06-13 16:26:37.490699
+2327,Andrea Baker,HR,2022-05-02,Inactive,Invoice,2026-06-13 16:26:37.490699
+2328,David Nelson,Marketing,2024-10-06,Inactive,NDA,2026-06-13 16:26:37.490699
+2329,Jessica Martin,Finance,2025-03-04,Active,Employee Record,2026-06-13 16:26:37.490699
+2330,Leslie Fisher,HR,2022-03-15,Active,Employee Record,2026-06-13 16:26:37.490699
+2331,Tonya Morton,Marketing,2025-06-14,Active,Payslip,2026-06-13 16:26:37.490699
+2332,Robert Small,IT,2025-04-23,Active,NDA,2026-06-13 16:26:37.490699
+2336,Joel Garcia,Operations,2023-08-03,Inactive,Payslip,2026-06-13 16:26:37.490699
+2338,John Fields,Sales,2025-12-01,Inactive,Employee Record,2026-06-13 16:26:37.490699
+2339,Yvonne Delacruz,IT,2025-09-05,Inactive,Employee Record,2026-06-13 16:26:37.490699
+2340,William Lopez,Sales,2024-04-09,Active,Employee Record,2026-06-13 16:26:37.490699
+2341,Donald Mccoy,Finance,2024-12-28,Active,Payslip,2026-06-13 16:26:37.490699
+2343,Aaron Cohen,Operations,2025-08-03,Active,Employee Record,2026-06-13 16:26:37.490699
+2346,Rebecca Fernandez,IT,2025-03-28,Inactive,Invoice,2026-06-13 16:26:37.490699
+2347,Matthew Hill,IT,2025-02-24,Inactive,Employee Record,2026-06-13 16:26:37.490699
+2351,Adam Foster PhD,HR,2024-01-27,Inactive,Invoice,2026-06-13 16:26:37.490699
+2352,Jamie Jordan,Operations,2025-06-14,Active,NDA,2026-06-13 16:26:37.490699
+2353,Denise Lopez,Finance,2025-09-01,Inactive,Payslip,2026-06-13 16:26:37.490699
+2356,Nicole Levy,Operations,2024-07-25,Inactive,Payslip,2026-06-13 16:26:37.490699
+2360,Kimberly Lopez,Sales,2025-03-10,Active,NDA,2026-06-13 16:26:37.490699
+2361,Spencer Gray Jr.,HR,2022-10-08,Active,NDA,2026-06-13 16:26:37.490699
+2363,Alison Houston,HR,2023-12-23,Active,Contract,2026-06-13 16:26:37.490699
+2364,Kristopher Yates,IT,2026-03-19,Active,Employee Record,2026-06-13 16:26:37.490699
+2365,Ann Smith,Operations,2026-01-10,Inactive,NDA,2026-06-13 16:26:37.490699
+2367,Richard Lambert,HR,2024-01-29,Inactive,NDA,2026-06-13 16:26:37.490699
+2369,Laura Beasley,IT,2021-09-21,Inactive,Payslip,2026-06-13 16:26:37.490699
+2371,Aaron Lewis,Sales,2023-08-01,Active,Employee Record,2026-06-13 16:26:37.490699
+2372,Julie Nichols,Operations,2025-09-28,Inactive,Contract,2026-06-13 16:26:37.490699
+2373,Dawn Garcia,Marketing,2023-03-09,Inactive,NDA,2026-06-13 16:26:37.490699
+2376,Robin Garcia,Sales,2024-11-01,Active,Contract,2026-06-13 16:26:37.490699
+2377,Brandon Aguilar,Sales,2022-03-04,Inactive,Payslip,2026-06-13 16:26:37.490699
+2384,David Kelley,Finance,2025-10-19,Active,Contract,2026-06-13 16:26:37.490699
+2385,Alyssa Willis,IT,2023-10-02,Inactive,Payslip,2026-06-13 16:26:37.490699
+2386,Timothy Nguyen,Marketing,2022-05-12,Inactive,Payslip,2026-06-13 16:26:37.490699
+2387,Autumn Torres,Marketing,2025-06-28,Inactive,NDA,2026-06-13 16:26:37.490699
+2390,Drew Miller,Marketing,2023-06-21,Inactive,NDA,2026-06-13 16:26:37.490699
+2391,Bradley Yang,HR,2026-04-24,Active,Contract,2026-06-13 16:26:37.490699
+2394,Kari Fisher,Operations,2025-04-09,Active,NDA,2026-06-13 16:26:37.490699
+2397,Angela Ford,IT,2023-08-30,Active,Payslip,2026-06-13 16:26:37.490699
+2398,Misty Brown,Marketing,2022-07-12,Active,Invoice,2026-06-13 16:26:37.490699
+2399,Thomas Burns,HR,2022-01-18,Active,NDA,2026-06-13 16:26:37.490699
+2400,Marissa Hamilton,Finance,2021-09-07,Inactive,Payslip,2026-06-13 16:26:37.490699
+2402,Chris Sanders,Marketing,2021-08-14,Active,Payslip,2026-06-13 16:26:37.490699
+2407,Vanessa Alexander,HR,2025-06-20,Active,NDA,2026-06-13 16:26:37.490699
+2408,Austin Harris,Sales,2023-11-13,Inactive,Invoice,2026-06-13 16:26:37.490699
+2409,Jennifer Matthews,Operations,2023-09-07,Active,NDA,2026-06-13 16:26:37.490699
+2412,Mark Allison,Operations,2025-02-11,Active,Contract,2026-06-13 16:26:37.490699
+2413,Jodi Richardson,Finance,2021-06-22,Active,Contract,2026-06-13 16:26:37.490699
+2416,Jacob Harrison,Marketing,2024-04-30,Inactive,Employee Record,2026-06-13 16:26:37.490699
+2420,Paul Johnston,Finance,2022-04-05,Active,Contract,2026-06-13 16:26:37.490699
+2423,Kayla Michael,HR,2025-12-23,Active,Payslip,2026-06-13 16:26:37.490699
+2425,Michael Benjamin,Sales,2024-08-12,Inactive,Payslip,2026-06-13 16:26:37.490699
+2429,Paula Massey,HR,2022-11-03,Active,Invoice,2026-06-13 16:26:37.490699
+2431,Natasha Smith,Sales,2021-10-04,Active,Employee Record,2026-06-13 16:26:37.490699
+2432,Andrew Kelly,IT,2025-10-07,Active,Invoice,2026-06-13 16:26:37.490699
+2433,Micheal Ross,IT,2024-02-01,Active,Invoice,2026-06-13 16:26:37.490699
+2434,John Fernandez,HR,2025-05-31,Active,NDA,2026-06-13 16:26:37.490699
+2436,Alexander Munoz,Finance,2021-06-26,Inactive,Employee Record,2026-06-13 16:26:37.490699
+2437,Terry Morales,Operations,2025-02-01,Active,Payslip,2026-06-13 16:26:37.490699
+2438,Ronnie Olson,Operations,2025-04-20,Inactive,NDA,2026-06-13 16:26:37.490699
+2443,Alicia Guerrero,HR,2025-06-06,Inactive,NDA,2026-06-13 16:26:37.490699
+2445,Candace Moore,Operations,2024-07-03,Inactive,Employee Record,2026-06-13 16:26:37.490699
+2446,Melissa Smith,Finance,2024-04-14,Inactive,Contract,2026-06-13 16:26:37.490699
+2450,Sabrina Murphy,IT,2023-08-16,Inactive,Invoice,2026-06-13 16:26:37.490699
+2461,Regina Freeman,IT,2025-04-08,Inactive,Contract,2026-06-13 16:26:37.490699
+2467,Robert Weaver,Finance,2023-06-05,Active,Invoice,2026-06-13 16:26:37.490699
+2468,Julia Smith,Finance,2023-11-25,Inactive,Invoice,2026-06-13 16:26:37.490699
+2470,Aaron Barber,Finance,2025-09-30,Active,Employee Record,2026-06-13 16:26:37.490699
+2471,Angelica Shea,Sales,2023-01-19,Active,Payslip,2026-06-13 16:26:37.490699
+2472,Sarah Baker,Finance,2026-05-19,Inactive,Payslip,2026-06-13 16:26:37.490699
+2474,Anne Burnett,Operations,2025-01-29,Active,Payslip,2026-06-13 16:26:37.490699
+2475,Sabrina Mccarthy,Sales,2026-03-12,Inactive,Payslip,2026-06-13 16:26:37.490699
+2478,Nicolas Miller,Marketing,2023-06-27,Inactive,Employee Record,2026-06-13 16:26:37.490699
+2479,Sandy Le,IT,2022-10-09,Active,NDA,2026-06-13 16:26:37.490699
+2480,Daniel Holland,Sales,2022-11-01,Active,Payslip,2026-06-13 16:26:37.490699
+2482,Angela Cooper,Operations,2023-05-23,Active,Payslip,2026-06-13 16:26:37.490699
+2484,Elizabeth Walker,Sales,2022-10-29,Active,Invoice,2026-06-13 16:26:37.490699
+2485,Jennifer Mason,Sales,2023-05-15,Inactive,Invoice,2026-06-13 16:26:37.490699
+2490,Bruce Jackson,Marketing,2021-06-14,Inactive,NDA,2026-06-13 16:26:37.490699
+2492,Frank Camacho,Finance,2022-11-04,Active,Invoice,2026-06-13 16:26:37.490699
+2493,Kayla Dixon,HR,2026-01-29,Active,Payslip,2026-06-13 16:26:37.490699
+2494,Lisa Diaz,Sales,2023-02-22,Active,Contract,2026-06-13 16:26:37.490699
+2495,Robert Brown,IT,2022-07-25,Active,Employee Record,2026-06-13 16:26:37.490699
+2496,Christopher Alexander,HR,2022-01-01,Active,Invoice,2026-06-13 16:26:37.490699
+2499,Andrew Phillips,Operations,2026-04-12,Active,Contract,2026-06-13 16:26:37.490699
