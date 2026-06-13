@@ -30,7 +30,8 @@ function DepartmentChart() {
 
   useEffect(() => {
     axios
-      .get("http://127.0.0.1:5000/api/department-stats")
+      .get(
+`${import.meta.env.VITE_API_URL}/api/department-stats`)
       .then((res) => {
         const labels = res.data.map((item) => item.department);
 

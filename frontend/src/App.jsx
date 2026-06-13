@@ -28,7 +28,8 @@ function App() {
 
   useEffect(() => {
     axios
-      .get("http://127.0.0.1:5000/api/stats")
+      .get(`${import.meta.env.VITE_API_URL}/api/stats`
+)
       .then((res) => {
         setStats(res.data);
       })
@@ -43,10 +44,11 @@ function App() {
   };
 
   const exportCsv = () =>
-    window.open("http://127.0.0.1:5000/api/export/csv");
+    window.open(`${import.meta.env.VITE_API_URL}/api/export/csv`);
 
   const exportExcel = () =>
-    window.open("http://127.0.0.1:5000/api/export/excel");
+    window.open(`${import.meta.env.VITE_API_URL}/api/export/excel`
+);
 
   const renderPage = () => {
     switch (activePage) {

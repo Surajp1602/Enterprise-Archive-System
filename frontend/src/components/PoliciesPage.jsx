@@ -16,7 +16,8 @@ function PoliciesPage() {
 
   useEffect(() => {
     axios
-      .get("http://127.0.0.1:5000/api/retention-policies")
+      .get(
+`${import.meta.env.VITE_API_URL}/api/retention-policies`)
       .then((res) => {
         setPolicies(res.data);
       })

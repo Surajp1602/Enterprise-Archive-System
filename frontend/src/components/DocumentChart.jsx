@@ -15,7 +15,8 @@ function DocumentChart() {
 
   useEffect(() => {
     axios
-      .get("http://127.0.0.1:5000/api/document-stats")
+      .get(
+`${import.meta.env.VITE_API_URL}/api/document-stats`)
       .then((res) => {
         const labels = res.data.map((item) => item.document_type);
 

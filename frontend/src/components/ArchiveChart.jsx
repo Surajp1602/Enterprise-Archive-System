@@ -15,7 +15,8 @@ function ArchiveChart() {
 
   useEffect(() => {
     axios
-      .get("http://127.0.0.1:5000/api/archive-comparison")
+      .get(
+`${import.meta.env.VITE_API_URL}/api/archive-comparison`)
       .then((res) => {
         setChartData({
           labels: ["Active Records", "Archived Records"],
