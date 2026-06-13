@@ -1,81 +1,84 @@
 import { useEffect, useState } from "react";
 import axios from "axios";
 
-import {
-  Chart as ChartJS,
-  ArcElement,
-  Tooltip,
-  Legend
-} from "chart.js";
+import { Chart as ChartJS, ArcElement, Tooltip, Legend } from "chart.js";
 
 import { Pie } from "react-chartjs-2";
 
-ChartJS.register(
-  ArcElement,
-  Tooltip,
-  Legend
-);
+ChartJS.register(ArcElement, Tooltip, Legend);
 
 function DocumentChart() {
-
   const [chartData, setChartData] = useState({
     labels: [],
-    datasets: []
+    datasets: [],
   });
 
   useEffect(() => {
-
     axios
       .get("http://127.0.0.1:5000/api/document-stats")
       .then((res) => {
+        const labels = res.data.map((item) => item.document_type);
 
-        console.log("Document Data:", res.data);
-
-        const labels = res.data.map(
-          item => item.document_type
-        );
-
-        const counts = res.data.map(
-          item => item.count
-        );
+        const counts = res.data.map((item) => item.count);
 
         setChartData({
           labels,
           datasets: [
-  {
-    label: "Documents",
-    data: counts,
-    backgroundColor: [
-      "#3B82F6",
-      "#10B981",
-      "#F59E0B",
-      "#EF4444",
-      "#8B5CF6"
-    ],
-    borderWidth: 1
-  }
-]
+            {
+              label: "Documents",
+              data: counts,
+              backgroundColor: [
+                "#2563eb",
+                "#15803d",
+                "#b45309",
+                "#6b6b6b",
+                "#0891b2",
+              ],
+              borderColor: "#ffffff",
+              borderWidth: 2,
+            },
+          ],
         });
-
       })
       .catch((err) => {
         console.error(err);
       });
-
   }, []);
 
   return (
-    <div
-      style={{
-        width: "500px",
-        margin: "40px auto"
-      }}
-    >
-      <h2 style={{ textAlign: "center" }}>
-        Document Type Distribution
-      </h2>
-
-      <Pie data={chartData} />
+    <div className="chart-box">
+      <Pie
+        data={chartData}
+        options={{
+          responsive: true,
+          maintainAspectRatio: false,
+          animation: {
+            animateRotate: true,
+            duration: 900,
+            easing: "easeOutQuart",
+          },
+          plugins: {
+            legend: {
+              position: "bottom",
+              labels: {
+                color: "#6b6b6b",
+                font: { family: "Inter", size: 11 },
+                boxWidth: 10,
+                boxHeight: 10,
+                padding: 12,
+                usePointStyle: true,
+              },
+            },
+            tooltip: {
+              backgroundColor: "#111111",
+              padding: 10,
+              cornerRadius: 8,
+              titleFont: { family: "Inter", size: 12 },
+              bodyFont: { family: "Inter", size: 12 },
+            },
+          },
+        }}
+      />
     </div>
   );
 }
