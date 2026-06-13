@@ -1,0 +1,2501 @@
+employee_name,department,joining_date,status,document_type
+Colleen Mckenzie,IT,2025-05-22,Active,NDA
+Nicholas Ortiz,IT,2022-10-30,Inactive,Employee Record
+Krystal Mitchell,Marketing,2022-11-06,Active,Contract
+Jessica Good,HR,2023-12-25,Active,Invoice
+Sandra Johnson,IT,2022-04-11,Inactive,Contract
+John Rollins,HR,2020-01-12,Active,Invoice
+Emily Armstrong,Marketing,2019-12-08,Inactive,NDA
+Andrew Jones,Operations,2020-12-19,Inactive,Contract
+Jeffrey Acosta,Operations,2018-09-10,Active,NDA
+Edward Wyatt,HR,2020-09-30,Inactive,NDA
+Kayla Humphrey,Finance,2021-02-21,Inactive,Employee Record
+Leslie Johnson,Sales,2021-10-16,Inactive,Contract
+Diana May,Marketing,2023-09-03,Inactive,Employee Record
+Matthew Clark,Sales,2025-04-26,Inactive,Invoice
+Troy Crawford,Sales,2022-07-27,Inactive,Invoice
+Billy Day,Sales,2020-02-12,Inactive,Employee Record
+Jose Simmons,Sales,2016-06-17,Active,Contract
+Lisa Chase,Finance,2020-11-02,Inactive,NDA
+Jamie Green,Marketing,2025-02-18,Inactive,Payslip
+Russell Roberts,Operations,2019-03-20,Active,Employee Record
+Tracey Lopez,IT,2017-12-04,Active,Invoice
+Robert Moore,IT,2019-05-15,Active,NDA
+Jacob Harrison,Marketing,2019-01-09,Active,Invoice
+Amanda Thornton,Marketing,2017-09-25,Active,Contract
+Tony Giles,Operations,2021-12-28,Active,Contract
+Carlos Brown,Finance,2025-06-09,Inactive,Payslip
+Sarah Conrad,Finance,2026-03-07,Inactive,Employee Record
+Jose Guzman,Operations,2018-09-26,Active,Contract
+Jeremy Jennings,Sales,2022-04-01,Inactive,Contract
+Michael Drake,Operations,2021-07-05,Inactive,Employee Record
+Michael Rose,Marketing,2020-11-23,Active,Invoice
+Benjamin Alvarado,Sales,2016-09-18,Inactive,Invoice
+Deanna Werner,Marketing,2021-10-14,Active,Contract
+Samantha Parker,IT,2023-06-27,Active,Invoice
+Tonya Tyler,Operations,2019-10-24,Inactive,Payslip
+Christine Aguilar,HR,2022-03-02,Active,Contract
+Marissa Smith,Operations,2022-03-14,Active,NDA
+Jennifer Williams,Operations,2025-08-16,Active,Employee Record
+Jeremy Frank,Marketing,2020-08-15,Inactive,Invoice
+Abigail Hill,Marketing,2019-04-16,Inactive,NDA
+Brooke Berg,Operations,2026-04-27,Inactive,Contract
+Sydney Williamson,Marketing,2022-05-06,Active,Contract
+Deanna Rivers,Operations,2018-12-18,Active,Contract
+Nicole Bush,IT,2017-09-06,Active,Payslip
+Devin Carter,Sales,2018-05-01,Inactive,Employee Record
+Richard Johnson MD,Sales,2023-04-02,Inactive,Invoice
+Kim Johnson,Operations,2022-04-07,Active,Contract
+Erica Sanchez MD,Operations,2023-03-31,Active,Invoice
+Jason Hill,Operations,2020-06-01,Active,Employee Record
+Joseph Campbell,Sales,2018-02-10,Inactive,Invoice
+Marco Murphy,Marketing,2021-10-13,Active,Contract
+Adrian Wright,Marketing,2020-02-12,Inactive,NDA
+Ryan Maynard,Marketing,2018-12-30,Inactive,Contract
+John Cunningham,Sales,2017-03-20,Active,Employee Record
+Nancy Martinez,IT,2021-02-13,Active,Invoice
+Nicholas Robinson,HR,2022-07-26,Inactive,Invoice
+Thomas Perez,Operations,2025-02-16,Inactive,Invoice
+Kendra Guzman,Sales,2020-10-06,Inactive,Contract
+Marissa Jones,Operations,2022-01-03,Inactive,Invoice
+Christopher Mendez,Finance,2022-03-01,Inactive,Contract
+Robin Rivera,Sales,2024-01-06,Inactive,Contract
+Jane Lewis,Marketing,2023-02-24,Inactive,Employee Record
+Jennifer Guzman,Operations,2024-02-04,Inactive,Payslip
+Glenn Goodman,Marketing,2020-05-27,Active,Invoice
+Nathaniel Lopez,Operations,2025-03-18,Inactive,Invoice
+Jason Rivera MD,Finance,2024-06-21,Inactive,Employee Record
+Jennifer Young,Marketing,2017-06-03,Active,Payslip
+Sarah Vincent,Operations,2025-10-03,Inactive,Contract
+Julie Roman,Operations,2018-10-24,Active,Employee Record
+Jacob Long,Sales,2019-04-01,Active,NDA
+Jason Pace,Sales,2019-06-13,Inactive,Employee Record
+Andres Trevino,HR,2018-03-10,Active,NDA
+Sean Clark,Marketing,2022-07-27,Inactive,Contract
+Julia Evans,Sales,2022-04-23,Active,NDA
+Henry Rice,IT,2019-04-12,Inactive,Employee Record
+Joshua Daniels,Operations,2024-10-26,Inactive,Payslip
+Heather White,Operations,2020-09-23,Active,Contract
+Daniel Ortiz MD,IT,2024-11-02,Active,NDA
+Kimberly Clark,Finance,2026-03-02,Inactive,Contract
+Carmen Simpson,Operations,2024-02-27,Active,Payslip
+Joanna Hawkins,IT,2022-02-28,Inactive,Invoice
+Karl Mckinney,Marketing,2018-06-25,Active,Contract
+Tyler Bush,Finance,2017-12-28,Inactive,Invoice
+Joshua Jenkins,Marketing,2023-02-07,Active,Employee Record
+Veronica Thompson,Operations,2022-11-07,Active,Contract
+Barbara Williams,IT,2021-02-05,Inactive,Contract
+Mary Jackson,Finance,2021-01-17,Inactive,Payslip
+Emily Jones,Sales,2022-01-26,Active,Contract
+Katie Roberts,HR,2022-03-22,Inactive,Payslip
+Juan Patterson,Finance,2025-05-02,Inactive,NDA
+Deborah Martinez,IT,2024-10-05,Active,Contract
+John Turner,Sales,2025-11-19,Inactive,NDA
+Sean Stewart,Marketing,2023-11-09,Inactive,Invoice
+Walter Lawson,HR,2022-02-20,Active,NDA
+Nicholas Maldonado,Finance,2020-04-28,Active,Contract
+Shannon Dawson,HR,2018-10-15,Inactive,Invoice
+Shannon Taylor,Finance,2023-03-04,Inactive,NDA
+Brandon Branch,HR,2018-01-06,Inactive,Payslip
+Terry Moran,HR,2019-08-21,Inactive,Payslip
+Edward Gonzalez,Finance,2022-05-12,Inactive,Contract
+Stacy Vega,Sales,2026-04-18,Inactive,Employee Record
+Thomas Medina,Finance,2025-06-06,Inactive,Invoice
+Charles Wallace,Finance,2017-01-07,Inactive,Invoice
+Colin Davis,Sales,2020-11-20,Active,Payslip
+Aaron Snow,Operations,2020-09-12,Inactive,Invoice
+Sean Miller,Finance,2019-04-09,Inactive,Employee Record
+Michael Brown,Marketing,2020-11-08,Active,NDA
+Robert White,Marketing,2021-01-01,Active,Payslip
+Patrick Clark,IT,2017-02-03,Inactive,Contract
+Brittany Snyder,IT,2018-12-13,Inactive,Contract
+Ryan Williamson,IT,2025-10-04,Inactive,Payslip
+Deborah Key,IT,2023-03-09,Inactive,Employee Record
+Felicia Ford,HR,2026-01-13,Inactive,Invoice
+John Harris,IT,2024-04-19,Active,Employee Record
+Mary House,IT,2018-04-14,Active,Invoice
+April Whitehead,IT,2023-09-09,Active,Payslip
+Philip Casey,Operations,2022-04-10,Active,NDA
+Michael Ray,Operations,2022-09-07,Inactive,NDA
+Jennifer White,Finance,2025-09-22,Inactive,Employee Record
+Heather Henderson,HR,2019-06-05,Inactive,Employee Record
+Tony Aguilar,HR,2020-01-30,Inactive,Invoice
+Adrian Webb,HR,2023-10-02,Inactive,Invoice
+Tyler Proctor,HR,2025-05-09,Inactive,Invoice
+Vanessa Kim,Finance,2023-03-15,Active,Employee Record
+Brittney Carr,IT,2022-04-25,Inactive,Employee Record
+Amanda Hoffman,IT,2020-12-21,Active,Payslip
+Antonio Blackburn,Finance,2017-04-10,Inactive,Contract
+Jonathan Clements,Operations,2018-01-15,Active,NDA
+Jared Rogers,Marketing,2019-01-08,Active,Payslip
+Melinda Day,Marketing,2016-07-28,Active,NDA
+James King,Finance,2020-08-18,Active,Contract
+Micheal Jones,IT,2019-01-09,Inactive,Contract
+Nicholas Swanson,Finance,2025-04-01,Inactive,Payslip
+Andrea Sullivan,Finance,2021-11-06,Inactive,Contract
+Stephen Lee,Operations,2016-08-18,Inactive,NDA
+Mr. John Anderson,IT,2022-12-09,Active,Contract
+Kenneth Mitchell,Sales,2022-09-15,Active,Invoice
+Julie Perry,Finance,2020-02-08,Inactive,Payslip
+Haley Anderson,Sales,2019-02-28,Active,Employee Record
+Kathleen Fleming,Marketing,2016-09-25,Inactive,NDA
+Ms. Joanna Hughes,HR,2020-03-05,Inactive,NDA
+Roberta Cabrera,Finance,2025-08-25,Inactive,Contract
+Derrick English,Operations,2021-12-12,Inactive,Invoice
+Patricia Fletcher,Operations,2024-07-30,Active,NDA
+Angel Hernandez,Marketing,2022-04-19,Active,Payslip
+Todd Parsons,Finance,2020-08-09,Active,Contract
+James Goodman,Sales,2026-03-09,Inactive,Contract
+Ms. Stephanie Martinez DDS,IT,2024-11-22,Inactive,Contract
+Cody Hurley,Marketing,2024-02-26,Active,Contract
+Connor Vazquez,Operations,2022-09-19,Inactive,Payslip
+Douglas Mata,Sales,2021-12-22,Active,Contract
+William King,HR,2026-05-15,Inactive,Invoice
+Melissa Dennis,Finance,2026-04-07,Active,Invoice
+David Larsen,Sales,2022-09-10,Active,NDA
+Sonya Green,Finance,2021-10-24,Inactive,Employee Record
+Lisa Peterson,Marketing,2025-05-07,Active,Employee Record
+Alyssa Owen,Marketing,2019-08-22,Active,NDA
+Ashley Carr,Sales,2018-07-21,Inactive,Invoice
+Anna Jones,Finance,2024-05-13,Active,NDA
+Tyler Brown,Operations,2025-09-21,Active,Contract
+Anna Mills,IT,2022-01-15,Inactive,Employee Record
+Jennifer Richards,IT,2018-09-26,Inactive,Contract
+Donna Mcdonald,HR,2022-04-28,Inactive,Contract
+Matthew Simpson,HR,2022-06-23,Active,Payslip
+Julie Oliver,Sales,2024-11-08,Active,Invoice
+Rachel Myers,Marketing,2019-04-17,Active,NDA
+Jonathan Ray,IT,2020-03-18,Active,Employee Record
+Shannon Nelson,Sales,2024-12-27,Inactive,Employee Record
+David Lawrence,Finance,2021-04-17,Active,NDA
+Tracey Burns,HR,2021-03-20,Active,Invoice
+Amy Alvarado,Sales,2025-12-15,Active,Contract
+Roger Weaver,Sales,2024-05-17,Active,Payslip
+Nicole Armstrong,HR,2020-12-09,Inactive,Employee Record
+Christina Lozano,IT,2024-10-14,Active,Contract
+Vanessa Stark,HR,2018-02-27,Active,Invoice
+Lauren Jones,Marketing,2024-12-05,Inactive,Contract
+Michelle Cole,Sales,2018-03-02,Inactive,Employee Record
+Nicole White,Finance,2024-11-11,Inactive,Employee Record
+Dan Ball,Sales,2018-03-26,Active,Payslip
+Alyssa Frost,HR,2021-06-12,Inactive,Contract
+Justin Smith,IT,2016-12-04,Inactive,Invoice
+Shelley Williams,Operations,2023-03-19,Active,Employee Record
+Sean Smith,HR,2018-08-04,Active,Employee Record
+Marc Brady,Sales,2017-08-16,Active,Contract
+Hailey Farmer,IT,2026-03-29,Inactive,Payslip
+Peggy Harper,HR,2023-03-21,Inactive,Contract
+Cameron Flores,Sales,2025-07-30,Inactive,Contract
+George Tyler,Operations,2026-02-04,Inactive,Contract
+David Alexander,Marketing,2022-05-22,Active,Payslip
+Sarah Cisneros,IT,2022-10-05,Active,Payslip
+Chelsea Proctor,IT,2017-12-19,Inactive,Payslip
+Dennis Blair,Finance,2017-10-18,Active,NDA
+Steve Ortiz,IT,2019-09-24,Active,Employee Record
+Misty Gray,Sales,2023-01-24,Active,Payslip
+April Haynes,Sales,2025-05-26,Active,Payslip
+Emily Dickerson,Finance,2025-07-22,Inactive,NDA
+Ann Rich,IT,2021-01-14,Inactive,Employee Record
+Cameron Horn,Sales,2023-01-01,Active,NDA
+Connie Buckley,Finance,2020-08-06,Active,Payslip
+Christopher Meadows,Sales,2021-08-30,Inactive,Employee Record
+Ralph Guzman,Marketing,2020-08-06,Inactive,Contract
+April Ramirez,Marketing,2021-10-21,Active,Contract
+Wayne Olson,Finance,2024-06-24,Inactive,Payslip
+Denise Murphy,Operations,2024-05-15,Active,Payslip
+Edward Perez,Marketing,2022-02-14,Inactive,Employee Record
+Anthony Bennett,HR,2018-03-13,Inactive,NDA
+Tammy Williams,Finance,2021-06-24,Inactive,Employee Record
+Jack Carter,IT,2025-10-23,Active,Contract
+Kelly Ellis,Sales,2019-09-03,Active,NDA
+Vincent Curtis MD,HR,2019-10-07,Inactive,Invoice
+Linda Peterson,Marketing,2019-03-13,Inactive,Payslip
+James Mejia,Finance,2019-11-21,Inactive,Employee Record
+Melissa Ibarra,Finance,2024-10-12,Active,Contract
+James Holland,Finance,2022-10-01,Active,Contract
+Janet Galvan,Sales,2022-01-29,Active,Invoice
+Diana Jackson,Sales,2019-03-31,Active,Employee Record
+Katie Vaughan,Operations,2023-09-10,Active,NDA
+Tamara Mcfarland,Marketing,2024-01-06,Active,Employee Record
+Kristine Gomez,Finance,2020-11-06,Inactive,Employee Record
+Kathryn Hansen,Finance,2016-09-04,Active,Payslip
+Michael Gates,Finance,2016-07-22,Active,NDA
+Luke Smith,Operations,2026-05-21,Inactive,Contract
+Dakota Williams,Finance,2024-02-18,Active,NDA
+Jason Smith,HR,2017-06-02,Active,Invoice
+Sheila Garrett,Sales,2026-01-07,Inactive,Invoice
+Brandy Ware,Operations,2016-06-16,Inactive,Invoice
+John Allen,HR,2024-10-25,Inactive,Employee Record
+Robert Simmons,Operations,2025-08-04,Inactive,Invoice
+Jessica Molina,Finance,2016-06-16,Inactive,Contract
+Amy Carpenter,Marketing,2024-10-14,Inactive,Invoice
+Stephanie Booth,Sales,2023-10-13,Active,Contract
+Susan Mendez,Finance,2020-10-27,Active,Invoice
+Cindy Bryan,HR,2019-09-27,Inactive,Payslip
+Alexa Miller,Finance,2019-02-24,Active,NDA
+Tonya Smith,Sales,2019-05-03,Inactive,Payslip
+Elizabeth Tyler,HR,2022-07-14,Active,Employee Record
+Tracy Carter,Sales,2017-02-14,Active,Contract
+Breanna Wallace,HR,2023-01-06,Inactive,Payslip
+Brittany Mason,Operations,2020-07-23,Inactive,Contract
+Lori Lopez,Operations,2020-07-17,Active,Employee Record
+Walter Sherman,Operations,2019-04-16,Inactive,Employee Record
+Kathryn Scott,IT,2021-12-19,Active,NDA
+Colleen Green,Finance,2019-08-01,Inactive,NDA
+Nathan Ayers,HR,2022-08-27,Inactive,Employee Record
+Jennifer Stevenson,IT,2018-06-02,Inactive,Employee Record
+Lisa Moses,HR,2020-05-27,Active,Payslip
+Shirley West,Operations,2020-01-14,Active,Payslip
+Mary Castaneda,Sales,2025-09-04,Active,Employee Record
+Daniel Clements,Marketing,2021-07-23,Inactive,Invoice
+Warren Johnson,IT,2022-08-03,Active,Payslip
+Stephen Barnes,Marketing,2019-12-03,Active,Contract
+Garrett Carson,HR,2017-08-04,Inactive,Employee Record
+Andrew Pham,IT,2022-07-17,Active,Invoice
+Miss Amanda Dominguez PhD,IT,2018-11-13,Inactive,NDA
+Mariah Andrews,Operations,2021-02-10,Active,Contract
+Brittany Sanders,Finance,2023-10-26,Inactive,NDA
+Nicholas Sims,Operations,2018-12-17,Active,Employee Record
+Kara Byrd,Sales,2020-09-05,Active,NDA
+Robert Hoover,Sales,2021-01-19,Active,Invoice
+Crystal Reynolds,IT,2021-01-16,Active,Contract
+Sydney Haney,HR,2023-03-02,Inactive,Employee Record
+Ashley Benjamin,Marketing,2019-07-20,Active,Contract
+Paul Dudley,HR,2023-09-11,Active,Employee Record
+Sarah Tucker DVM,HR,2018-08-31,Active,NDA
+Rebecca Vazquez,IT,2023-08-28,Active,Contract
+Marcus Schwartz,Operations,2020-12-28,Inactive,Employee Record
+Shawn Cox,Sales,2025-05-20,Inactive,Contract
+Patrick Robertson,IT,2024-10-17,Inactive,Payslip
+Brooke Buckley,IT,2025-06-08,Inactive,Invoice
+Michael Thomas,Sales,2019-08-08,Active,Payslip
+Ashley Atkinson,HR,2024-04-15,Active,Payslip
+David Bauer,Finance,2016-07-17,Inactive,Employee Record
+Jeffrey Rodriguez,Sales,2018-03-05,Active,Contract
+David Williams,IT,2020-02-09,Inactive,NDA
+Kevin Lynch,Sales,2026-04-03,Inactive,Invoice
+Dawn Jimenez,Finance,2022-03-31,Inactive,Payslip
+Kimberly Baker PhD,Finance,2022-07-24,Active,Payslip
+Tracy Taylor,Marketing,2020-11-30,Inactive,NDA
+Brittney Cook,HR,2024-10-04,Active,NDA
+Melissa Harris,Sales,2023-09-21,Active,Payslip
+Kristen Wilson,Marketing,2017-03-09,Inactive,NDA
+Yvette Parks,Operations,2018-04-06,Active,Employee Record
+Theresa Wheeler,IT,2021-07-31,Active,Payslip
+Amanda Johnson,Finance,2025-12-26,Active,Payslip
+Amanda Barker,HR,2026-05-02,Active,Contract
+Lindsey Dyer,HR,2018-05-05,Inactive,Payslip
+Brooke Dawson,Finance,2023-10-18,Active,NDA
+Miranda Weeks,IT,2018-03-23,Inactive,Payslip
+Marie Frey,Marketing,2018-01-30,Active,NDA
+Angela Rivera,IT,2024-10-21,Active,Invoice
+Alvin Jones,Finance,2017-06-13,Inactive,Contract
+Mr. Antonio Shelton,Finance,2021-11-19,Active,Payslip
+Mark Byrd,Sales,2023-10-23,Inactive,Contract
+Melinda Werner,Operations,2024-09-13,Active,Payslip
+Joshua Brown,IT,2025-05-09,Active,Contract
+Jacqueline Brown,HR,2025-02-20,Active,Employee Record
+Christine Wilcox,Operations,2024-11-02,Active,Employee Record
+Michael Mitchell,Finance,2021-04-13,Inactive,Payslip
+Laura Morrow,HR,2022-03-17,Inactive,Payslip
+Sharon Moreno,HR,2022-01-05,Inactive,Employee Record
+Nicholas Thomas,Operations,2019-08-23,Inactive,Payslip
+Alec Browning,Finance,2018-10-10,Active,NDA
+William Lewis,Operations,2022-05-05,Inactive,Contract
+Sally Ingram,Operations,2021-03-01,Active,Payslip
+Caroline Evans,Sales,2024-11-20,Inactive,Invoice
+Keith Baker,Operations,2026-01-19,Active,Contract
+Paul Carlson,Operations,2017-11-26,Active,NDA
+Nicole Taylor,Finance,2019-04-05,Inactive,NDA
+Amanda Cox,Finance,2023-10-02,Active,Payslip
+Willie Allen,Finance,2025-03-22,Active,NDA
+Kayla Smith,Operations,2016-10-01,Inactive,Employee Record
+Whitney Shepard,Finance,2020-12-02,Active,Invoice
+Steven Dickson,Finance,2018-08-12,Active,Employee Record
+Christina Stephens,HR,2021-05-08,Inactive,Invoice
+Sherry Smith,Sales,2024-07-05,Active,Invoice
+Kimberly Young,HR,2016-12-09,Active,Invoice
+Johnathan Thompson,IT,2017-11-05,Inactive,Invoice
+Lori Bonilla,Sales,2022-07-31,Active,Payslip
+Mr. Jonathan Perez,Marketing,2025-02-12,Active,Invoice
+Greg Peck,Sales,2019-12-22,Active,Employee Record
+Erica Davis,IT,2021-03-13,Inactive,Employee Record
+Jillian Rice,IT,2023-05-20,Active,Invoice
+Aaron Thornton,Marketing,2020-07-13,Inactive,Employee Record
+Andre Kent,HR,2016-08-11,Active,Payslip
+Anthony Carpenter,Operations,2023-09-15,Active,Invoice
+Diana Cook,Marketing,2023-05-23,Active,Invoice
+Seth Holland,Operations,2022-10-02,Active,Employee Record
+Lori Walker,HR,2017-11-27,Active,NDA
+Teresa Jackson,Sales,2022-11-15,Active,Payslip
+Darrell Roberts,IT,2024-04-02,Active,Employee Record
+Kara Garcia,Marketing,2022-04-28,Active,Contract
+Brittany Brewer,Operations,2020-09-07,Inactive,NDA
+Christopher Mckinney,IT,2021-03-27,Active,Contract
+Laura Wright,Finance,2019-10-19,Inactive,Employee Record
+Chad Johnson,Sales,2018-07-30,Active,Invoice
+Justin Hernandez,Sales,2022-08-06,Active,Contract
+Timothy Jackson,Sales,2018-10-14,Active,Employee Record
+April Burke,Marketing,2016-06-28,Active,Employee Record
+Kimberly Cisneros,IT,2018-10-28,Inactive,Invoice
+Richard Woods,HR,2025-11-28,Inactive,Invoice
+Troy Norton,HR,2022-09-22,Inactive,Contract
+Lance Wright,Marketing,2024-06-26,Inactive,NDA
+Jill Richmond,Sales,2016-09-20,Inactive,Contract
+Diane Kramer,IT,2019-11-29,Active,Employee Record
+Tammie Carpenter,Finance,2023-12-12,Active,Payslip
+Austin Graves,Operations,2024-07-25,Active,Invoice
+Morgan Roberts,IT,2025-10-31,Active,Invoice
+Andrea Miranda,Sales,2025-04-01,Inactive,Payslip
+John Johnson,IT,2026-02-01,Inactive,Employee Record
+Timothy Green,Marketing,2026-04-17,Active,Payslip
+Wendy Fisher,Finance,2023-09-12,Inactive,Invoice
+Ian Hamilton,Marketing,2025-01-30,Inactive,Payslip
+Troy Peterson MD,HR,2023-06-29,Active,NDA
+Heather Castro,HR,2018-05-15,Inactive,NDA
+Christopher Roman,Sales,2024-07-01,Inactive,NDA
+Kevin Miller,Sales,2020-12-03,Active,NDA
+Stephanie Browning,Operations,2025-12-03,Inactive,Contract
+Matthew Coleman,HR,2022-12-04,Active,NDA
+Alyssa Mclaughlin,IT,2020-10-14,Active,Invoice
+Stephanie Young,Sales,2016-11-17,Active,Contract
+Lori Robbins,IT,2018-07-05,Active,Employee Record
+Mr. John Sosa,Sales,2022-02-25,Active,Invoice
+Tracy Carter,Operations,2023-12-09,Inactive,Contract
+Tasha Johnson,Operations,2018-10-22,Active,Invoice
+Kimberly Parker,Marketing,2020-04-28,Inactive,Invoice
+Michael Soto,Operations,2019-01-13,Active,Invoice
+Travis Lee,Finance,2019-04-07,Active,Contract
+Ronald Calhoun,Finance,2019-02-17,Active,NDA
+Stephanie Winters,Operations,2017-10-14,Active,Contract
+Billy Rodriguez,Operations,2021-08-20,Active,Payslip
+Michael Mason,Sales,2022-12-10,Active,Invoice
+Lori Hoffman,Operations,2025-07-10,Inactive,Payslip
+Julia Peters,IT,2022-05-12,Inactive,Invoice
+Emily Ibarra,Finance,2024-12-15,Active,Payslip
+Amanda Watkins,HR,2020-01-27,Inactive,Contract
+Michael Hernandez,IT,2017-05-05,Active,Invoice
+Eric Watson,HR,2020-04-18,Active,Invoice
+Jesus Walsh,IT,2021-12-11,Active,Invoice
+Brandon Hopkins,Sales,2022-03-08,Active,NDA
+Devin Barrett,IT,2018-05-01,Active,Invoice
+Karen Ryan,Operations,2025-09-20,Active,Invoice
+Antonio Lane,Marketing,2021-05-29,Inactive,Payslip
+Mrs. Shelia Robertson,Sales,2018-07-17,Active,NDA
+Debbie Mack,Marketing,2022-04-29,Inactive,Employee Record
+Christopher Roberts,HR,2017-01-31,Active,Contract
+David Hodges,Operations,2019-10-31,Active,NDA
+Diana Osborne,HR,2025-02-18,Active,Payslip
+Joe Duncan,Finance,2017-07-30,Inactive,Payslip
+Erica Hensley,Finance,2021-07-03,Inactive,Employee Record
+Ann Berry,Sales,2020-04-02,Inactive,Invoice
+Douglas Patterson,Operations,2025-06-19,Inactive,Contract
+Vanessa Edwards,Finance,2023-02-22,Active,Payslip
+Haley Torres,IT,2020-11-02,Active,NDA
+Deborah Miller,Finance,2025-08-28,Inactive,Invoice
+Alicia Fisher,Marketing,2021-11-30,Inactive,Contract
+Brenda Clark,IT,2025-06-13,Inactive,Employee Record
+David Wright,IT,2021-08-25,Active,NDA
+Mary Newton MD,Marketing,2021-01-12,Inactive,Payslip
+Lisa Yang,Operations,2016-08-12,Inactive,NDA
+Hector Williams,HR,2018-06-12,Inactive,NDA
+Charles Murray,HR,2025-06-30,Inactive,NDA
+Miranda Johnson,HR,2026-02-17,Inactive,Employee Record
+Nicholas Suarez,HR,2025-11-27,Active,Invoice
+John Knight,HR,2020-11-04,Inactive,Invoice
+Michael Schneider,HR,2016-06-19,Active,Invoice
+Shannon Johnson,Marketing,2022-10-31,Inactive,Contract
+Robert Scott,HR,2019-02-22,Inactive,Employee Record
+Carrie Lee,Finance,2023-03-26,Active,Invoice
+Matthew Ortega,HR,2019-03-05,Inactive,Payslip
+Timothy Walters,Sales,2019-02-19,Active,Contract
+Monique Sanchez,Sales,2021-10-30,Active,Payslip
+Dillon Hudson,Marketing,2025-09-18,Inactive,Employee Record
+Tyler Curry,Marketing,2017-02-16,Inactive,Payslip
+John Hernandez,HR,2024-04-27,Inactive,NDA
+Justin Hall,HR,2022-12-02,Inactive,Payslip
+Jonathan Jensen,Finance,2020-01-03,Active,NDA
+Ann Tran,Marketing,2021-12-30,Active,Payslip
+Joseph Black,IT,2024-03-09,Active,Payslip
+Sherri Harvey,Finance,2018-05-03,Active,Invoice
+Donald Ward,IT,2022-12-12,Inactive,NDA
+Patricia Singh,Sales,2021-11-01,Inactive,Invoice
+James Cohen,HR,2019-08-20,Active,NDA
+Catherine Young,Operations,2024-11-11,Inactive,NDA
+Nicholas Mcdaniel,HR,2025-03-09,Inactive,NDA
+Andrew Murphy,Operations,2021-09-15,Inactive,Employee Record
+Paul Riley,Operations,2025-08-04,Active,Invoice
+Andrea Fleming,Marketing,2018-02-10,Active,Employee Record
+Douglas Gonzalez,Finance,2023-05-04,Active,Payslip
+Gary Greer,Finance,2024-05-31,Inactive,Invoice
+Kelly Trevino,HR,2022-10-23,Inactive,Invoice
+Jeffrey Ortiz,HR,2025-12-21,Active,Invoice
+Brandon Johnson,Marketing,2017-08-21,Inactive,Payslip
+Jessica Mcdaniel,IT,2019-12-14,Active,Payslip
+Mary Smith,Sales,2019-01-23,Active,Employee Record
+Nathaniel Jacobs,Marketing,2018-09-11,Active,Invoice
+Misty Morgan,Operations,2020-09-05,Inactive,NDA
+Ruth Rivera,Finance,2017-03-17,Active,Employee Record
+Sierra Harris,Operations,2020-08-21,Inactive,Payslip
+Scott Perkins,Finance,2025-11-20,Inactive,Invoice
+Kimberly Obrien,Finance,2019-10-28,Inactive,Contract
+Kathy Lowery,Finance,2026-06-04,Active,NDA
+Jill Lee,HR,2025-02-11,Active,Payslip
+Colleen Harmon,Marketing,2021-04-11,Inactive,Invoice
+Katie Griffin,Operations,2019-10-09,Inactive,NDA
+Kevin Marquez,Operations,2021-02-17,Inactive,NDA
+Glen Brown,HR,2023-02-28,Inactive,Payslip
+Christine Gordon,Operations,2020-08-12,Active,Contract
+Lisa Simpson,IT,2018-11-20,Inactive,Payslip
+Patrick White,Marketing,2022-07-26,Inactive,NDA
+Ricky Summers Jr.,Sales,2025-01-28,Active,Employee Record
+Michael Shelton,Finance,2019-03-24,Inactive,Contract
+Yolanda White,Sales,2020-10-06,Inactive,Employee Record
+John Elliott,HR,2022-05-28,Inactive,NDA
+Brooke Greene,Operations,2026-02-24,Inactive,Invoice
+Laura Stevens,Marketing,2016-10-31,Active,NDA
+Ana Johnson,Operations,2025-12-08,Active,NDA
+Courtney Franklin,Sales,2020-08-12,Inactive,Contract
+Adam Jackson,Marketing,2018-10-31,Active,Contract
+Gary Barajas,Operations,2024-11-01,Inactive,Contract
+Theresa Browning,Finance,2022-03-20,Active,Contract
+Donald Fitzgerald,Finance,2018-05-25,Inactive,Employee Record
+Nicholas Martin,Sales,2021-03-09,Active,Payslip
+Shelby Harris,Marketing,2019-12-03,Inactive,Payslip
+Matthew Camacho,Finance,2024-06-29,Inactive,Payslip
+April Young,Operations,2019-06-11,Inactive,Contract
+Andrew Richardson,IT,2020-12-13,Active,Contract
+Paula Cuevas,HR,2024-02-25,Inactive,Contract
+Gregory Burns,Operations,2019-12-01,Inactive,NDA
+Meghan Brown,Finance,2017-08-08,Inactive,NDA
+Aaron Garcia,HR,2024-04-09,Active,NDA
+Kathy Leonard,IT,2022-07-16,Inactive,Invoice
+Erica Schmidt,Operations,2016-12-06,Inactive,Payslip
+Jason Blake,HR,2024-01-08,Inactive,Contract
+Christian Rodriguez,HR,2025-06-11,Inactive,Contract
+Courtney Hancock,IT,2018-09-26,Inactive,NDA
+Jonathan Holland,IT,2017-03-08,Active,Employee Record
+Jessica Lopez,HR,2020-10-31,Active,Invoice
+Jessica Spears,Operations,2019-06-19,Inactive,Employee Record
+Jorge Brown,Finance,2018-05-22,Active,Invoice
+Theresa Myers,Operations,2025-05-15,Active,NDA
+Shelley Kaiser,Operations,2020-10-10,Active,Invoice
+Paul Padilla,Operations,2021-11-12,Inactive,Invoice
+Maurice Taylor,Marketing,2026-02-09,Active,Invoice
+Sierra Smith,IT,2021-04-10,Inactive,NDA
+Jennifer Rivera,Marketing,2025-04-08,Active,Payslip
+Jennifer Hansen,HR,2026-04-19,Inactive,Employee Record
+Jason Smith,Sales,2017-03-20,Inactive,Payslip
+Linda Duncan,HR,2020-04-03,Active,Employee Record
+Jeremy Johnson,HR,2020-04-19,Inactive,NDA
+Veronica Graham,IT,2025-08-23,Active,NDA
+Diana Walters,Marketing,2018-12-05,Inactive,Employee Record
+James Bell,HR,2026-06-01,Active,Employee Record
+Justin Wang,Marketing,2022-06-27,Inactive,Contract
+Christopher Foster,Finance,2024-08-04,Active,Contract
+John Patterson,Operations,2021-12-13,Active,Contract
+Alexander Proctor,Operations,2025-04-10,Active,Employee Record
+Elizabeth Ingram,Sales,2018-08-03,Inactive,Employee Record
+Timothy Cervantes,Operations,2023-08-31,Inactive,Employee Record
+Laura Smith,IT,2025-11-24,Active,Contract
+Toni Peters,Finance,2021-09-25,Inactive,NDA
+Mike Williams,HR,2023-09-26,Inactive,Contract
+Nicholas Mack,IT,2022-12-17,Inactive,NDA
+Krista Curry,Sales,2021-01-08,Active,Employee Record
+David White,Sales,2019-05-08,Active,Contract
+Dr. Ashley Burton,IT,2021-09-03,Active,Payslip
+Casey Cunningham,Marketing,2022-11-21,Inactive,NDA
+Robin Medina,HR,2023-08-21,Inactive,Contract
+Jeffery Mcdaniel,Operations,2021-05-14,Active,Payslip
+Allison Williams,Operations,2017-04-14,Inactive,Payslip
+Jasmine Taylor,IT,2025-08-12,Inactive,Contract
+Beverly West,IT,2024-02-07,Inactive,Payslip
+Gregory Brown,Operations,2017-04-01,Inactive,Payslip
+Charles Anderson,Sales,2024-03-04,Active,Payslip
+Sherry Velazquez,HR,2020-07-23,Active,Invoice
+Stephanie Diaz,Sales,2019-06-05,Inactive,Payslip
+Michael Reid,HR,2022-01-16,Active,Invoice
+Scott Tran,Marketing,2023-11-02,Inactive,Payslip
+Sara Evans,HR,2020-11-17,Inactive,Payslip
+Tiffany Hall,Sales,2022-07-01,Active,NDA
+Michelle Snyder,Operations,2020-08-10,Active,Payslip
+Todd Anthony,Finance,2019-06-05,Inactive,Invoice
+Laura Fuller,IT,2021-07-13,Inactive,Contract
+Candice Gardner,Finance,2022-09-15,Active,Employee Record
+Melanie Gonzalez,Sales,2020-01-25,Active,Employee Record
+Amanda Rollins,HR,2022-05-03,Inactive,NDA
+Clinton Brown,Operations,2018-09-30,Inactive,Employee Record
+Jodi Cabrera,Sales,2019-07-31,Inactive,Employee Record
+Denise Duran,Operations,2025-04-01,Active,Payslip
+Arthur Gomez,Marketing,2018-11-01,Active,Payslip
+Sarah Cisneros,Operations,2025-12-23,Active,Payslip
+Jordan Alexander,Operations,2025-01-07,Active,Payslip
+Jennifer Huffman,Finance,2023-03-14,Active,NDA
+Tanner Estrada,Marketing,2019-08-30,Active,Employee Record
+Kara Gonzalez,HR,2022-02-11,Inactive,Invoice
+Andrew Clark,Operations,2017-11-06,Active,Payslip
+Christy Bond,Marketing,2021-11-11,Inactive,NDA
+Ricky Wilson,HR,2021-11-16,Inactive,Invoice
+Kimberly Morrison,IT,2021-04-25,Inactive,Contract
+Travis Powell,HR,2026-01-19,Inactive,Employee Record
+Wyatt Durham,Operations,2025-10-07,Inactive,Contract
+Katie Wagner,Operations,2023-11-24,Active,Payslip
+Bethany Hooper,Marketing,2024-06-27,Inactive,NDA
+Christina Dillon,IT,2019-03-29,Inactive,Employee Record
+Elizabeth Fisher,HR,2018-04-13,Inactive,Contract
+Rebecca Keller,HR,2019-06-05,Inactive,Payslip
+Lucas Campbell,IT,2024-08-08,Inactive,Employee Record
+Anthony Mclean DDS,Operations,2019-12-24,Inactive,Employee Record
+Debra Kent,Finance,2018-09-12,Inactive,Invoice
+Amy Figueroa,Finance,2026-01-11,Active,Payslip
+Margaret Jones,IT,2018-10-19,Active,Employee Record
+Daniel Ross,Marketing,2025-04-06,Active,Invoice
+Frederick Martinez,Sales,2025-04-13,Active,Invoice
+Michelle Bell,Operations,2016-06-15,Active,Invoice
+Jeremy Rush,Marketing,2018-05-15,Active,Invoice
+Karen Nash,IT,2023-07-22,Inactive,Employee Record
+Jake White,HR,2024-06-03,Inactive,NDA
+Robert Faulkner,Sales,2024-08-27,Active,Contract
+Thomas Hernandez,Sales,2022-12-11,Inactive,Employee Record
+Jonathan Brewer,Sales,2017-11-15,Inactive,NDA
+Derek Williams,Sales,2022-12-03,Active,Invoice
+Monica Anderson,Finance,2017-04-12,Active,Contract
+Karen Hickman,IT,2019-08-09,Inactive,Payslip
+Larry Ross,Finance,2017-05-31,Active,Employee Record
+Samuel Evans,HR,2021-06-19,Active,Employee Record
+Toni Cooper,Finance,2026-03-20,Inactive,NDA
+Clinton Case,Finance,2026-02-22,Active,NDA
+Steven Maxwell,Finance,2019-05-09,Active,Employee Record
+Christopher George,HR,2021-02-05,Inactive,Employee Record
+Arthur Chang,IT,2019-03-04,Inactive,Contract
+Tommy Phillips,Sales,2017-03-30,Inactive,Payslip
+Leslie James,Sales,2017-12-24,Active,NDA
+Joseph Walker,HR,2021-10-09,Inactive,NDA
+Sara Rodriguez,IT,2025-07-22,Inactive,Invoice
+Anthony Farrell,IT,2018-08-11,Active,Employee Record
+William Sampson,Finance,2019-02-08,Active,NDA
+John Lewis,IT,2026-01-15,Inactive,NDA
+Jessica Hayes,HR,2025-05-04,Inactive,NDA
+Sarah Williams,Marketing,2020-07-25,Active,NDA
+Ronnie Thompson,IT,2018-06-07,Inactive,Payslip
+Stephanie Cummings,Sales,2016-10-07,Active,NDA
+Nicholas Suarez,Marketing,2020-01-10,Inactive,NDA
+Lucas Miller,Sales,2020-01-16,Inactive,Payslip
+Raymond Gordon,HR,2022-03-17,Inactive,Payslip
+Tammy Smith,HR,2025-10-02,Active,Contract
+Kimberly Shannon,IT,2020-10-11,Active,Contract
+Emily Flores,IT,2024-04-24,Inactive,Contract
+Andres Jones,Marketing,2024-01-27,Active,Contract
+Corey Brown,Marketing,2026-03-18,Inactive,NDA
+Marie Houston,Sales,2024-03-13,Inactive,NDA
+Deborah Santos,Finance,2020-05-06,Active,NDA
+Dr. Peter Perez,IT,2025-08-22,Active,Employee Record
+David Miller,HR,2016-07-28,Active,Contract
+Nicholas Austin,Finance,2023-04-06,Inactive,NDA
+Jesse Jenkins,HR,2024-09-22,Active,Invoice
+Patrick Campbell,HR,2020-12-14,Active,NDA
+Lisa House,Finance,2019-04-24,Inactive,NDA
+Caroline Russo,HR,2022-03-28,Inactive,Employee Record
+Matthew Campbell,IT,2025-03-04,Active,Invoice
+Mallory Ruiz,IT,2016-10-02,Inactive,Payslip
+Janice Blake,Operations,2025-04-05,Inactive,Employee Record
+Justin Francis,Finance,2021-06-26,Inactive,Invoice
+Michael Ramirez,IT,2025-08-05,Active,Payslip
+Nicholas Stevens,Marketing,2025-03-17,Inactive,NDA
+Matthew Stanley,HR,2022-02-19,Inactive,Contract
+James Ferguson,Finance,2025-09-22,Inactive,Contract
+Charles Perez,Sales,2017-07-10,Active,Contract
+Kerry Bradford,IT,2021-08-20,Inactive,NDA
+Eric Small,Sales,2021-11-18,Active,NDA
+Megan Tucker,Finance,2019-10-24,Active,Employee Record
+Ryan Parker,Marketing,2020-05-18,Active,NDA
+Vanessa Brown,HR,2016-06-27,Active,NDA
+Joshua Roy,IT,2017-11-06,Inactive,Invoice
+Kimberly Brady,IT,2019-05-17,Active,Invoice
+Cory Jones PhD,IT,2019-12-01,Inactive,Invoice
+Daniel Schroeder MD,Finance,2024-05-18,Inactive,NDA
+Robin Fox,Operations,2023-04-29,Inactive,Contract
+Melanie Ryan,IT,2024-07-13,Inactive,Invoice
+Austin Browning,Marketing,2018-03-03,Inactive,Employee Record
+John Smith,Operations,2017-09-13,Active,Employee Record
+Anthony Stewart,Operations,2017-03-10,Active,Payslip
+Adam Thomas,Operations,2019-04-25,Inactive,Invoice
+Jason Rodriguez,IT,2024-03-09,Active,NDA
+James Smith,Finance,2019-05-03,Active,Payslip
+Fred Bradford,Operations,2024-10-11,Inactive,Payslip
+Amanda Harris,HR,2019-08-02,Active,Payslip
+Christopher Hunt,Marketing,2016-11-10,Active,Invoice
+Megan Lane,Finance,2018-11-27,Inactive,Payslip
+Jennifer Garner,Sales,2018-04-03,Active,Employee Record
+Courtney Herring,Marketing,2025-07-06,Inactive,Employee Record
+Jonathan Smith,Sales,2020-02-13,Inactive,Employee Record
+Daniel Brown,Operations,2023-03-06,Inactive,Contract
+Brian Watson,Finance,2025-08-19,Inactive,Employee Record
+James Hernandez,Marketing,2018-11-06,Inactive,NDA
+Tracie Frank,Finance,2024-10-08,Active,NDA
+Adriana House,Sales,2025-10-19,Inactive,Contract
+Thomas Flores,Operations,2021-11-06,Inactive,Employee Record
+Angelica Thornton,Marketing,2021-06-08,Inactive,NDA
+Kelly Sanchez,IT,2019-09-08,Inactive,Payslip
+Jennifer Harris,Operations,2026-01-06,Inactive,NDA
+Robert Hopkins,Operations,2020-09-11,Active,Contract
+Chris Gonzalez,Finance,2019-07-24,Inactive,NDA
+Timothy Arnold,HR,2017-10-04,Active,Payslip
+Stacey Bradley,IT,2025-03-06,Inactive,Invoice
+Michael Richardson,IT,2020-10-15,Active,NDA
+Karen Jones,Operations,2026-05-07,Active,Employee Record
+Christina Black,IT,2025-07-01,Active,NDA
+Justin Sullivan,Sales,2018-03-12,Active,Payslip
+Stephen Santana,Marketing,2016-07-14,Inactive,Payslip
+Tyler Nash,Sales,2023-09-23,Inactive,NDA
+Mary Ortiz,Marketing,2017-02-03,Active,Payslip
+Jack Sharp,Finance,2022-11-08,Active,NDA
+Shelia Goodwin,HR,2016-11-29,Active,Payslip
+Cole Ramsey,IT,2018-09-27,Inactive,NDA
+Shane Carroll,Sales,2025-03-25,Active,Invoice
+Amber Lucas,HR,2019-07-21,Active,Payslip
+Samantha Anderson,IT,2020-04-02,Inactive,Payslip
+Carrie Fuller,IT,2025-07-22,Active,NDA
+Austin Melton,Operations,2019-10-27,Inactive,Payslip
+Roy Schneider,Sales,2018-07-22,Inactive,Invoice
+Jane Garcia,IT,2020-06-13,Inactive,Payslip
+Angela Lewis,HR,2017-04-26,Active,NDA
+Kristen Osborn,Finance,2016-06-30,Inactive,NDA
+Andrew Jacobs,Finance,2022-06-28,Active,NDA
+Rachel Rollins,IT,2026-02-21,Inactive,Contract
+Megan Lyons,Sales,2018-07-13,Active,Invoice
+Teresa Hayes,Sales,2025-06-07,Active,NDA
+Lindsay Campbell,Operations,2024-11-30,Inactive,Employee Record
+Cassie Miller,IT,2022-06-15,Active,NDA
+Scott Chandler,Marketing,2020-12-14,Active,Employee Record
+Eric Cooke,Sales,2020-11-16,Active,Employee Record
+Tyler Nelson,Marketing,2020-09-16,Active,Invoice
+Jeffrey Sanchez,IT,2020-04-08,Inactive,Payslip
+Thomas Andrews PhD,Operations,2025-02-05,Active,Employee Record
+Dylan Buck,IT,2022-04-14,Active,Employee Record
+Melissa Burton,Marketing,2022-10-08,Inactive,Employee Record
+Jonathan Ritter,Operations,2020-06-20,Active,NDA
+Blake Sanchez,Operations,2020-11-27,Inactive,Employee Record
+Lori Williams,Operations,2024-04-25,Inactive,NDA
+Tracy Allen MD,Finance,2023-12-09,Active,Contract
+Marilyn Coleman,Marketing,2022-07-14,Active,Invoice
+Laura King,IT,2018-10-01,Inactive,Contract
+Joseph Vang,Finance,2025-07-13,Active,Invoice
+Charles Lin,Finance,2022-09-21,Inactive,Invoice
+Nicholas Villanueva,Marketing,2021-09-05,Active,Invoice
+Dr. Natalie Johnson,Sales,2021-04-02,Inactive,Invoice
+Stephanie Webb,Operations,2020-12-27,Inactive,NDA
+Danielle Martin,Finance,2026-04-08,Inactive,NDA
+Jeremiah Barnett,Sales,2023-01-24,Active,Invoice
+Peter Smith,HR,2017-02-22,Inactive,Contract
+David Bryant,Marketing,2025-10-21,Active,Payslip
+Andrea Wallace DDS,IT,2020-06-24,Inactive,NDA
+Thomas Kennedy,Operations,2017-11-28,Inactive,Employee Record
+Chelsea Little,HR,2026-01-30,Inactive,NDA
+Chad Foster,IT,2021-06-06,Active,Payslip
+Terrence Frey,HR,2019-06-13,Active,Invoice
+Jennifer Garcia,Operations,2018-11-06,Inactive,Employee Record
+Zoe Mcdowell,IT,2017-05-08,Inactive,Contract
+Deborah Jimenez,Operations,2024-05-29,Inactive,Payslip
+Stephanie Stevenson,Sales,2024-01-23,Inactive,NDA
+Lauren Hale,IT,2020-12-15,Active,Contract
+Leslie Gonzalez,IT,2019-05-23,Active,Contract
+Kaitlyn Shannon,Sales,2017-11-16,Inactive,NDA
+Rebecca Haney,IT,2023-12-26,Active,NDA
+Kelly Williams,IT,2022-07-21,Active,Employee Record
+Jack Cantrell,IT,2017-08-13,Active,NDA
+Katherine Hardy,Sales,2019-10-28,Inactive,Invoice
+Luke Stout,Marketing,2020-09-20,Inactive,Employee Record
+Christine Nichols,IT,2023-09-16,Active,Employee Record
+Dawn Stewart,Marketing,2017-06-22,Inactive,Contract
+Lori Boyd,IT,2022-02-24,Inactive,Invoice
+Troy Cowan,Sales,2024-02-21,Inactive,Payslip
+Margaret Mcguire,HR,2023-03-10,Inactive,Employee Record
+Emma King,Operations,2026-06-08,Active,Contract
+Mary Ellis,Marketing,2020-07-04,Active,Invoice
+Michelle Poole,Sales,2017-12-16,Active,Contract
+Jennifer Mathews,Marketing,2026-02-24,Inactive,Invoice
+Derek Becker,Sales,2018-08-12,Inactive,Contract
+Nichole Burnett,Operations,2018-04-03,Active,Invoice
+Nicholas Solomon,Operations,2023-10-26,Active,Payslip
+Anthony Hopkins,HR,2016-07-19,Inactive,Invoice
+Brian Berg,Sales,2022-04-03,Inactive,Contract
+Andrew Lee,Finance,2024-08-18,Inactive,Contract
+Travis Haynes,Marketing,2018-04-05,Active,Contract
+David Perez,HR,2018-09-08,Inactive,Contract
+Brian Mccarthy,Operations,2023-09-19,Inactive,Payslip
+Joel Stevens,IT,2026-04-11,Active,Employee Record
+Nancy Young,Marketing,2021-07-20,Inactive,NDA
+Sarah Lyons,Operations,2024-05-02,Inactive,Invoice
+Mrs. Diane Baker DVM,Sales,2020-01-11,Inactive,Invoice
+Shannon Mckay,HR,2024-12-22,Active,Payslip
+James Mack,Sales,2020-11-22,Inactive,Payslip
+Randall Peterson,Marketing,2017-12-18,Active,Invoice
+Michael Flores,IT,2017-08-07,Inactive,Payslip
+Susan Lara,Finance,2019-01-13,Inactive,Invoice
+Michael Ryan,Marketing,2022-12-13,Inactive,Contract
+Amy Miller,HR,2020-05-21,Inactive,Contract
+Michael Watson,Finance,2020-10-27,Inactive,Employee Record
+Brandon Allison,Finance,2022-01-27,Active,Contract
+Lawrence Miller,HR,2017-04-20,Inactive,Employee Record
+Mrs. Cassie Flowers PhD,Sales,2024-01-03,Inactive,Employee Record
+Brett Andrews,HR,2022-05-26,Active,NDA
+Jasmine Rivas,HR,2024-01-01,Inactive,Payslip
+Vanessa Murphy,Sales,2025-04-11,Inactive,Payslip
+Heather Henry,Finance,2017-07-03,Active,Contract
+Elizabeth Atkins,Marketing,2022-04-11,Active,NDA
+Carl Thomas,Sales,2022-10-14,Active,Payslip
+Carla Russell,Marketing,2023-07-21,Active,Payslip
+Jeremy Mckay,Sales,2020-01-09,Active,Employee Record
+Patricia Butler,Sales,2020-05-13,Inactive,Invoice
+Michael Patterson,IT,2017-02-24,Active,Invoice
+Vicki Lewis,Finance,2020-03-08,Active,Invoice
+Aaron Johnson,IT,2023-06-17,Active,Contract
+Willie Robinson,HR,2020-02-21,Inactive,Contract
+Mallory Miles,HR,2020-02-06,Active,Contract
+Joshua Orr,Sales,2026-04-12,Inactive,Contract
+Kenneth Martin,Sales,2019-07-02,Active,NDA
+Cathy Flowers,IT,2022-11-28,Active,Employee Record
+Mr. James Phillips,Sales,2022-05-17,Active,Invoice
+Ronald Tanner,IT,2024-10-23,Inactive,Payslip
+Michelle Bell,Sales,2018-01-23,Inactive,Contract
+Heidi Brown,Marketing,2016-09-12,Active,Employee Record
+Christopher Jackson,Operations,2017-12-05,Inactive,Invoice
+Nicole Cunningham,Marketing,2025-07-12,Active,Contract
+Sharon Johnson,Marketing,2018-12-23,Inactive,Contract
+Donna Dixon,Operations,2026-05-21,Active,NDA
+Clayton Hunter,IT,2021-12-11,Inactive,NDA
+Kendra White,HR,2025-12-31,Inactive,Payslip
+Andre Green,HR,2023-06-10,Active,Invoice
+Tammie Mcdaniel,IT,2025-09-24,Inactive,Invoice
+Nicholas Mills,Marketing,2025-05-31,Active,NDA
+Lindsay Chandler,Operations,2025-05-25,Inactive,Employee Record
+Laura Levine,IT,2024-08-12,Active,Employee Record
+Ashley Mcintyre,Marketing,2023-05-31,Active,Contract
+Patrick Figueroa,Marketing,2024-12-17,Active,Contract
+Susan Fisher,IT,2017-08-22,Active,Employee Record
+Alex Jackson,Sales,2018-12-27,Inactive,Contract
+Dr. Jeff Anderson DVM,HR,2018-08-31,Inactive,Employee Record
+Amy Dixon,Sales,2021-06-10,Inactive,NDA
+Christopher Chapman,Finance,2022-07-01,Active,Invoice
+Carmen Rivers,Sales,2024-08-22,Inactive,Invoice
+Daniel Martinez,Sales,2024-04-18,Active,Contract
+Lisa Wilson,Marketing,2017-02-13,Active,Employee Record
+Victoria Cobb,HR,2020-05-23,Inactive,Invoice
+Joshua Santiago,HR,2023-06-29,Inactive,Payslip
+Wendy Swanson,Marketing,2026-01-18,Inactive,NDA
+Vanessa Ingram,Finance,2021-08-14,Active,NDA
+Robert Garza,HR,2021-03-05,Active,Contract
+Erik Jones,Sales,2024-04-23,Active,Employee Record
+James Wilson,HR,2018-07-13,Active,Contract
+Donald Vaughn,HR,2024-09-27,Inactive,NDA
+Amy Nelson,Sales,2024-05-21,Active,Payslip
+Stacey Brown,IT,2023-04-20,Inactive,NDA
+Debra Medina,Finance,2025-05-26,Inactive,Employee Record
+Stacie Dodson,Finance,2020-11-07,Inactive,Employee Record
+Jacob Shaw,Finance,2022-03-07,Inactive,Contract
+Nancy Jensen,Sales,2024-03-13,Inactive,Employee Record
+Lisa Nelson,IT,2018-08-01,Active,Payslip
+Roy Mills,Marketing,2022-06-11,Active,Employee Record
+Jamie Harvey,Finance,2021-11-10,Active,Employee Record
+Gloria Crawford,IT,2017-05-09,Active,Payslip
+Billy Wells,IT,2024-06-27,Inactive,Contract
+Joe Powers,IT,2022-08-26,Inactive,NDA
+Stacy Martinez,Marketing,2018-11-09,Active,Invoice
+Mark Mullins,Marketing,2018-09-05,Inactive,NDA
+Kelly Pena,Finance,2024-12-13,Active,Employee Record
+Nicholas Greene,HR,2020-04-20,Inactive,Contract
+Tonya Stevenson,Finance,2018-10-05,Active,Employee Record
+Joseph Johnson,HR,2018-06-04,Inactive,Invoice
+Carol Serrano,IT,2026-01-07,Active,NDA
+Jane Mitchell,HR,2023-06-02,Active,Payslip
+Paul Smith,Marketing,2017-05-12,Active,Contract
+Vincent Curry,Sales,2021-06-21,Inactive,Contract
+Jeffery Jones,Finance,2024-07-23,Inactive,Invoice
+Lisa Becker,Finance,2024-11-26,Active,NDA
+Frank Valdez,Finance,2026-02-04,Inactive,Invoice
+Gregory Hamilton,Sales,2025-12-27,Active,NDA
+Veronica Woods,Finance,2018-10-11,Active,Payslip
+Matthew Hernandez,IT,2017-01-06,Active,Employee Record
+Michael Eaton Jr.,Marketing,2025-02-03,Inactive,Contract
+John Berry,Sales,2019-11-08,Inactive,Invoice
+Stephen Hayes,Marketing,2023-10-01,Inactive,Employee Record
+Mason Hayden,HR,2022-06-08,Inactive,Employee Record
+Chelsey Rogers,IT,2022-07-05,Active,Contract
+Stacey Cook,Sales,2024-03-17,Active,NDA
+Joe Diaz,HR,2018-03-29,Active,NDA
+Nicholas Jenkins,Finance,2020-09-26,Active,Invoice
+Laurie Joseph,IT,2019-03-29,Active,NDA
+Diana Ortiz,Marketing,2019-03-23,Inactive,Employee Record
+Katie Smith,HR,2019-05-11,Inactive,Contract
+Gina Bryant,IT,2022-02-15,Active,Contract
+Roger Jefferson,HR,2025-05-09,Active,NDA
+Melissa Patterson,IT,2021-05-13,Inactive,Invoice
+Emily Hill,HR,2021-02-18,Active,NDA
+Rebecca Combs,Operations,2022-06-10,Active,Invoice
+Matthew Gibbs,HR,2018-03-27,Active,NDA
+Jennifer Williams,HR,2025-03-06,Inactive,Invoice
+Robert Gill,IT,2021-07-01,Inactive,Invoice
+Denise Taylor,Sales,2020-08-10,Inactive,Invoice
+Edward Patel,HR,2018-09-07,Active,Contract
+Charles Price,Operations,2021-04-20,Inactive,NDA
+Crystal Mack,HR,2023-04-10,Inactive,Employee Record
+Patrick Wise,Sales,2023-05-01,Active,Contract
+Emily Rivera,Sales,2024-02-02,Active,Contract
+Jessica Hurst,Finance,2025-05-20,Active,NDA
+Charles Cunningham,Sales,2017-06-16,Active,NDA
+James Webster,Sales,2024-07-23,Active,Contract
+Linda Leon,Finance,2023-08-01,Active,Invoice
+Samuel Davis,HR,2024-07-30,Active,Payslip
+Timothy Hinton II,Marketing,2019-09-25,Active,Payslip
+Cynthia Holmes,IT,2022-09-14,Inactive,NDA
+Brenda Morales,Finance,2026-04-28,Active,Contract
+Christina Crawford,Sales,2022-06-04,Active,Invoice
+Tanya Ritter,HR,2023-08-31,Active,Employee Record
+Nathaniel Miller,Marketing,2022-08-16,Inactive,NDA
+Bryan Mcguire,Sales,2025-04-24,Inactive,NDA
+Frank Williams,IT,2022-11-27,Active,Contract
+Melissa Hodges,Finance,2023-11-14,Active,Invoice
+James Contreras,Marketing,2018-10-09,Active,NDA
+Charlene Thomas,Finance,2021-10-11,Active,Invoice
+Shane Patrick,Finance,2016-10-29,Active,Employee Record
+Tara Charles,Operations,2024-06-10,Active,Employee Record
+Randall Owen,IT,2021-03-08,Active,NDA
+Megan Mcintosh,Sales,2017-10-31,Inactive,Payslip
+Jerry Sims,Finance,2026-02-02,Inactive,Payslip
+Teresa Pratt,Marketing,2020-11-13,Active,NDA
+Carrie Alvarez,HR,2019-07-10,Inactive,NDA
+Ernest Green,IT,2023-05-28,Active,Invoice
+Robert Brown,Marketing,2024-09-26,Active,Contract
+Nancy Johnston,Marketing,2025-06-29,Active,Contract
+Amanda Bernard,Sales,2022-11-20,Inactive,Contract
+Michael Hoffman,Sales,2024-08-03,Inactive,Contract
+Michelle Lamb,Sales,2023-07-08,Inactive,Contract
+Tim Weaver,Operations,2019-07-07,Inactive,Payslip
+Katie Jones,Marketing,2026-04-30,Active,Employee Record
+Maria Nguyen,IT,2022-10-08,Inactive,Contract
+Austin Suarez Jr.,Marketing,2019-06-25,Active,NDA
+Christina Bell,Marketing,2017-09-25,Active,NDA
+Gail Price,HR,2023-09-03,Active,NDA
+Aaron Anderson,IT,2017-02-25,Inactive,Employee Record
+Paul Rios,IT,2025-01-22,Inactive,Invoice
+Paige Thompson,Marketing,2022-08-15,Active,Contract
+Jack Saunders,IT,2022-05-17,Active,Contract
+Troy Thomas Jr.,Sales,2018-11-20,Inactive,Invoice
+Grant Moore,Marketing,2023-09-06,Inactive,Contract
+William Miller,Sales,2023-06-23,Active,Payslip
+Stephen Shaw,Finance,2021-06-03,Active,Contract
+Gregory Friedman,HR,2019-11-15,Inactive,Employee Record
+Brenda Hopkins,HR,2019-01-12,Active,Payslip
+Brittany Maddox,IT,2022-08-29,Inactive,NDA
+Christine Kelley,Operations,2022-10-19,Active,Employee Record
+Kaitlin Mckenzie,Finance,2024-05-18,Inactive,NDA
+Jonathan Santos IV,Marketing,2022-04-02,Active,Employee Record
+Adrienne Williams,Marketing,2018-12-18,Active,Payslip
+Francisco Potter,HR,2022-01-03,Active,Employee Record
+Andrea Gibbs DVM,Marketing,2019-12-04,Active,NDA
+John Lewis,Finance,2018-01-17,Inactive,NDA
+Jessica Frank,Operations,2016-06-30,Active,Employee Record
+Craig Miller,IT,2016-10-19,Active,Invoice
+Joseph Hudson,Finance,2016-12-27,Inactive,Invoice
+Robert Wilson,HR,2019-12-06,Active,Invoice
+Jonathan Clark,Finance,2019-08-11,Active,Contract
+Michael Henderson,Finance,2017-10-13,Active,Employee Record
+Charles Sandoval,HR,2025-11-15,Active,NDA
+Lindsay Howard,Finance,2022-05-25,Inactive,Contract
+Gordon Huber,Finance,2025-10-18,Active,Contract
+Jennifer Duffy,HR,2018-03-19,Inactive,NDA
+Julie Moreno,IT,2016-11-05,Inactive,Contract
+Monica Rivera,HR,2020-03-17,Inactive,Employee Record
+Sandra Maynard,HR,2025-07-09,Active,Contract
+Adam Townsend,Marketing,2022-08-29,Inactive,Invoice
+Terri Wiggins,Finance,2024-10-18,Inactive,Contract
+Stacy Lane,IT,2026-02-16,Inactive,Payslip
+Hannah Davis,IT,2018-08-25,Active,Employee Record
+Debbie Campbell,IT,2020-08-19,Active,Invoice
+Mr. Kenneth Elliott DVM,Operations,2020-05-06,Inactive,NDA
+Lisa Horn,Operations,2022-12-04,Inactive,Payslip
+Julie Santos,Marketing,2023-07-22,Inactive,Contract
+Anthony Blair,IT,2022-06-06,Active,NDA
+Kenneth Simpson,Operations,2024-06-21,Inactive,Employee Record
+Marie Nolan,IT,2018-10-09,Inactive,Contract
+Luke Patel,IT,2025-02-08,Inactive,Payslip
+Mr. Jeremy Ellis,IT,2025-03-19,Inactive,NDA
+William Zuniga,Marketing,2017-11-15,Active,Contract
+Jacob Francis,HR,2024-12-27,Inactive,Payslip
+Justin Wong,IT,2024-04-07,Active,NDA
+Chris Jones,Marketing,2024-05-11,Active,NDA
+Benjamin Moore,Marketing,2026-03-03,Inactive,Employee Record
+Kyle Wilson,Marketing,2025-07-13,Inactive,Contract
+Andrew Kim,IT,2016-11-28,Active,Employee Record
+Benjamin Stevens,Sales,2022-07-01,Active,NDA
+Jonathan Burns,Sales,2016-08-02,Active,NDA
+Erika Arnold,IT,2025-06-14,Inactive,Employee Record
+Jonathan Porter,Finance,2022-02-05,Inactive,NDA
+Paul Cooley,HR,2017-07-04,Inactive,Payslip
+Taylor Ramos,Finance,2022-05-18,Inactive,NDA
+Austin Perry,Sales,2019-05-10,Active,Invoice
+James Miller,HR,2021-12-23,Inactive,Contract
+John Christian,Marketing,2025-01-28,Inactive,Invoice
+Nicholas Hicks,IT,2023-07-13,Active,NDA
+Brian Burns,Operations,2024-11-10,Active,NDA
+James Villarreal,Finance,2023-10-18,Active,Employee Record
+Crystal Martinez,Sales,2018-05-01,Active,Contract
+Jim Vaughan,Operations,2019-11-11,Active,Contract
+Charles Harris,HR,2021-08-28,Active,Invoice
+Deborah Rivera,HR,2021-09-01,Inactive,NDA
+David Perez,Sales,2023-03-08,Inactive,Employee Record
+Angela Pennington,Marketing,2025-10-24,Inactive,NDA
+Joseph Marshall,HR,2023-04-26,Active,Employee Record
+Kathy Johnson,HR,2024-04-03,Inactive,Payslip
+Steven Forbes,Finance,2017-07-30,Inactive,Contract
+Isaac Brown,HR,2023-06-29,Active,Invoice
+Stephanie Smith,Sales,2024-05-20,Inactive,Invoice
+Sherry Jenkins,Marketing,2024-07-30,Inactive,Invoice
+Richard Elliott,HR,2024-07-26,Inactive,Employee Record
+Lisa Short,Operations,2017-03-14,Inactive,Payslip
+Virginia Holmes,HR,2023-02-19,Inactive,Employee Record
+John Mcconnell,Marketing,2025-10-30,Active,Payslip
+Erin Shannon,Operations,2021-06-28,Inactive,Invoice
+Vanessa Marquez,Marketing,2024-12-30,Active,Employee Record
+Marie Harris,Sales,2025-08-11,Active,Contract
+Emily White,HR,2025-08-21,Active,Invoice
+Kathryn Nguyen,Sales,2021-02-02,Inactive,NDA
+Sarah Hamilton,Operations,2024-03-10,Inactive,Payslip
+Matthew Torres,Marketing,2022-06-24,Inactive,Employee Record
+Maria Griffin,Operations,2025-01-31,Active,Contract
+Stephanie Wang,HR,2022-12-23,Active,Employee Record
+Ashley Bowen,Operations,2024-09-30,Inactive,Employee Record
+Jason Cooper,Operations,2025-03-10,Inactive,Payslip
+Valerie Hernandez,IT,2025-02-03,Active,Payslip
+Sara Kim,Marketing,2024-10-19,Active,Payslip
+Dr. Cody Robinson,Marketing,2020-04-28,Inactive,NDA
+Steven Glenn,Operations,2017-07-08,Inactive,NDA
+Douglas Rose,Finance,2024-10-19,Inactive,Contract
+Craig Armstrong,IT,2017-12-26,Active,Payslip
+Christine Kelly,Operations,2020-01-14,Inactive,Invoice
+Michael Fernandez,Marketing,2024-04-28,Inactive,Invoice
+Maria Gould,Operations,2022-02-08,Active,Employee Record
+Melinda Cox,Operations,2019-10-29,Active,Employee Record
+Mr. Brent Brady,HR,2025-10-08,Active,Payslip
+Erica Lucas,Operations,2023-12-17,Inactive,Contract
+Tiffany Archer,IT,2023-12-13,Active,NDA
+Stephen Roberts,Operations,2017-12-05,Inactive,NDA
+Geoffrey Wright,Sales,2019-10-11,Active,Invoice
+Priscilla Oliver,HR,2019-02-05,Active,Payslip
+Cheyenne Turner,Sales,2019-12-31,Inactive,Payslip
+Dakota Garrett,HR,2016-12-08,Active,Payslip
+Daniel Arnold,Operations,2022-04-16,Inactive,NDA
+Glenda Day,Operations,2023-06-04,Inactive,NDA
+Mitchell Jackson,Operations,2026-05-17,Active,Contract
+Tanner Rodriguez,Finance,2024-03-24,Inactive,Employee Record
+Makayla Nguyen,Operations,2024-05-02,Inactive,Payslip
+David Hanson,HR,2026-03-31,Inactive,Contract
+Christopher Osborne,Operations,2023-01-03,Active,Invoice
+Elizabeth Vaughn,Operations,2020-02-11,Active,Contract
+Kristina Moore,Marketing,2024-06-15,Inactive,Payslip
+Andrew Zhang,Operations,2017-06-19,Active,NDA
+Thomas Rubio,Finance,2017-08-16,Inactive,NDA
+Christy Thompson,IT,2019-04-05,Active,Employee Record
+Frederick Richardson,IT,2021-09-26,Inactive,Contract
+Joseph Bradford,Operations,2022-03-18,Inactive,NDA
+Lisa Mendez,Sales,2018-09-01,Active,Payslip
+Erika Alvarez,IT,2022-11-10,Inactive,Payslip
+Donald Perry,Sales,2019-03-15,Inactive,Payslip
+Selena Hunt,Operations,2023-06-26,Active,Invoice
+Vicki Rodriguez,Operations,2017-04-01,Inactive,Employee Record
+Alexandria Williams,Sales,2024-04-09,Active,NDA
+Clayton Williams,Marketing,2024-09-05,Active,Employee Record
+Aaron Juarez,Finance,2022-01-30,Active,Employee Record
+Danielle Benton,HR,2023-07-16,Active,NDA
+John Simmons,IT,2026-01-10,Active,NDA
+Sarah Garner,HR,2021-10-06,Active,Invoice
+Nicole Harris,Finance,2022-11-20,Inactive,Employee Record
+Kristen Smith,HR,2023-07-04,Inactive,Payslip
+Madison Stanley,Sales,2025-09-20,Inactive,Contract
+Adam Williams,HR,2021-01-12,Inactive,Payslip
+Andrew Hall,Marketing,2022-06-11,Inactive,Payslip
+Tyler Hunter,Sales,2021-02-06,Active,Payslip
+Joshua Pineda,Sales,2021-08-15,Active,NDA
+Terry Ward,Sales,2017-04-20,Active,Employee Record
+Megan Valdez,Operations,2026-04-18,Active,Payslip
+Bruce Meyers,Sales,2023-03-29,Inactive,Employee Record
+Anna Aguilar,Operations,2025-10-18,Active,Contract
+Derrick Hampton,Sales,2026-04-06,Inactive,NDA
+Mark Zhang,Sales,2022-07-19,Active,Payslip
+Erin Rodriguez,HR,2020-10-16,Active,Invoice
+Robert Perry,HR,2020-11-14,Active,Invoice
+Hunter Clark,Operations,2023-06-29,Active,Employee Record
+Linda Rivera,HR,2026-01-27,Active,Invoice
+Anna Smith,HR,2021-11-15,Active,Contract
+David Simpson,Marketing,2021-11-19,Inactive,NDA
+Mary Daniels,IT,2017-08-13,Active,Payslip
+Hailey Taylor,Finance,2020-01-10,Active,Employee Record
+Garrett Lopez,Marketing,2020-09-28,Active,Contract
+Michael Morris,Marketing,2020-05-22,Inactive,NDA
+Joseph Davis,HR,2017-11-18,Active,Payslip
+Isabel Jones,HR,2018-05-20,Inactive,Contract
+Kristen Mendoza,Sales,2017-01-20,Active,NDA
+Kara Houston,Sales,2017-05-19,Active,Contract
+Shannon Chang MD,Finance,2019-07-08,Inactive,Payslip
+Diana Newton,Operations,2025-08-22,Inactive,Invoice
+Christopher Dawson,Marketing,2024-06-05,Inactive,Invoice
+Mrs. Lisa Petersen,Marketing,2024-12-05,Active,NDA
+Audrey Bender,IT,2016-08-09,Active,Payslip
+Kristin White,Finance,2018-11-23,Active,NDA
+Maria Jones,IT,2020-06-29,Active,NDA
+David Berger,Finance,2020-11-15,Active,NDA
+Isaac Daniels,IT,2026-01-20,Active,Invoice
+Sandra Thompson,HR,2019-07-24,Active,Invoice
+Megan Richardson,Sales,2022-01-07,Inactive,NDA
+Stanley Bush,Operations,2017-08-14,Active,Employee Record
+Bethany Rose,Sales,2019-08-03,Active,Invoice
+Gregory Ramirez,Operations,2022-06-20,Inactive,Employee Record
+Brian Clark,Finance,2019-08-15,Inactive,Payslip
+Scott Miller,IT,2025-04-01,Inactive,NDA
+Brittney Faulkner,IT,2023-01-10,Inactive,Payslip
+Dennis Boone,IT,2016-10-01,Inactive,Invoice
+Ryan Moore,Marketing,2025-10-21,Active,NDA
+Thomas Wilson,Finance,2024-02-17,Active,Invoice
+Cassandra Lucero,Marketing,2025-04-01,Inactive,NDA
+Ross Beard,HR,2017-11-23,Inactive,Payslip
+Katherine Wood,Finance,2022-10-20,Active,NDA
+Jerry Cruz,Marketing,2019-12-30,Inactive,Payslip
+Sarah Valdez,Operations,2024-08-14,Active,Contract
+Maureen Garza,Operations,2021-02-12,Inactive,Invoice
+Cassandra Delgado,Sales,2020-08-09,Active,Contract
+Leslie Hamilton,HR,2026-04-24,Inactive,Payslip
+Steven Ward,Operations,2023-10-26,Inactive,Payslip
+Zachary Perry,Sales,2020-09-24,Active,Invoice
+Richard Wagner,IT,2022-05-12,Active,Contract
+Shannon Lewis,Finance,2026-01-02,Inactive,NDA
+Lauren Russell,Finance,2018-11-30,Active,Payslip
+George Ray,Sales,2024-10-09,Inactive,Payslip
+Paula Baxter,Marketing,2017-10-30,Inactive,NDA
+Lydia Marshall,Sales,2020-10-29,Inactive,Employee Record
+Regina Sharp,Finance,2021-03-23,Inactive,Contract
+Virginia Murray,Sales,2020-01-19,Active,Contract
+Clayton Floyd,Finance,2022-09-25,Active,Contract
+Omar Lynn,IT,2017-07-01,Active,Contract
+Bryan Hicks,IT,2018-10-06,Active,Invoice
+Justin Jones,Finance,2021-05-29,Active,Payslip
+Michael Yu,Operations,2025-11-24,Active,NDA
+Shane Holland,Sales,2020-11-14,Active,NDA
+Scott Sampson,HR,2022-07-20,Active,Invoice
+Deborah Zavala,Sales,2021-10-10,Active,Payslip
+Jennifer Cunningham,Marketing,2025-03-25,Inactive,Contract
+Daniel Brown,Marketing,2024-01-23,Active,NDA
+Anthony Sanders,Sales,2022-08-19,Active,Contract
+Keith Hill,HR,2017-03-12,Inactive,Invoice
+Ricky Koch,Sales,2023-06-16,Inactive,Payslip
+Thomas Sanchez,Marketing,2018-01-29,Active,Payslip
+James Moore,Operations,2023-04-09,Inactive,Contract
+Cynthia Campbell,Marketing,2026-03-20,Inactive,Payslip
+Deborah Terry,Operations,2023-12-10,Active,Invoice
+Amber Johnson,Sales,2022-08-08,Inactive,Payslip
+Mrs. Kayla Lee,Marketing,2018-04-10,Active,Invoice
+Matthew Fletcher,Marketing,2024-08-31,Active,NDA
+Jason Dennis,Sales,2018-09-02,Active,Payslip
+Steven Anderson,Marketing,2020-01-20,Active,Contract
+Jeanette Evans,Sales,2023-11-16,Inactive,NDA
+Derek Wilson,IT,2018-11-22,Inactive,NDA
+Crystal Rodriguez,Operations,2017-11-08,Active,Payslip
+David Hanson,Sales,2023-11-05,Active,Employee Record
+Patrick Garcia,Sales,2020-07-03,Active,Payslip
+Howard Johnson,Finance,2023-09-09,Inactive,Contract
+Robin Garza,Finance,2023-10-01,Inactive,Contract
+Shawn Griffith,Sales,2021-05-02,Inactive,Payslip
+David Frederick,IT,2025-01-09,Active,Payslip
+Amanda Turner,HR,2025-05-27,Active,Invoice
+Jane Hernandez,Sales,2024-08-30,Inactive,Contract
+Caitlin Stanton,HR,2025-08-14,Inactive,Payslip
+Renee Garcia,HR,2026-05-06,Inactive,Employee Record
+Christopher Miller,Operations,2021-10-25,Inactive,Invoice
+Mallory Cruz,HR,2021-03-30,Inactive,Payslip
+Amanda Martin,Operations,2018-03-17,Active,Invoice
+Mitchell Rodgers,Sales,2020-06-25,Active,NDA
+Brittany Hudson,Marketing,2024-09-30,Active,Employee Record
+Adam Potts,Marketing,2025-01-31,Inactive,Employee Record
+Mrs. Jaime Harmon,IT,2024-11-21,Active,Employee Record
+Richard Acevedo,HR,2020-11-25,Active,Employee Record
+Sara Pugh,HR,2017-09-03,Inactive,Employee Record
+Meghan Johnson,HR,2022-04-25,Inactive,Payslip
+Christopher Hurley,HR,2024-08-30,Active,NDA
+Wanda Brown,IT,2026-02-01,Inactive,NDA
+Michelle Bowman,IT,2024-10-30,Active,Employee Record
+Cynthia Parrish,Sales,2025-09-05,Active,Payslip
+Joyce Torres,Sales,2024-09-05,Inactive,Invoice
+Russell Parsons,Operations,2023-07-08,Inactive,Employee Record
+Barbara Ross,Marketing,2025-11-23,Inactive,Employee Record
+Matthew Vazquez,HR,2020-12-28,Active,Invoice
+Joseph Williams,HR,2019-12-17,Active,Invoice
+Stephanie Smith,HR,2026-05-08,Inactive,Contract
+Andrew Patel,Marketing,2021-11-11,Inactive,NDA
+Mr. Steven Smith,HR,2021-07-08,Inactive,Invoice
+Victoria Wade,Operations,2019-10-15,Inactive,Contract
+Jessica Hughes,Marketing,2017-08-16,Active,Employee Record
+Brian Carpenter,HR,2019-11-25,Active,Contract
+Tara Norris,Operations,2018-09-10,Inactive,Payslip
+Courtney Lindsey,Marketing,2017-03-17,Active,NDA
+Jonathan Hudson,Operations,2019-08-11,Active,Invoice
+Madison Mann,IT,2019-07-11,Inactive,Employee Record
+Logan Thompson,Finance,2023-11-25,Inactive,Invoice
+Jason Rice,Operations,2021-01-20,Active,NDA
+Victoria Moss,Operations,2021-02-21,Active,NDA
+Gregory Bradshaw,Marketing,2025-09-28,Inactive,NDA
+Annette Walton,Sales,2023-12-30,Inactive,Invoice
+Chelsey Bishop,HR,2022-01-26,Active,NDA
+Laura Welch,Sales,2021-09-17,Active,Invoice
+Adrienne Mejia,HR,2024-06-24,Active,NDA
+Manuel Burns,Sales,2020-03-25,Inactive,NDA
+Amy Mays,HR,2021-02-16,Inactive,Contract
+Michele Stevenson,HR,2025-05-07,Inactive,Payslip
+Michelle Banks,Sales,2024-04-06,Inactive,Contract
+Regina Caldwell,Marketing,2020-06-11,Inactive,NDA
+Karen Wilkins,Operations,2022-12-09,Inactive,NDA
+Jacqueline Owens,Finance,2018-05-30,Inactive,Employee Record
+Kimberly Walker,HR,2023-09-05,Active,Contract
+Kayla Parker,IT,2019-11-25,Active,Employee Record
+Kayla Steele,HR,2021-11-19,Inactive,NDA
+David Williams,IT,2021-12-15,Inactive,Contract
+Patricia Gonzalez,Finance,2018-10-31,Inactive,NDA
+Tiffany Alvarez,Sales,2022-03-14,Inactive,Contract
+Arthur Lynn,IT,2024-02-15,Active,Employee Record
+Thomas Christian,Operations,2019-07-30,Active,Employee Record
+Laurie Carpenter,HR,2017-06-03,Inactive,Payslip
+Jimmy Walter,Finance,2018-02-27,Inactive,Employee Record
+Joanna Hart,Finance,2022-12-31,Inactive,NDA
+Toni Harrington,Finance,2024-11-15,Inactive,Payslip
+David Diaz,Sales,2022-02-14,Inactive,Invoice
+Sean Ward,IT,2020-02-02,Inactive,Employee Record
+Ralph Williams,Operations,2021-02-08,Inactive,Payslip
+Frank Ortiz,IT,2023-03-23,Active,NDA
+Elizabeth Hammond,Sales,2021-02-13,Inactive,Invoice
+Alicia Ritter,HR,2019-08-12,Active,NDA
+Donald Richardson,HR,2019-01-02,Active,Contract
+Hector Freeman,Sales,2023-12-25,Inactive,NDA
+Tami Yu,Marketing,2021-01-29,Active,Invoice
+Derrick Robinson,Sales,2017-08-19,Inactive,Invoice
+Jessica Davis,Finance,2022-10-25,Active,Contract
+Nathan Brown,Sales,2025-06-13,Active,Payslip
+Mary Hoffman,Sales,2018-07-31,Active,Contract
+Jason Williams,Finance,2023-02-04,Inactive,Contract
+James Villegas,HR,2018-02-05,Inactive,Payslip
+Jessica Stewart,Sales,2019-08-30,Inactive,Employee Record
+Gregg Anderson,Marketing,2020-01-20,Inactive,Payslip
+Cassandra Griffith,Finance,2022-12-04,Inactive,Employee Record
+Dawn Osborne,Marketing,2020-02-13,Inactive,NDA
+Eddie Harrison,Sales,2024-03-15,Inactive,Invoice
+Joseph Chen,IT,2023-08-23,Inactive,Payslip
+Christine Martinez,Sales,2019-05-20,Inactive,Contract
+Jenna Howell,Operations,2019-02-11,Inactive,NDA
+Richard Hooper,Operations,2018-04-28,Active,Payslip
+Matthew Carpenter,IT,2020-07-09,Inactive,Employee Record
+Angela Jackson,IT,2019-06-03,Inactive,Payslip
+Michelle Park,IT,2021-02-28,Inactive,Contract
+Trevor Carter,Operations,2022-02-21,Inactive,Contract
+Denise Baker,IT,2017-05-02,Inactive,Employee Record
+Nancy Arroyo,IT,2016-09-05,Inactive,Employee Record
+Mrs. Elizabeth Russell,HR,2020-09-04,Inactive,Contract
+Ian Brooks,Operations,2021-02-10,Inactive,Contract
+Sara Conner,IT,2018-09-14,Active,Employee Record
+Scott Morton,Sales,2022-02-26,Active,NDA
+Laura Jones,Marketing,2018-12-07,Inactive,Invoice
+James Martin,Sales,2019-03-06,Active,Payslip
+Erica Gordon,HR,2018-02-11,Inactive,Contract
+Jose Kelly,Operations,2021-08-21,Active,Invoice
+Keith Baker,Operations,2025-03-26,Active,Employee Record
+Nina Hoffman,HR,2021-08-19,Active,Payslip
+Richard Cox,HR,2019-08-29,Active,Payslip
+John Yang,Operations,2024-11-19,Inactive,Payslip
+Jennifer Gonzales,HR,2018-09-01,Inactive,NDA
+Amy Mitchell,Marketing,2020-07-29,Active,Employee Record
+Jennifer Best,Sales,2022-03-30,Active,Contract
+Mr. Leroy Jackson,Sales,2020-08-29,Active,NDA
+Teresa Fields,Sales,2021-08-04,Active,Invoice
+David Martinez,IT,2017-12-17,Active,Invoice
+Kari Thompson,HR,2017-05-30,Inactive,Employee Record
+April Perry,Operations,2021-04-13,Inactive,Invoice
+Sierra Carter,HR,2018-10-10,Active,NDA
+Pamela Fuller,HR,2019-06-04,Active,NDA
+Stephanie Mendoza,Finance,2024-05-15,Inactive,Contract
+Kristen Vega,Operations,2023-01-09,Active,Payslip
+Michael Gilbert,Finance,2020-11-17,Active,NDA
+Andrew Ali,Marketing,2018-12-27,Active,Payslip
+Marc Robinson,HR,2022-11-11,Active,Invoice
+Stephanie Kim,Sales,2020-10-10,Inactive,Payslip
+Terry Torres,Finance,2019-02-28,Active,Payslip
+Heather Downs,HR,2020-03-03,Active,Invoice
+Tamara Clements,Operations,2026-01-04,Active,Contract
+Victoria Young,Operations,2026-05-28,Inactive,NDA
+Andrea Arnold,Finance,2021-12-24,Inactive,Invoice
+James Carter,Marketing,2020-01-04,Active,Payslip
+Regina Gonzalez,IT,2019-07-17,Inactive,NDA
+Robin Fernandez,Sales,2017-04-07,Inactive,Contract
+Samantha Farmer,HR,2022-01-19,Active,Employee Record
+Peter Schultz,HR,2020-02-28,Inactive,Payslip
+Deborah Stark,Marketing,2023-06-27,Inactive,Employee Record
+Kristin Murray,Finance,2024-03-01,Inactive,Invoice
+Joshua Vega,Sales,2023-07-11,Inactive,NDA
+Nicholas Lin,Marketing,2023-06-02,Inactive,Invoice
+Todd Gonzalez,Marketing,2023-04-29,Active,Payslip
+John Morse,Sales,2024-08-14,Active,Payslip
+John Lewis,Marketing,2023-09-19,Active,NDA
+Steven Thomas,Operations,2025-04-29,Active,Contract
+Lisa Reyes,Marketing,2018-10-10,Active,Payslip
+Kristen Hanson,IT,2017-09-12,Active,Contract
+Michele Hutchinson,Sales,2020-01-14,Active,Employee Record
+Mark Joyce,HR,2017-10-04,Active,Payslip
+Gordon Mcdonald,Operations,2025-02-26,Active,Contract
+Emily Chang,IT,2016-10-27,Active,Payslip
+Sean Gates,Operations,2018-11-13,Inactive,Contract
+Juan Booker,Finance,2016-09-24,Active,Employee Record
+Dana Rodriguez,Finance,2024-06-10,Active,Contract
+Sarah Peters,HR,2023-10-18,Inactive,Employee Record
+Angela Jackson,Operations,2026-05-14,Inactive,Invoice
+Dr. Monique Williams MD,Finance,2023-10-24,Inactive,Invoice
+Keith Nelson,Marketing,2018-11-27,Inactive,Payslip
+Lisa Mitchell,Marketing,2025-05-21,Active,Payslip
+Timothy Knight,Operations,2022-01-13,Active,NDA
+Christopher Bryant,Marketing,2019-09-06,Active,NDA
+Tiffany Garza,Finance,2018-12-05,Active,Payslip
+Steven Johns,Marketing,2021-05-08,Inactive,NDA
+Jacob Berger,Marketing,2021-08-20,Inactive,Payslip
+Briana Estrada,Operations,2016-08-11,Inactive,Employee Record
+Jodi Hansen,Sales,2020-08-21,Active,Invoice
+Steven Jones,Finance,2024-11-08,Inactive,Payslip
+Rachel Bowers,Sales,2021-08-07,Inactive,NDA
+Tiffany Mitchell,IT,2018-03-19,Inactive,Invoice
+Adam Benson,Finance,2016-12-12,Inactive,Employee Record
+Michael Terry,HR,2022-04-30,Active,NDA
+Laura Park,HR,2017-10-22,Active,Contract
+Emily Carey,Marketing,2018-06-29,Active,Payslip
+Alyssa Diaz,Marketing,2018-06-02,Active,Invoice
+Dana Stewart,Finance,2025-01-31,Active,Contract
+Ricky Shaw,Finance,2019-01-19,Active,Invoice
+Brandon Perkins,IT,2026-01-30,Active,Invoice
+Jason Atkinson,Finance,2019-07-27,Inactive,Employee Record
+Brandon Terrell Jr.,HR,2024-09-13,Inactive,Invoice
+Tony Pena,IT,2025-05-01,Active,Employee Record
+Chad Cameron,Sales,2025-01-20,Active,Contract
+Michael Torres,Operations,2016-12-22,Active,Invoice
+William Hart,Sales,2017-12-18,Inactive,Payslip
+Trevor Boyle,Marketing,2017-09-04,Inactive,Employee Record
+Michael Jones,Operations,2017-09-12,Active,Employee Record
+Jamie Lane,IT,2017-09-28,Inactive,Invoice
+Gerald Myers,HR,2016-09-18,Inactive,NDA
+William Barry,Finance,2022-07-29,Inactive,NDA
+Erin Wheeler,IT,2023-12-20,Inactive,Employee Record
+Martha Woods,IT,2017-08-07,Active,Contract
+Brittany Burns,Operations,2018-11-13,Active,NDA
+Jordan Hernandez,Operations,2023-02-08,Inactive,NDA
+Alexis Bray,IT,2017-12-16,Inactive,Payslip
+Sergio Rowland,IT,2024-03-13,Active,NDA
+Jose Kelly,Finance,2018-12-31,Active,Payslip
+Michael Edwards,Finance,2016-09-03,Active,NDA
+Albert Brewer,IT,2020-01-07,Inactive,NDA
+William Garcia,HR,2017-10-08,Active,NDA
+Jeffrey Paul,Marketing,2019-09-17,Active,Contract
+Brandy Riley,Marketing,2019-03-08,Inactive,NDA
+Kimberly Hendrix,HR,2023-02-10,Inactive,Contract
+Nathaniel Jackson,HR,2017-01-26,Inactive,Contract
+Cassandra Randolph,IT,2021-06-12,Active,Contract
+Dr. Robert Hicks,IT,2022-02-10,Inactive,NDA
+Jennifer Garcia,Operations,2019-06-18,Inactive,Employee Record
+Shelia Fernandez,Marketing,2019-05-31,Inactive,Employee Record
+Adam Skinner,Sales,2020-12-06,Active,Invoice
+Mark Hanson,Finance,2026-03-13,Inactive,NDA
+Melissa Saunders,Finance,2024-11-22,Active,Invoice
+Timothy Randolph,Sales,2023-11-03,Active,NDA
+Larry Murphy,Sales,2018-03-30,Active,Contract
+Angela Brown,HR,2016-10-21,Inactive,NDA
+John Rivera,Operations,2025-05-29,Active,Payslip
+John Wilson,Sales,2025-12-25,Active,NDA
+Crystal Santos,Finance,2024-03-15,Inactive,NDA
+Kristina Meza,Finance,2021-10-24,Active,Invoice
+Melissa Martinez,Operations,2022-03-19,Inactive,Payslip
+Daniel Moore,Finance,2024-11-20,Active,Invoice
+Neil Wolfe,Marketing,2021-12-23,Active,Invoice
+Mark Hill,IT,2020-03-21,Inactive,Payslip
+Amy Peterson,Operations,2016-10-19,Active,Employee Record
+James Green,HR,2021-04-25,Inactive,Employee Record
+Mrs. Sarah Mcintosh DDS,IT,2017-09-15,Inactive,Payslip
+Amanda Mccarty,HR,2023-08-27,Active,NDA
+Nicholas Little,Sales,2022-07-14,Inactive,Invoice
+Veronica Powell,Marketing,2017-08-18,Inactive,Payslip
+Daniel Webster,HR,2026-04-12,Inactive,Contract
+Jamie Miller,IT,2025-08-23,Active,NDA
+Cynthia Burns,Finance,2024-05-14,Active,Contract
+Martin Marks,Finance,2022-05-14,Inactive,Invoice
+Tracy Wu,HR,2018-02-16,Inactive,Payslip
+Keith Roberts,Marketing,2019-08-02,Active,Payslip
+Matthew Bryan,Marketing,2019-10-23,Inactive,Invoice
+Cynthia Quinn,Marketing,2021-10-16,Active,Payslip
+Scott Kramer,Finance,2022-04-24,Inactive,Contract
+Terrance Morrow,HR,2017-09-07,Inactive,Invoice
+Vicki Martinez,IT,2024-10-17,Inactive,Payslip
+Makayla Wall,Marketing,2020-12-22,Active,Payslip
+Kathryn Stevens MD,Marketing,2025-07-17,Active,Invoice
+Barbara Edwards,Marketing,2020-07-05,Active,Invoice
+Michelle Tanner,Operations,2017-07-20,Inactive,Payslip
+Alexandra Stone,Finance,2024-08-03,Active,Contract
+Anna Miller,HR,2025-02-07,Active,NDA
+Dylan Bauer,Marketing,2021-06-27,Inactive,Employee Record
+Roy Miller,Marketing,2020-05-29,Inactive,Employee Record
+Hannah Matthews,Sales,2017-09-06,Active,Payslip
+Vanessa Johnson,Finance,2022-05-11,Inactive,Contract
+Taylor Watkins,Finance,2017-01-12,Active,Contract
+Brian Carter,Marketing,2024-07-03,Active,Payslip
+Jasmine Price,Marketing,2018-05-21,Active,Contract
+Deborah Johnston,IT,2019-02-02,Active,Contract
+Colton Austin DVM,Sales,2018-08-21,Active,Payslip
+Stacey Campbell,Operations,2016-08-12,Inactive,NDA
+Justin Young,Sales,2022-09-18,Inactive,Employee Record
+Heidi Jacobson,Finance,2019-05-12,Inactive,Payslip
+Casey Riley,Finance,2016-08-25,Active,NDA
+Christine Reyes,Operations,2021-12-09,Inactive,Employee Record
+Cameron Hill,IT,2024-03-17,Inactive,Invoice
+Valerie Montoya,Sales,2023-03-20,Inactive,Invoice
+Sandra Flores,Finance,2020-12-19,Active,Invoice
+Stephen Parker,Marketing,2018-05-24,Active,Contract
+Erica Brown,Sales,2022-10-01,Active,Employee Record
+Stephanie White,Marketing,2019-04-01,Inactive,Payslip
+Jessica Hansen,Finance,2025-07-31,Inactive,NDA
+Heather Lowe,Finance,2017-03-16,Active,Employee Record
+Felicia Davidson,Operations,2024-01-05,Inactive,Invoice
+Alan Rodriguez,Finance,2023-06-25,Inactive,Contract
+Sara Jones,Operations,2017-10-12,Active,Employee Record
+Tammy Davidson,Operations,2018-10-30,Active,Payslip
+Brian Weaver,IT,2026-05-19,Active,NDA
+Gary Gomez,Finance,2026-05-22,Active,Invoice
+Terry Thompson,IT,2023-01-23,Active,Invoice
+Heather Obrien,IT,2023-10-05,Inactive,Payslip
+Pamela Gibson,Finance,2020-10-14,Inactive,Contract
+Adrienne Gilbert,IT,2018-05-15,Active,Employee Record
+Austin Avila,IT,2025-09-13,Active,Contract
+Jack Hunter,Operations,2018-11-05,Inactive,Invoice
+Kelsey Lee,Finance,2022-05-22,Inactive,Payslip
+Matthew Berg,Finance,2022-06-23,Active,Payslip
+Katherine Lewis,Operations,2018-10-25,Inactive,Contract
+Christian Shaffer,Marketing,2022-09-28,Inactive,Contract
+Elizabeth Williams,Marketing,2025-01-14,Inactive,NDA
+Cynthia Douglas,IT,2016-07-24,Active,Invoice
+Kenneth Oconnor,IT,2023-02-17,Active,Payslip
+Lynn Ward,Finance,2023-03-12,Inactive,Contract
+Bryan Green,Sales,2025-12-14,Inactive,Contract
+Gina Lowery,Finance,2017-03-10,Active,Invoice
+Kelly Davis,IT,2024-10-24,Inactive,Employee Record
+Olivia Gonzalez,HR,2017-01-19,Inactive,Payslip
+Evan Matthews,Operations,2024-01-24,Active,Invoice
+Elizabeth Floyd,IT,2019-07-16,Active,Contract
+Michael Garcia,HR,2023-02-11,Inactive,NDA
+Jared Clark,Finance,2020-02-18,Active,Invoice
+Angela Conley,Operations,2019-10-05,Inactive,Contract
+Mr. Michael Riley,HR,2019-03-09,Active,Payslip
+Colleen Lopez,Sales,2025-05-09,Active,NDA
+Michael Kelley,IT,2022-06-10,Active,Invoice
+Mr. Dalton Munoz,IT,2021-08-16,Active,Contract
+Stephanie Harvey,Finance,2023-10-14,Inactive,Contract
+Kenneth Sampson,IT,2024-01-26,Inactive,Payslip
+Samantha Richardson,HR,2025-10-10,Active,Contract
+Walter Ewing,Sales,2018-04-09,Inactive,Invoice
+James Wolfe,IT,2021-02-11,Inactive,Contract
+William Brown,HR,2020-12-09,Active,Invoice
+Gabriel Butler,Sales,2019-08-17,Inactive,Payslip
+Matthew Watkins,HR,2018-03-08,Inactive,Payslip
+Kimberly Washington,IT,2017-02-03,Inactive,Payslip
+Christopher Bailey,Marketing,2024-11-19,Inactive,Contract
+Eric Vargas,IT,2019-02-03,Active,Invoice
+Chloe Stone,Sales,2018-02-26,Inactive,Invoice
+Sierra Ballard,Operations,2026-03-10,Active,Payslip
+Susan Allen,Finance,2025-01-07,Inactive,Employee Record
+Richard Ellis,Sales,2024-03-12,Inactive,Invoice
+Karen Walker,Finance,2017-10-08,Inactive,NDA
+Mrs. Shannon Price,IT,2020-09-19,Active,Employee Record
+Terri Thomas,Marketing,2016-07-21,Inactive,NDA
+Elizabeth Perez,HR,2021-12-10,Active,Invoice
+Jennifer Nichols,HR,2017-12-31,Inactive,NDA
+Kayla Powell,Finance,2019-09-30,Active,Payslip
+Dawn Schmidt,IT,2022-03-14,Inactive,Invoice
+Erin Horton,HR,2020-06-22,Active,NDA
+Thomas Daniels,IT,2025-03-15,Active,Payslip
+Cassandra Mcclure,Finance,2022-08-06,Inactive,Employee Record
+Lauren Robinson,Operations,2025-03-17,Active,NDA
+Robert Stephens,IT,2017-12-19,Active,Employee Record
+Michael Fritz,Sales,2025-10-22,Inactive,Contract
+Morgan Herrera,IT,2018-12-14,Inactive,Payslip
+Debbie Marshall,HR,2025-04-09,Active,Invoice
+James Stanley,HR,2021-12-24,Active,Payslip
+Christopher Johnson,Sales,2017-06-06,Active,Employee Record
+Pamela Bennett,Operations,2018-10-12,Active,Payslip
+Amy Davis,HR,2017-11-20,Inactive,Employee Record
+Daniel Thomas,Operations,2020-11-22,Inactive,NDA
+Sergio Ellis,Marketing,2025-10-17,Active,Payslip
+Joseph Rice,Finance,2024-05-19,Inactive,Payslip
+Matthew Payne,Marketing,2023-09-05,Inactive,Payslip
+Jill Anderson,HR,2016-11-20,Active,NDA
+Ana Rodriguez,Sales,2022-05-11,Active,NDA
+Adam Wright,Finance,2025-03-02,Active,Payslip
+Jose Walker,Sales,2019-03-05,Active,Payslip
+Tanya Clark,Marketing,2021-06-30,Inactive,Payslip
+Blake Keller,IT,2026-05-18,Inactive,NDA
+Robert Johnson,Operations,2024-11-26,Active,Contract
+Tyler Townsend,Finance,2016-07-20,Inactive,Employee Record
+Michelle Lewis,Sales,2016-12-14,Inactive,Employee Record
+Beth Richmond,HR,2021-03-11,Inactive,Invoice
+Victoria Moore,Sales,2020-03-27,Active,Employee Record
+Brian Cruz,Finance,2021-02-13,Active,Invoice
+Kimberly Phillips,Marketing,2021-08-13,Inactive,Invoice
+Matthew Kelly,Finance,2026-04-28,Active,Invoice
+Taylor Baker,Operations,2023-12-06,Inactive,Employee Record
+Katie Wright,IT,2018-11-27,Inactive,NDA
+Lacey Bright,HR,2023-09-12,Active,Employee Record
+Samantha Fletcher,HR,2022-05-07,Active,Payslip
+Michael Flores,IT,2017-06-22,Active,Invoice
+Terrance Coleman MD,Sales,2016-08-11,Active,NDA
+Selena Hayes,Sales,2021-12-19,Inactive,Contract
+Neil Perez,Sales,2022-04-08,Active,NDA
+Andrea Vang,Operations,2024-04-06,Inactive,Employee Record
+Dustin King Jr.,Sales,2025-04-14,Active,Invoice
+Kimberly Shah,Finance,2025-06-30,Inactive,Payslip
+Richard Gill,Finance,2022-02-21,Inactive,Invoice
+Lynn Ross,IT,2023-05-29,Inactive,Invoice
+Jeffrey Andrade,Sales,2020-05-18,Active,Contract
+Lisa Case,HR,2021-05-06,Inactive,Employee Record
+Jenna Elliott,HR,2024-05-06,Inactive,Contract
+Kenneth Hunt,Marketing,2021-06-21,Active,Employee Record
+Lee Jones III,Operations,2016-12-08,Active,Invoice
+Frank Campbell,IT,2026-06-09,Active,Invoice
+Dawn Graham,IT,2023-07-06,Inactive,NDA
+Regina Hunt,HR,2022-10-02,Inactive,Employee Record
+Kenneth Powers,Finance,2022-11-03,Active,Employee Record
+Paige Moody,HR,2022-07-25,Active,Contract
+Elizabeth Ramos,IT,2016-06-30,Inactive,Invoice
+Lauren Carter,Finance,2018-08-14,Active,Payslip
+Jeremy Griffith,Finance,2021-03-26,Active,Invoice
+Jennifer Martin,Operations,2022-07-10,Inactive,NDA
+Stacey Yang,Finance,2021-11-18,Active,NDA
+William Taylor,Sales,2021-11-11,Inactive,Contract
+Sylvia Ramirez,Sales,2022-05-09,Inactive,Employee Record
+James Schroeder,Finance,2022-09-11,Inactive,Payslip
+Lauren Cox,Operations,2024-09-17,Active,NDA
+Emily Davidson,HR,2020-08-24,Active,NDA
+Jessica Morris,Marketing,2024-04-18,Active,Contract
+Andrew Martin,Sales,2025-01-04,Inactive,Invoice
+Natalie Perez,HR,2022-02-21,Active,Invoice
+Vanessa Little,IT,2025-02-10,Active,Payslip
+Renee Holloway,HR,2022-11-26,Inactive,NDA
+Tara Sanchez,Finance,2017-03-06,Active,Invoice
+Isabella Simmons,Finance,2021-02-15,Active,Employee Record
+Joshua Wright,Finance,2017-11-30,Inactive,Contract
+Luis Bryant,Marketing,2017-12-31,Active,Invoice
+Samantha Love,Finance,2019-03-05,Inactive,Invoice
+Robert Martin,Finance,2023-04-14,Inactive,Payslip
+Dr. Helen Mcneil,IT,2021-05-21,Inactive,Employee Record
+Amy Fuller,HR,2022-10-19,Active,Invoice
+Katelyn Ford,Finance,2018-08-07,Active,NDA
+Jamie Savage,Sales,2021-06-10,Inactive,Payslip
+Rachel Steele,Marketing,2018-07-08,Inactive,Payslip
+Sabrina Smith,Marketing,2026-03-21,Inactive,Employee Record
+Seth Castillo,Finance,2025-04-29,Inactive,Invoice
+Wesley Sutton,Marketing,2023-08-24,Active,Contract
+Tiffany Hernandez,Marketing,2024-09-10,Active,Contract
+Edwin Hernandez,Sales,2019-12-15,Inactive,NDA
+Evan Black,Operations,2021-02-07,Inactive,NDA
+Christopher Cobb,Marketing,2021-12-31,Inactive,Employee Record
+Kaitlin Jackson,Sales,2019-02-17,Inactive,Contract
+Kevin Beck,Sales,2022-04-13,Inactive,Employee Record
+Travis Parks,Operations,2018-10-29,Active,Payslip
+Laura Williams,Marketing,2021-10-11,Inactive,Invoice
+Charles Perez,IT,2024-11-20,Inactive,Payslip
+John Peterson,Operations,2024-07-15,Inactive,Employee Record
+Jessica Rose,Sales,2016-06-22,Active,Payslip
+Jessica Ferguson,Operations,2021-10-30,Inactive,NDA
+Scott Cameron,Sales,2024-01-26,Active,Payslip
+Roberto Wilson,HR,2021-05-11,Active,Employee Record
+Bill Howell,Marketing,2019-01-01,Inactive,Payslip
+Rachel Wilson,Finance,2026-03-16,Inactive,Contract
+Cynthia Perkins,Finance,2025-09-11,Active,Employee Record
+Christian Peterson,Sales,2021-10-08,Active,NDA
+Cindy Butler,Sales,2023-07-02,Active,Payslip
+Jason Mccoy,Operations,2017-03-27,Active,Contract
+John Smith,IT,2021-10-13,Inactive,Invoice
+Courtney Thompson,Marketing,2025-10-22,Inactive,Invoice
+Raymond Brown,Finance,2019-06-10,Inactive,Contract
+Natasha Caldwell,Marketing,2016-09-10,Active,Invoice
+Joshua Riley,IT,2025-12-18,Inactive,NDA
+Tiffany Gardner,HR,2025-03-26,Inactive,Payslip
+Natalie Ferguson,Marketing,2016-11-16,Inactive,Contract
+Shelley Davis,Finance,2024-08-24,Inactive,Payslip
+Justin Davila,Operations,2025-03-09,Active,Invoice
+Joshua Brooks,Finance,2019-07-26,Inactive,NDA
+Ryan Buckley,Operations,2026-01-02,Active,Invoice
+Tracy Rodgers,Marketing,2022-10-19,Inactive,Contract
+Ashley Farley,HR,2021-05-18,Inactive,Contract
+Laurie Delgado,HR,2022-01-08,Inactive,Employee Record
+Amy Spencer,Marketing,2018-11-04,Inactive,Payslip
+Marvin Ford,Marketing,2018-01-21,Active,NDA
+Elizabeth Torres,Finance,2019-10-12,Active,Employee Record
+Gregory Davis,Finance,2021-06-27,Inactive,Contract
+Matthew Miller,IT,2019-01-01,Active,Contract
+Brian Roth,Operations,2020-08-15,Inactive,Employee Record
+Deanna Gomez,Marketing,2017-06-13,Active,Contract
+Melissa Norris,IT,2020-06-28,Active,Payslip
+Robin Powers,Finance,2018-03-12,Active,Payslip
+Curtis Welch,IT,2022-02-09,Inactive,Payslip
+Brian Barnett,HR,2023-01-11,Active,Payslip
+Riley Soto,HR,2025-10-25,Inactive,Contract
+Brittney Parker,IT,2016-08-16,Inactive,Invoice
+John Howell,Operations,2020-07-01,Active,NDA
+Anthony Cooper,Marketing,2019-12-25,Active,Employee Record
+Erin Holland,Finance,2026-04-09,Inactive,Invoice
+Dennis Jones,Finance,2019-04-26,Active,Employee Record
+Ashley Long,HR,2022-01-18,Active,Payslip
+Heather Edwards,HR,2020-03-04,Active,Contract
+Michael Smith,Operations,2023-10-23,Inactive,Employee Record
+Rhonda Mosley,HR,2020-05-08,Active,NDA
+Andrea Jacobson,Finance,2024-02-07,Inactive,NDA
+Monica Noble,Marketing,2018-05-18,Active,Invoice
+Bethany Jones,IT,2022-01-27,Active,Employee Record
+Jeffrey Frederick,Operations,2018-11-22,Active,Payslip
+Katelyn Johnson,Sales,2018-05-21,Active,Invoice
+Julia Williams,Marketing,2019-08-05,Active,Payslip
+Jamie Williams,HR,2022-07-02,Inactive,Invoice
+Erin Davis,HR,2025-10-22,Active,NDA
+Angela Lynch,Finance,2025-09-19,Inactive,Contract
+Johnny Brown,HR,2024-02-26,Inactive,Invoice
+Johnny Zhang,Finance,2024-10-10,Inactive,NDA
+Dwayne Ellis,IT,2019-06-23,Inactive,Payslip
+Amanda Fowler,Finance,2023-01-12,Active,Invoice
+Kevin Long,Operations,2017-12-28,Inactive,Payslip
+Mary French,Finance,2025-01-27,Inactive,NDA
+Erica Mitchell,Operations,2019-07-22,Inactive,Contract
+Angela Bowman,HR,2022-11-15,Active,Invoice
+Michael Singh,Finance,2022-03-20,Inactive,NDA
+Allen Maxwell,Sales,2021-08-24,Inactive,NDA
+Jacob Reilly,HR,2023-11-09,Inactive,Invoice
+Anthony Sanchez,HR,2024-08-21,Active,NDA
+Michael Alvarez,HR,2016-10-29,Active,NDA
+Sandra Arnold,IT,2017-07-27,Active,Employee Record
+Ronald Solomon,Marketing,2026-04-16,Inactive,Payslip
+Jason Henderson,Marketing,2023-05-20,Active,NDA
+Wayne Lewis,Sales,2018-01-11,Active,NDA
+Amanda Martinez,Finance,2024-04-05,Inactive,Invoice
+Michelle Brown,Marketing,2018-05-15,Active,Contract
+Peter Phillips,IT,2018-12-07,Inactive,Payslip
+Troy Lucas,Operations,2016-07-06,Inactive,Invoice
+Scott Garcia,Marketing,2018-02-16,Inactive,Employee Record
+Kevin Gardner,Finance,2020-11-19,Active,Employee Record
+Susan Sharp,IT,2021-02-07,Active,Contract
+Carrie Harris,HR,2016-11-10,Active,Invoice
+Jack Davis,Sales,2020-07-19,Active,NDA
+Tracy Fisher,Marketing,2017-09-20,Inactive,Payslip
+James Hansen,IT,2026-01-24,Active,Invoice
+Christopher Rice,Finance,2025-03-27,Active,Payslip
+Michael Smith,Operations,2019-04-29,Active,Invoice
+Robert Tran,HR,2025-07-26,Active,Invoice
+Katie Silva,Marketing,2020-07-29,Active,NDA
+Andrew Fleming,Marketing,2020-04-08,Active,Payslip
+Amy Ramirez,Sales,2019-04-14,Inactive,Invoice
+Samantha Bennett,HR,2021-06-24,Active,Payslip
+Robin Johnson,Finance,2022-11-09,Inactive,Payslip
+Tami Galvan,Sales,2022-07-10,Inactive,Payslip
+Scott Baird,Sales,2020-10-02,Inactive,Invoice
+Amy Cherry,IT,2022-09-22,Inactive,Invoice
+Elizabeth Taylor,Operations,2022-12-08,Inactive,Payslip
+Dustin Hicks,Finance,2023-12-22,Active,NDA
+Nancy Snow,Sales,2022-03-08,Active,Employee Record
+Patricia Hodges,HR,2024-03-30,Inactive,NDA
+Robert Buckley,HR,2026-02-02,Inactive,NDA
+Ann Keith,Sales,2021-12-22,Inactive,Contract
+Justin Woods,Operations,2023-07-30,Active,Invoice
+Sarah Thompson,Marketing,2022-05-17,Active,Invoice
+Victoria Martinez,Sales,2021-01-16,Inactive,Employee Record
+Roberto Brown,Finance,2017-12-03,Inactive,Employee Record
+Richard Johnson,Sales,2020-01-31,Active,Invoice
+Derek Davis,HR,2018-06-07,Inactive,NDA
+Jimmy Newman,Marketing,2024-04-26,Active,Invoice
+Monica Watson,Finance,2020-09-01,Active,Contract
+Billy Reyes,Marketing,2023-05-29,Inactive,Payslip
+James Roberts,HR,2019-11-09,Inactive,Payslip
+Michael Scott,IT,2018-11-28,Inactive,Employee Record
+Daniel Lopez,Sales,2024-02-14,Inactive,NDA
+Mr. Brian Williams,Sales,2022-05-27,Inactive,Payslip
+Patricia Garcia,Marketing,2026-04-02,Active,NDA
+Frank Parsons,Finance,2020-05-29,Active,Contract
+Kathleen Franklin,Finance,2025-07-08,Active,Employee Record
+Jeffrey Smith,HR,2017-01-18,Inactive,Invoice
+Robert Campbell DDS,IT,2024-12-24,Inactive,Invoice
+Emily Espinoza,Sales,2022-12-05,Inactive,Payslip
+Melissa Warren,Sales,2021-12-16,Inactive,Invoice
+Brandon Perez,HR,2016-12-27,Inactive,Invoice
+Carol Palmer,HR,2019-07-25,Inactive,Invoice
+Kenneth Stevens,IT,2023-08-15,Inactive,Payslip
+John Wallace,HR,2026-02-26,Inactive,Invoice
+Gregory Neal,IT,2016-07-20,Active,NDA
+Hannah Tanner,Operations,2017-07-19,Inactive,Employee Record
+Heidi Miller,HR,2022-08-24,Active,Payslip
+Stephanie Golden,Sales,2023-12-23,Active,Employee Record
+Thomas Cannon,HR,2020-07-05,Active,Contract
+Kimberly Lam,Sales,2026-02-28,Inactive,Payslip
+Dennis Ford,Operations,2021-01-11,Inactive,Invoice
+Matthew Silva,Sales,2022-08-31,Inactive,Invoice
+Jeffrey Miller,IT,2016-11-01,Inactive,Payslip
+Matthew Patterson,Finance,2020-08-27,Active,Employee Record
+Robert Huerta,Marketing,2025-04-14,Active,Contract
+Clifford Lawson,Sales,2024-09-15,Inactive,NDA
+Victoria Peterson,Operations,2020-07-08,Active,Payslip
+Andrew Johnson,Marketing,2026-01-10,Inactive,NDA
+David Sanchez,Finance,2018-08-30,Inactive,Invoice
+Mary Jones,Finance,2026-03-06,Inactive,Contract
+David Ward,IT,2022-01-15,Active,Contract
+James Conrad,Operations,2023-02-16,Inactive,Invoice
+David Miller,Operations,2016-12-21,Inactive,NDA
+Jacob Baird,Sales,2019-01-16,Inactive,NDA
+Jonathan Baxter,Sales,2020-08-20,Active,Contract
+Travis Moreno,Sales,2017-10-14,Inactive,Contract
+Scott Gardner,HR,2023-09-22,Active,Payslip
+Melody Carter,Operations,2024-02-15,Inactive,Invoice
+Laura Munoz,HR,2019-03-16,Active,Payslip
+Bradley Myers,Sales,2020-08-22,Inactive,Payslip
+Briana Wagner,HR,2025-11-16,Inactive,Employee Record
+Zachary Andrews,Sales,2018-01-31,Active,Employee Record
+Sarah Cameron,Marketing,2023-12-31,Inactive,Contract
+Brianna Crosby,IT,2018-09-07,Active,Employee Record
+Keith Warren,Sales,2021-09-27,Inactive,Payslip
+Thomas Flores,Finance,2018-02-03,Inactive,Invoice
+Luis Cantrell,Sales,2018-01-26,Active,Invoice
+Christopher Ferguson,Operations,2022-08-06,Inactive,Invoice
+Ashley Rocha,Finance,2023-12-17,Active,Payslip
+Emily Roberson,Operations,2024-10-16,Active,Invoice
+Justin West,Sales,2025-06-07,Inactive,Employee Record
+Brian Mclean,Sales,2022-02-01,Inactive,Contract
+Richard Velez,IT,2018-11-04,Inactive,Payslip
+Jordan Fisher,Finance,2025-10-20,Active,NDA
+Lori Clements,Sales,2019-04-22,Active,Payslip
+Michael Odonnell,IT,2023-05-16,Active,Invoice
+Melissa Sanchez,HR,2019-08-06,Inactive,NDA
+Jessica Robinson,Marketing,2021-10-28,Active,Contract
+Kathryn Wright,Marketing,2024-10-17,Inactive,Employee Record
+David Marshall,Sales,2025-10-08,Inactive,NDA
+Carolyn Abbott,Marketing,2026-01-18,Inactive,NDA
+Shelley Cunningham,IT,2025-10-04,Active,Employee Record
+Laura Anderson,Operations,2019-08-11,Inactive,Invoice
+Candace Bush,Finance,2019-07-06,Inactive,NDA
+Brittany Hayden,IT,2024-02-11,Active,NDA
+Walter Gilbert,Operations,2025-11-09,Active,Invoice
+Rebekah Gibbs,Finance,2016-12-24,Active,Employee Record
+Melissa Owens,Operations,2020-09-03,Active,Contract
+Aaron Barrett,IT,2017-07-08,Inactive,NDA
+Sandra Thompson,Operations,2023-08-29,Inactive,Contract
+Donna Horn,Marketing,2023-08-14,Inactive,Invoice
+Carrie Wolfe,Sales,2024-11-19,Inactive,Contract
+Danny Terry,IT,2024-02-29,Active,Invoice
+Kelly Simmons,IT,2021-01-11,Active,Contract
+Bruce Kent,Marketing,2025-03-19,Active,Employee Record
+Donald Calhoun,IT,2017-02-13,Inactive,Employee Record
+Diana Foster,Operations,2020-02-11,Inactive,Invoice
+Charlene Williams,Operations,2017-01-05,Active,Contract
+Alejandro Lopez,Finance,2020-05-04,Inactive,Employee Record
+Grant Patterson,Finance,2018-05-22,Inactive,Contract
+Timothy Gomez,Marketing,2018-04-08,Inactive,Payslip
+Jose Jacobs,Operations,2021-12-30,Active,Contract
+Dana Taylor,Finance,2020-09-18,Active,Payslip
+Caleb Simpson,Marketing,2021-03-11,Inactive,Invoice
+Jennifer Thomas,Sales,2017-01-15,Inactive,NDA
+Mr. Brian Jones Jr.,Finance,2018-05-25,Active,Invoice
+Anthony Chang MD,IT,2023-04-08,Inactive,Employee Record
+Nicole Wright,IT,2020-04-03,Inactive,Payslip
+Victoria White,Finance,2023-02-25,Active,Contract
+Stephanie Moore,IT,2022-08-01,Inactive,Contract
+Aaron Mathis,Operations,2017-12-26,Active,NDA
+Lisa Johnson,Sales,2025-09-23,Inactive,Employee Record
+Leslie Griffin,Sales,2026-02-17,Inactive,Payslip
+Mr. Anthony Foster,IT,2020-05-17,Inactive,Employee Record
+James Lopez,Operations,2025-10-26,Inactive,NDA
+Dakota Powell,Operations,2018-05-01,Active,NDA
+Greg Oneal,Finance,2017-08-10,Inactive,Contract
+Zachary Fisher IV,Marketing,2018-09-13,Inactive,Payslip
+Steven Townsend,HR,2021-01-10,Active,Invoice
+Jessica Hicks,IT,2026-06-09,Inactive,Employee Record
+Derek Rivera,Sales,2019-07-22,Inactive,Payslip
+Shannon Taylor,Marketing,2026-02-09,Active,Employee Record
+Justin Sampson,Finance,2017-06-08,Inactive,Contract
+Latoya Schultz,IT,2021-07-29,Active,Contract
+Donald Cox,HR,2025-02-19,Inactive,Employee Record
+Angel Hill,Sales,2024-08-26,Active,Employee Record
+Luke Perry,Marketing,2025-05-02,Inactive,Employee Record
+Ann Zuniga,Marketing,2022-10-23,Active,Payslip
+Brent Chavez,Finance,2018-11-28,Active,NDA
+Pamela Griffin,HR,2022-08-10,Inactive,Contract
+Andrew Kennedy DVM,Sales,2022-03-07,Active,Payslip
+Heather Strickland,Operations,2025-08-27,Inactive,Contract
+Kathleen Rogers,Operations,2017-02-22,Inactive,Employee Record
+Edward Green,Finance,2016-08-16,Active,NDA
+Mackenzie Berry,Marketing,2017-04-13,Active,Payslip
+Anthony Adams,HR,2024-08-04,Active,Invoice
+Jack Lopez,HR,2022-05-04,Inactive,Payslip
+Eugene Walters,Marketing,2016-11-08,Inactive,NDA
+Lisa Miles,Sales,2025-12-24,Active,NDA
+Corey Tanner,IT,2022-04-24,Active,NDA
+Timothy Wood,Finance,2025-01-03,Inactive,Contract
+Rachael Graham,Finance,2019-07-07,Active,Contract
+Andrew Hubbard,Operations,2018-02-23,Inactive,Payslip
+Joseph Silva,Sales,2024-09-17,Inactive,Payslip
+Cameron Guerrero,Finance,2024-07-02,Inactive,Payslip
+Corey Turner,HR,2024-01-13,Inactive,Invoice
+Caroline Moss,IT,2019-12-18,Active,NDA
+Theresa Perez,Sales,2024-03-30,Active,Invoice
+Abigail Smith,Marketing,2023-10-23,Inactive,Contract
+Amy Cole,Finance,2023-11-29,Active,Payslip
+Marie Murphy,IT,2023-12-06,Inactive,Contract
+Jonathan Parker,Finance,2025-07-08,Active,NDA
+Alexandra Ball,HR,2025-03-03,Inactive,Employee Record
+Michael Williams,Finance,2021-04-16,Active,NDA
+Alicia Ramos,HR,2017-01-11,Inactive,NDA
+Justin Hudson,Finance,2023-09-30,Inactive,Invoice
+Kelli Jones,Sales,2022-10-13,Inactive,Payslip
+Wayne Sweeney,IT,2022-08-11,Inactive,Invoice
+Dale Gray,Sales,2022-09-21,Inactive,Payslip
+Lisa Campbell,Finance,2020-02-23,Active,Payslip
+Michael Duffy,Marketing,2018-03-22,Active,Payslip
+Nicole Gibson,Sales,2017-03-12,Active,Payslip
+Hunter Leonard,Marketing,2024-01-29,Active,Contract
+Brian Gray,IT,2021-09-12,Active,Invoice
+Meghan Aguilar,IT,2023-01-16,Inactive,Contract
+Ashley Brown,Sales,2021-11-25,Inactive,Contract
+Mike Wilson,Marketing,2017-11-30,Inactive,Employee Record
+Melissa Brooks,IT,2021-07-14,Active,NDA
+Pamela Jennings,IT,2017-04-14,Active,Contract
+Tracy Stevens,IT,2018-02-28,Inactive,Employee Record
+Devin Dixon,Operations,2017-04-29,Active,Payslip
+Russell Alexander,Finance,2025-07-09,Active,Employee Record
+Samantha Charles,IT,2023-04-20,Inactive,Employee Record
+Hunter Bradshaw,Finance,2025-12-29,Inactive,Employee Record
+Paul Yates,Marketing,2016-08-23,Active,Invoice
+Patrick Juarez,Operations,2017-06-10,Inactive,Contract
+Jamie Johnson,IT,2017-10-17,Inactive,Contract
+Thomas Harris,Operations,2020-02-27,Inactive,Employee Record
+Scott Sanford,IT,2021-11-20,Inactive,NDA
+Jeffrey Simpson,Sales,2026-02-18,Active,Employee Record
+Peter Marshall,Sales,2024-10-25,Inactive,Payslip
+Albert Holden,Marketing,2021-02-27,Inactive,Payslip
+Justin Newman,Marketing,2018-10-24,Active,Contract
+Scott Alvarez,IT,2025-10-31,Active,Payslip
+Anthony Spencer,Operations,2016-10-07,Active,Employee Record
+Matthew Greer,Operations,2016-09-02,Active,NDA
+Mathew Grimes,Finance,2020-06-04,Inactive,Invoice
+Cheryl Jackson,Marketing,2020-10-26,Inactive,NDA
+Rose Barry,Marketing,2018-12-06,Active,NDA
+Julian Park,IT,2025-01-01,Active,Contract
+Francisco Brown,Marketing,2019-10-12,Inactive,Payslip
+Jessica Thompson,Marketing,2022-12-08,Inactive,Payslip
+Earl Lozano,Sales,2022-07-22,Active,Invoice
+Penny Compton,Operations,2020-04-18,Inactive,NDA
+Michael Parsons,HR,2021-03-29,Inactive,Invoice
+Robert Roy,IT,2023-12-05,Active,Payslip
+Frank Suarez,Sales,2016-10-28,Active,Contract
+Dr. Terri Lewis,Finance,2019-11-18,Active,NDA
+Pamela Roberson,HR,2024-06-12,Inactive,Payslip
+Nicholas Parrish,Operations,2016-09-09,Inactive,Payslip
+Victoria Maldonado,HR,2021-12-23,Inactive,Employee Record
+David Baldwin,Finance,2016-09-17,Active,Contract
+Samuel Perkins,IT,2022-07-28,Active,NDA
+Courtney Lowery,Marketing,2019-07-11,Active,NDA
+Elizabeth Wise,HR,2021-09-22,Inactive,Employee Record
+Jenna Williams,HR,2024-08-30,Active,Invoice
+Christina Kirby,Sales,2023-12-26,Inactive,Contract
+Erin Carlson,Marketing,2022-09-12,Inactive,Payslip
+Jesse Stevens,Sales,2025-08-05,Inactive,Payslip
+Patrick Edwards MD,Sales,2022-05-19,Inactive,Payslip
+Amber Sloan,Operations,2016-11-30,Inactive,Invoice
+Cassandra Lester,Finance,2023-08-23,Inactive,NDA
+Brian Gibson,Operations,2017-10-13,Active,NDA
+Jacob Brown,Operations,2017-11-03,Inactive,Employee Record
+Kent Baldwin,HR,2026-05-07,Inactive,Contract
+Edward Kelly,Marketing,2024-07-10,Active,Employee Record
+Jessica Clark,IT,2025-02-02,Inactive,Payslip
+Lori Johnson,Sales,2023-03-31,Active,Invoice
+Miss Cynthia Cook,HR,2024-10-06,Active,NDA
+Candace Robertson,IT,2018-10-28,Active,Employee Record
+Anita Bonilla,Marketing,2022-11-10,Active,Employee Record
+Tonya Lynch,Operations,2017-03-16,Active,Payslip
+Jennifer Rowland,IT,2016-12-18,Inactive,Invoice
+Matthew Johns,Marketing,2016-09-01,Active,Invoice
+Justin Arias,Finance,2024-11-14,Inactive,NDA
+Margaret Hernandez DDS,Marketing,2020-05-15,Inactive,Employee Record
+Robert Washington,Sales,2020-05-16,Inactive,NDA
+Cole Jones,Operations,2019-09-27,Active,Contract
+Vicki Li,IT,2023-03-14,Active,NDA
+Donald Hill,Operations,2016-10-18,Active,Payslip
+Madison Mason,Marketing,2026-03-29,Active,Invoice
+Deborah Hall,Operations,2018-01-11,Active,Employee Record
+Karen Webb,Marketing,2023-05-25,Active,Employee Record
+Kim Carter,HR,2019-04-01,Inactive,NDA
+Ronald Thomas,Marketing,2025-01-05,Inactive,Employee Record
+Mrs. Jessica Gomez,HR,2023-05-19,Inactive,NDA
+Natasha Moore,IT,2018-07-15,Inactive,Contract
+Catherine Crane,Finance,2017-12-30,Inactive,Invoice
+Michael Lopez,IT,2019-02-20,Inactive,Invoice
+Ryan Palmer,Finance,2024-07-24,Active,Payslip
+Ronald Trevino,Sales,2021-10-28,Inactive,NDA
+Robert Woodward,Finance,2020-08-07,Inactive,Employee Record
+Shannon Perez,Sales,2020-10-09,Active,Invoice
+Jessica Potter,IT,2018-07-24,Inactive,Employee Record
+Denise Wood,Finance,2018-03-16,Active,NDA
+Kelli Bender,Sales,2025-10-06,Active,Invoice
+Kevin Ayala,Marketing,2017-10-30,Inactive,NDA
+Leon Hernandez,IT,2018-12-14,Inactive,Payslip
+Nicholas Peterson,Finance,2022-12-05,Inactive,Invoice
+Kevin Farmer,IT,2024-05-05,Inactive,Invoice
+Ronald Miller,Sales,2022-10-26,Inactive,Payslip
+Michael Schmidt,Finance,2022-05-19,Active,Invoice
+Penny Webster,HR,2023-10-20,Active,Employee Record
+Paul Vaughan,Finance,2018-11-11,Inactive,Employee Record
+Rachel Shaw,HR,2025-11-28,Inactive,Contract
+Sarah Williams,HR,2021-10-10,Inactive,Employee Record
+Robyn Lam,Sales,2019-11-16,Inactive,Contract
+Alejandro Parsons,Operations,2019-06-19,Active,Payslip
+Jacob Hawkins,Sales,2020-06-07,Inactive,Invoice
+Frank Hogan,IT,2021-03-23,Active,Employee Record
+Tracey Garrett,Operations,2024-12-01,Active,Contract
+Alisha Edwards,Sales,2020-04-14,Active,NDA
+Frank Powell,Sales,2025-04-23,Active,Payslip
+Kristine White,Sales,2022-11-01,Active,Invoice
+Ronald Bruce,Operations,2020-06-06,Active,NDA
+Justin Reynolds,Marketing,2019-03-07,Inactive,Contract
+Glenda Thompson,IT,2020-07-12,Active,Contract
+Kelly Frazier,Operations,2017-07-02,Inactive,NDA
+Thomas King,Sales,2017-11-14,Inactive,Invoice
+Michael Blankenship,Marketing,2025-01-28,Inactive,NDA
+Marcus Robertson,HR,2025-03-01,Active,Contract
+Stacey Walker,IT,2024-11-28,Active,Payslip
+Travis Olson,Marketing,2017-06-02,Active,Employee Record
+Tiffany Chavez,Marketing,2019-06-28,Inactive,Employee Record
+Joseph Allen,IT,2021-12-28,Inactive,Invoice
+Thomas Rogers,Operations,2019-04-14,Active,Employee Record
+David Diaz,Finance,2017-07-16,Inactive,Payslip
+Sarah Morgan,IT,2023-09-11,Inactive,Payslip
+Dennis Schneider,Sales,2026-05-14,Active,Invoice
+Peter Stein,Finance,2025-10-20,Active,NDA
+Thomas Sweeney,HR,2024-04-22,Inactive,Employee Record
+Robert Moore,IT,2020-05-16,Active,NDA
+Harold Singleton,HR,2019-02-18,Active,Contract
+Richard Mann,Finance,2020-04-03,Inactive,Invoice
+William Schroeder,Finance,2017-12-24,Inactive,Contract
+Brandon Owens,Marketing,2024-09-07,Active,Invoice
+Kimberly Hobbs,Finance,2023-09-11,Active,Contract
+Kelly Garrett,Marketing,2017-11-16,Active,Employee Record
+Dustin Jones,IT,2021-08-17,Active,Invoice
+Melissa Ruiz,Sales,2024-05-10,Active,Payslip
+Rebecca Escobar,Marketing,2025-06-11,Active,Contract
+Trevor Villanueva,Operations,2026-01-06,Inactive,NDA
+Mariah Valentine,Operations,2022-06-25,Active,NDA
+Kyle Ball,Operations,2016-08-18,Inactive,Contract
+John Perry MD,Marketing,2023-02-10,Active,Payslip
+Jennifer Shea,Marketing,2024-07-02,Active,NDA
+Samantha Townsend,HR,2021-02-24,Inactive,Payslip
+Aaron Joseph,HR,2018-02-02,Active,NDA
+Stephanie Obrien,Marketing,2025-05-22,Active,Invoice
+Crystal Robinson,Operations,2024-11-07,Inactive,Employee Record
+Richard Thornton,Finance,2020-02-03,Inactive,NDA
+Nichole Dixon,Sales,2018-12-10,Inactive,NDA
+Dana White,Finance,2026-04-26,Active,Contract
+Shawn Rodriguez,HR,2022-03-14,Inactive,Contract
+Stephanie Long,HR,2018-10-04,Active,Employee Record
+Paul Nichols,Operations,2025-12-09,Active,Contract
+Wesley Andrews,IT,2021-08-13,Inactive,Contract
+Stephanie James,Finance,2017-08-21,Inactive,Employee Record
+Matthew Phillips,Finance,2023-11-24,Active,Payslip
+Michelle Sanchez,Marketing,2018-10-18,Active,Invoice
+Ashley Roberts,Operations,2023-09-28,Inactive,Invoice
+Brian Coleman,Operations,2016-08-28,Active,NDA
+Lisa Rodriguez,Marketing,2017-08-28,Active,Payslip
+Bobby Miranda,Sales,2018-06-22,Inactive,Invoice
+Thomas Schultz,Finance,2025-06-30,Inactive,NDA
+Jeff Cox,Sales,2019-09-29,Inactive,Invoice
+Jonathon Kelley,Finance,2023-06-10,Active,Invoice
+Rebecca Moore,Sales,2021-11-25,Inactive,Payslip
+Justin Carey MD,Sales,2023-04-01,Inactive,Contract
+Jeffrey Taylor,Operations,2020-11-18,Inactive,Payslip
+Joyce Rodgers,HR,2020-05-15,Active,NDA
+Tracy Lewis MD,IT,2018-12-01,Inactive,NDA
+Lisa White,Operations,2022-02-24,Active,Employee Record
+Joshua Gordon,IT,2018-01-18,Active,Contract
+Rebecca Sims,IT,2023-03-08,Inactive,Payslip
+Lauren Gordon,Finance,2016-08-17,Active,NDA
+Anthony Joseph,Finance,2024-03-04,Inactive,Contract
+Christina Brown,Finance,2021-08-06,Inactive,Employee Record
+Patrick Calderon,IT,2023-08-22,Inactive,NDA
+Heather Gray,Sales,2017-06-17,Inactive,Contract
+Andre Mercado,Operations,2021-04-09,Active,Contract
+Douglas Roberts,Marketing,2019-10-27,Active,Contract
+Gilbert Clark,Finance,2016-06-23,Active,Invoice
+Destiny Davis,Operations,2024-01-31,Inactive,Contract
+Jason Lewis,HR,2017-02-17,Active,Employee Record
+David Rios,Sales,2023-03-07,Active,NDA
+Angie Miller,Operations,2019-05-25,Active,Contract
+Tony Wilson,Sales,2021-01-03,Active,NDA
+Dr. Amanda Marshall,Marketing,2017-09-22,Active,NDA
+Steven Mccall,Finance,2018-05-01,Inactive,Contract
+Carlos Morgan,Finance,2025-10-28,Inactive,Contract
+Lisa Vasquez,Sales,2019-10-24,Inactive,Invoice
+Susan Brooks,Sales,2018-11-14,Active,Employee Record
+Daniel Stone,HR,2023-05-12,Active,Payslip
+Amber Johnson,Operations,2018-08-22,Active,Payslip
+James Allen,Finance,2025-09-13,Inactive,NDA
+Tara Harvey,HR,2018-09-24,Inactive,Payslip
+Alison Williams,IT,2016-07-15,Inactive,NDA
+Melvin Esparza,IT,2023-05-06,Inactive,NDA
+Mr. Alan Osborne,IT,2022-04-05,Active,NDA
+Adam Torres,Sales,2025-12-19,Active,Invoice
+Gail Flowers,HR,2022-09-07,Active,Payslip
+Jacob Flores,Operations,2023-11-26,Inactive,Employee Record
+Jessica Miranda,Sales,2022-06-07,Active,Payslip
+Thomas Trevino,Marketing,2023-07-10,Active,Payslip
+Christina Lawrence MD,Finance,2024-05-10,Active,Payslip
+Bryan Lawrence,HR,2020-06-19,Inactive,Invoice
+William Taylor,HR,2025-01-22,Active,NDA
+Brittany Little,IT,2020-01-12,Active,Payslip
+Michael Kramer,Operations,2018-05-23,Inactive,Invoice
+Gregory Harrison,Finance,2020-05-07,Active,Employee Record
+Larry Weaver,IT,2024-08-08,Active,Invoice
+Tiffany Stanley,Operations,2021-01-17,Inactive,Invoice
+Jacob Gonzalez,Marketing,2017-10-03,Active,Invoice
+Vincent Jones,Operations,2020-07-01,Active,Payslip
+Christine Fuentes,Operations,2017-05-14,Inactive,Employee Record
+Frank Daniels,HR,2021-03-07,Active,Payslip
+Cole Fry,IT,2024-01-31,Inactive,Employee Record
+Teresa Ware,Sales,2022-12-10,Active,Employee Record
+Amy Stevens,IT,2017-02-10,Active,Invoice
+Dawn Haynes,Finance,2016-06-18,Inactive,Invoice
+Steven Morales,Finance,2025-12-24,Active,Payslip
+Kayla Flynn,Operations,2016-10-18,Active,Invoice
+Jack Johnson,Marketing,2021-01-20,Inactive,NDA
+Melanie Holden,Sales,2021-05-06,Active,NDA
+Heather Long,HR,2020-11-08,Active,Contract
+Melissa Anderson,Operations,2019-08-22,Active,NDA
+Ricky Munoz,Operations,2021-07-10,Active,Employee Record
+Valerie Ballard,Operations,2022-11-26,Active,Payslip
+Kathleen Montgomery,HR,2019-05-03,Inactive,Contract
+Levi Robertson,Finance,2016-10-18,Active,Invoice
+Vanessa Price,Marketing,2020-01-23,Inactive,Invoice
+Kimberly White,Marketing,2020-11-23,Inactive,Payslip
+James Armstrong,Marketing,2022-04-28,Active,Invoice
+Elizabeth Randall,HR,2018-10-19,Active,Employee Record
+David Brown,Finance,2025-02-19,Active,NDA
+Karl Hall,Finance,2025-06-25,Active,NDA
+Russell Jones DDS,IT,2024-09-07,Inactive,Payslip
+Christian Smith,Finance,2020-07-19,Active,Invoice
+Theodore Green,Finance,2016-10-08,Active,Employee Record
+Nicole Nelson,Marketing,2021-10-01,Inactive,Invoice
+Elizabeth Beasley,Sales,2019-01-01,Inactive,Contract
+Tim Murray,Finance,2019-04-20,Inactive,Invoice
+Michael Love,Marketing,2022-05-20,Active,NDA
+Daniel Holloway,Marketing,2025-02-28,Active,Employee Record
+Jonathan Villarreal,Sales,2017-04-26,Inactive,NDA
+Barbara Knight,Sales,2017-05-26,Active,Contract
+Jessica Baker,HR,2023-05-29,Inactive,Employee Record
+Derek Johnson,Operations,2019-05-05,Active,Payslip
+Julia Stone,HR,2022-08-28,Inactive,Invoice
+Jennifer Gibbs,Sales,2020-09-11,Active,Invoice
+Sonya Zimmerman,Finance,2017-02-17,Inactive,Employee Record
+Austin Lee,Marketing,2024-05-25,Active,Employee Record
+David Robertson,Marketing,2016-09-08,Active,Contract
+Brian Black,Sales,2017-02-02,Active,Contract
+Tammy Estrada,Finance,2026-03-03,Active,Invoice
+Melissa Bailey,IT,2025-10-09,Active,NDA
+Thomas Miller,Sales,2016-08-25,Active,Contract
+James Howard,HR,2016-09-27,Active,Payslip
+Benjamin Allen,IT,2018-08-27,Inactive,Invoice
+Randy Russell,Sales,2023-06-21,Inactive,Employee Record
+Matthew Thomas,Finance,2022-10-24,Inactive,NDA
+Tricia Sherman,Finance,2023-04-18,Inactive,Invoice
+Richard Liu,Finance,2018-07-22,Inactive,Employee Record
+Timothy Maldonado,Sales,2023-02-25,Active,Employee Record
+Hannah Conrad,Marketing,2020-07-22,Inactive,Payslip
+Daniel Cowan,Finance,2020-06-16,Inactive,Payslip
+Shane Kim,IT,2026-05-24,Inactive,Invoice
+Kyle Torres,HR,2016-08-28,Active,NDA
+Kari Little,Sales,2023-03-23,Active,Invoice
+Matthew Delgado,HR,2020-05-06,Inactive,Employee Record
+Micheal Wheeler,Marketing,2019-01-19,Active,Invoice
+Maria Parker,HR,2024-07-10,Inactive,Contract
+Mr. Edward Watson,Finance,2018-12-21,Active,Employee Record
+Adriana Anderson,Operations,2016-07-07,Inactive,Invoice
+Jordan Greene,Operations,2016-11-06,Inactive,Contract
+Susan Calhoun,Sales,2025-04-16,Active,Invoice
+Paul Fischer,Marketing,2021-12-09,Active,Contract
+Andrew Nguyen,HR,2017-04-12,Active,NDA
+Robin Zamora,Sales,2026-04-25,Inactive,Contract
+Victoria Hall,IT,2022-12-03,Active,NDA
+Zachary Hernandez,Sales,2025-09-22,Inactive,Payslip
+William Mitchell,Finance,2021-11-10,Active,Invoice
+Joyce Gill,Marketing,2025-05-21,Active,Invoice
+Keith Anderson,Finance,2017-08-10,Inactive,NDA
+Rebecca Turner,Finance,2025-07-04,Active,NDA
+Christopher Keller,Marketing,2018-09-12,Inactive,Payslip
+Patricia Todd,Finance,2021-01-05,Inactive,Invoice
+Ashley Shaw,HR,2019-09-15,Active,Payslip
+Kimberly Lucero,IT,2024-04-15,Inactive,Contract
+Alex Mccoy,HR,2024-10-23,Active,Invoice
+Douglas Cook,Marketing,2018-01-30,Active,Contract
+Crystal Roth,Operations,2024-05-06,Active,Contract
+Nancy Roberts,HR,2022-12-30,Active,Employee Record
+David Garcia,Sales,2017-09-01,Active,Invoice
+Wayne Rodgers,Sales,2023-12-25,Inactive,Payslip
+Kayla Owens,Operations,2025-11-02,Active,Contract
+Mary Ellis,Finance,2018-01-15,Active,NDA
+Diane Arnold,HR,2020-02-12,Active,Payslip
+Albert Klein,Sales,2025-11-12,Active,NDA
+Kevin Hernandez,HR,2021-02-14,Inactive,Contract
+Catherine Lynch,Sales,2017-12-22,Active,Invoice
+Glenn Brown,HR,2016-07-23,Inactive,Employee Record
+Helen Callahan,IT,2023-05-31,Active,NDA
+Lisa Johnson,Sales,2022-07-01,Active,NDA
+Timothy Perez,Sales,2019-09-13,Inactive,NDA
+Robyn Harris,IT,2020-07-14,Inactive,Payslip
+Julie Garner,Sales,2022-12-14,Inactive,NDA
+Shelby Moran,Sales,2020-05-26,Inactive,Invoice
+Kevin Forbes,Operations,2026-01-09,Inactive,NDA
+Evan Johnson,Finance,2025-11-27,Inactive,Contract
+Jennifer Nelson,Finance,2024-04-01,Inactive,Employee Record
+Amber Walker,Sales,2019-03-22,Inactive,Payslip
+Sheri Patel,Marketing,2016-11-02,Inactive,NDA
+Rita Richardson,Operations,2022-07-02,Inactive,Invoice
+Larry Strong,Operations,2023-04-22,Inactive,Payslip
+Calvin Rivera,Marketing,2025-10-25,Active,Contract
+Diana Chapman,IT,2023-05-30,Active,Payslip
+Andrew Fowler,IT,2024-04-25,Inactive,Employee Record
+Peter Warren,Sales,2017-09-04,Inactive,Contract
+Sandra Herrera,Marketing,2023-12-04,Active,Invoice
+Susan Deleon,Operations,2025-03-28,Active,Payslip
+George Flynn,Sales,2021-11-15,Active,Invoice
+Michael Richards,Operations,2022-09-07,Inactive,Invoice
+John Sosa,HR,2019-02-02,Inactive,Payslip
+Danielle Wilson,Finance,2017-10-19,Active,Invoice
+Brian Harrington,Sales,2025-05-02,Inactive,Contract
+Pamela Johnson,IT,2019-02-28,Active,Payslip
+David Brown,Marketing,2023-03-28,Active,Invoice
+Bradley Rhodes,Finance,2017-08-25,Inactive,Invoice
+Vincent Yu,Operations,2021-10-13,Inactive,Employee Record
+David Smith,Sales,2016-12-30,Inactive,Contract
+Timothy Wallace,HR,2019-07-19,Active,Contract
+Eric Gonzales,HR,2021-06-26,Inactive,Contract
+Brooke Bailey,Marketing,2017-10-15,Inactive,Invoice
+Kristen Scott,Operations,2020-10-08,Inactive,Payslip
+Matthew Moreno,IT,2023-10-09,Inactive,Employee Record
+Beverly Harris,Operations,2023-05-03,Inactive,Payslip
+Mrs. Vickie Young,Sales,2023-07-28,Active,Employee Record
+Elizabeth Luna,HR,2016-12-01,Inactive,Contract
+Denise Li,IT,2025-08-23,Inactive,Employee Record
+Robert Jacobs,Marketing,2025-02-25,Inactive,Contract
+Daniel Kramer,Marketing,2021-11-30,Active,NDA
+Cassandra Meyers,HR,2022-09-15,Inactive,Payslip
+Mr. Bryan Scott,Sales,2021-02-09,Active,NDA
+Heather Zuniga,IT,2019-01-03,Active,NDA
+Justin Beasley,Finance,2018-08-27,Active,Employee Record
+Matthew Williams,Finance,2018-06-06,Inactive,Payslip
+Kayla Romero,Operations,2017-07-06,Inactive,Invoice
+Troy Patel,Sales,2018-06-23,Active,Contract
+Michael Russo,IT,2024-09-15,Active,Invoice
+Matthew Williams,Finance,2018-09-21,Active,Employee Record
+Donald Singh,Marketing,2019-05-15,Inactive,Invoice
+Brian Hernandez,Finance,2017-02-18,Active,Invoice
+Mr. Joseph Matthews Jr.,Sales,2023-03-28,Active,Contract
+Loretta Barton,IT,2019-08-14,Inactive,Employee Record
+Ryan Smith,HR,2022-03-02,Active,Invoice
+Sandra Dodson MD,Marketing,2023-07-24,Active,Payslip
+Barbara Greene,HR,2017-09-01,Inactive,NDA
+Caleb Shannon,Operations,2020-01-03,Inactive,Payslip
+Benjamin Burnett,IT,2024-01-19,Active,Payslip
+Sarah Velasquez,IT,2019-11-11,Active,Payslip
+Ricardo Roman,Sales,2025-07-09,Inactive,Contract
+Brandy Brennan,Marketing,2020-01-04,Inactive,NDA
+Nancy Neal,Finance,2023-07-10,Active,Employee Record
+Rachel Payne,HR,2020-07-13,Inactive,Payslip
+Lawrence Clark,Finance,2018-07-13,Inactive,NDA
+Francisco Garrett,Finance,2019-09-27,Inactive,Invoice
+Darrell Green,Operations,2023-05-27,Inactive,Employee Record
+Thomas Sandoval,Marketing,2022-07-12,Active,Contract
+Ashley Scott,Operations,2024-11-25,Active,Invoice
+Jon Thomas,Operations,2019-03-25,Active,Invoice
+Kimberly Scott,Sales,2023-01-23,Active,Employee Record
+Jennifer Grant,IT,2023-07-07,Inactive,Contract
+Michael Lopez,Finance,2017-07-10,Active,Payslip
+Tamara Barton,HR,2018-05-04,Inactive,Employee Record
+Jerry Stone,Marketing,2018-11-10,Active,NDA
+Jennifer Williams,HR,2026-04-05,Inactive,Invoice
+Andrew Cross,IT,2019-05-02,Active,Payslip
+Jessica Williams,IT,2024-10-21,Inactive,Employee Record
+Rachel Lewis,IT,2021-12-21,Active,Payslip
+Joseph Rhodes,Operations,2018-12-23,Active,Payslip
+Christopher Adams,Operations,2024-12-11,Inactive,Invoice
+Dr. Jennifer Hanson,IT,2024-01-14,Inactive,Employee Record
+Angela Morgan,Finance,2022-07-26,Inactive,Contract
+Laura Ball,Marketing,2024-01-03,Active,Contract
+Cynthia Gordon,HR,2021-08-04,Inactive,Contract
+Lindsey Rodriguez,IT,2020-02-23,Inactive,Contract
+Bobby Horton,Finance,2018-07-01,Inactive,NDA
+Amy Fletcher,Finance,2020-02-24,Active,Employee Record
+Christie Wiggins,Operations,2018-06-02,Active,Contract
+Christina Patterson,IT,2025-09-18,Inactive,Invoice
+Jacqueline Hopkins,IT,2024-09-24,Active,Employee Record
+William Day,Finance,2025-10-05,Active,Employee Record
+Michelle Scott,IT,2020-07-19,Inactive,Contract
+Anthony Farrell,Finance,2019-10-01,Inactive,NDA
+Sarah Baker,Marketing,2020-10-17,Active,Contract
+Renee Andrews,HR,2021-06-22,Inactive,Invoice
+Angela Brown,Operations,2020-10-19,Active,Employee Record
+Mr. John Woods,HR,2017-05-02,Active,Payslip
+Emily Davis,Marketing,2025-04-11,Inactive,Employee Record
+Sara Pierce,Marketing,2019-04-23,Active,Payslip
+Deborah Bridges,Marketing,2019-04-28,Inactive,NDA
+Angela Lawson,HR,2019-09-23,Active,NDA
+Nancy Torres,Sales,2017-04-01,Inactive,Contract
+David Vazquez,HR,2024-10-03,Active,Invoice
+Michael Evans,Sales,2025-07-27,Inactive,NDA
+Emily Perry,Finance,2025-11-21,Inactive,Contract
+Nicole Riley,Sales,2016-11-18,Inactive,NDA
+David Delacruz,IT,2019-12-11,Active,Payslip
+Sergio Ramirez,Marketing,2018-03-07,Active,Contract
+Jennifer Anderson,HR,2025-09-27,Inactive,NDA
+Joshua Wright,Sales,2019-06-15,Active,Employee Record
+Jeffery Mason,Finance,2018-08-30,Inactive,Invoice
+Victoria Chapman,IT,2025-12-19,Inactive,Payslip
+Samantha Alexander,IT,2019-06-26,Inactive,Invoice
+Joe Johnson,Operations,2019-12-11,Inactive,Contract
+Matthew Wagner,HR,2023-07-11,Active,Employee Record
+Brian Hines,Finance,2024-04-22,Active,Contract
+Matthew Caldwell,Operations,2024-11-20,Inactive,Invoice
+Cindy Miranda,HR,2023-04-03,Active,NDA
+Jessica Allen,IT,2026-06-10,Active,Payslip
+Jeremy Garner DDS,HR,2020-01-20,Inactive,Contract
+Charles Thomas,Marketing,2023-05-14,Inactive,Payslip
+Cody Richardson,IT,2026-02-04,Inactive,Contract
+Margaret Young,Marketing,2023-08-04,Active,Invoice
+Daniel Mendoza,Marketing,2025-08-12,Inactive,Payslip
+Tiffany Diaz,Sales,2017-07-09,Inactive,Invoice
+Daniel Brown,Marketing,2022-11-25,Active,Contract
+William Baker,Sales,2022-11-08,Active,Employee Record
+Robert Moore,HR,2020-06-09,Active,Contract
+David Warren,Operations,2025-03-21,Inactive,Contract
+Dorothy Blevins,Operations,2016-12-28,Active,Payslip
+Mark Wood,Sales,2024-04-19,Active,Invoice
+Danielle Woodard,Marketing,2023-05-31,Inactive,Invoice
+Michelle Weaver,IT,2025-07-11,Inactive,Employee Record
+Gary Pittman,Operations,2018-08-20,Active,Invoice
+Joshua Hancock,Finance,2024-08-28,Active,Payslip
+Mary Sanders,Finance,2026-01-17,Active,Payslip
+Nicholas Anderson,Operations,2018-09-13,Active,Employee Record
+Angela Ryan,Marketing,2018-05-13,Active,Contract
+Susan Freeman,HR,2018-09-15,Inactive,Invoice
+Nicole Rodriguez,Sales,2019-07-26,Inactive,Invoice
+Derrick Reynolds,Sales,2019-07-09,Inactive,NDA
+Paula Sutton,IT,2020-09-02,Active,NDA
+Lisa Pratt,Operations,2024-07-18,Active,Contract
+Michelle Sloan,Marketing,2019-07-15,Active,Employee Record
+Michelle Lee,Marketing,2016-10-11,Active,Contract
+Karen Brown,Operations,2025-12-03,Active,Payslip
+Paul Young,Finance,2018-08-02,Inactive,Payslip
+Nathan Brooks,Operations,2019-03-19,Inactive,Contract
+Amy Davis,Marketing,2025-02-24,Active,Contract
+Melissa Dean,HR,2026-06-04,Active,NDA
+Nicholas Welch,IT,2023-10-17,Active,Employee Record
+Stephanie Vasquez,Finance,2026-01-20,Active,Invoice
+Gregory Johnson,Sales,2016-07-02,Inactive,Payslip
+Pamela Baird,Operations,2018-08-27,Active,Employee Record
+Michael Young MD,HR,2021-03-01,Active,Contract
+James Daniel,Marketing,2020-12-21,Inactive,NDA
+Andrew Harris,IT,2025-03-19,Active,NDA
+Jeffrey Adams,Finance,2022-03-26,Inactive,NDA
+Karen Wilcox,Sales,2021-01-07,Active,Employee Record
+Andrew Morales,IT,2022-09-27,Inactive,Contract
+Melinda Robinson,Finance,2025-09-02,Inactive,Employee Record
+Isaiah Carroll,Finance,2023-03-11,Active,Invoice
+Kimberly Santana,HR,2024-01-31,Active,Employee Record
+Ellen Castaneda,Marketing,2019-03-09,Inactive,NDA
+Kimberly Matthews,Operations,2023-09-25,Active,Employee Record
+Christopher Richards,Marketing,2020-04-15,Inactive,Employee Record
+Stacey Estrada,Operations,2019-02-17,Inactive,Contract
+Elizabeth Wilson,Marketing,2022-01-05,Active,Contract
+Michael Gibson,Finance,2020-07-10,Inactive,Invoice
+Patricia Holmes,HR,2018-10-24,Inactive,Employee Record
+Patricia Morse,Sales,2020-04-08,Inactive,Invoice
+Joyce Turner,HR,2022-03-25,Active,Invoice
+Christopher Johnson,HR,2016-12-01,Inactive,Payslip
+Brandy Atkinson,Sales,2020-05-21,Inactive,Contract
+Kiara Reyes,Finance,2019-12-31,Inactive,NDA
+Ashley Anthony,Finance,2022-03-26,Active,NDA
+David Gill,Operations,2025-05-12,Inactive,Employee Record
+Claudia Barry,Operations,2022-08-15,Inactive,Payslip
+Jacob Cook,HR,2018-11-26,Active,NDA
+Sherry Glass,Finance,2016-08-24,Active,Payslip
+Alexis Wang,Marketing,2016-10-12,Inactive,Invoice
+Daniel Vargas,IT,2024-09-14,Inactive,Invoice
+Mackenzie Mack,IT,2019-10-19,Inactive,Contract
+Wendy Johnson,Finance,2018-04-07,Active,Invoice
+Nancy Barnett,Sales,2020-11-18,Active,Payslip
+Kayla Osborne,Sales,2023-04-04,Active,NDA
+Alexa Luna,HR,2020-02-20,Inactive,Employee Record
+William Johnson,Finance,2017-11-29,Inactive,Contract
+Jenna Brock,Operations,2020-05-20,Active,Employee Record
+Diane Hanson,Operations,2021-07-19,Inactive,Invoice
+Ethan Jackson,Finance,2026-03-12,Inactive,Employee Record
+Morgan Hernandez,IT,2023-05-01,Active,Invoice
+Lisa Howard,IT,2017-01-17,Active,NDA
+Mitchell Wu,IT,2020-07-30,Inactive,Invoice
+Jill Guzman,HR,2016-07-18,Active,Payslip
+James Hernandez,Finance,2019-03-16,Active,Invoice
+Paul Erickson,HR,2023-11-24,Active,Invoice
+Emily Keith,HR,2023-09-24,Inactive,Payslip
+Lance Santana,IT,2022-05-31,Inactive,NDA
+Melinda Patel,Sales,2026-01-30,Inactive,Contract
+Aaron Frazier,IT,2017-06-15,Inactive,Employee Record
+Jennifer Jackson,Finance,2020-11-27,Inactive,Payslip
+Katherine Flores,HR,2021-01-15,Inactive,Invoice
+Joshua Alvarado,IT,2022-03-12,Active,NDA
+Amanda Reynolds,IT,2019-05-03,Active,Invoice
+Dr. Rhonda Monroe,HR,2022-12-25,Active,Employee Record
+Justin Pena MD,Operations,2025-01-30,Inactive,Invoice
+Aaron Aguirre,Marketing,2017-05-06,Inactive,Employee Record
+Adam Davis,IT,2017-02-28,Inactive,Invoice
+Michael Smith,Operations,2025-03-28,Active,Employee Record
+Scott Patterson,Marketing,2025-08-09,Inactive,NDA
+Kendra Griffin,Sales,2025-11-24,Inactive,NDA
+Shelley Hernandez,HR,2019-08-26,Active,Employee Record
+Phyllis Hernandez,IT,2023-03-17,Inactive,Invoice
+Jose Campbell,Marketing,2019-09-16,Inactive,Contract
+Adriana Gibson,Finance,2023-07-27,Active,Contract
+Jacob Simpson,IT,2021-09-06,Active,Employee Record
+Jodi Coleman,Marketing,2018-06-15,Active,Contract
+Jacob Wolfe,HR,2023-04-02,Inactive,Employee Record
+Tyler Ferguson,Sales,2025-04-25,Active,Invoice
+Jerry Hernandez,Operations,2023-07-17,Inactive,Payslip
+Susan Wallace,Sales,2019-07-28,Active,Contract
+Stephanie Jones,Marketing,2020-02-18,Inactive,NDA
+Michael Meyer,HR,2022-10-22,Inactive,NDA
+Anthony Smith,Operations,2019-05-10,Active,Employee Record
+Brooke Powell,IT,2024-01-28,Active,Payslip
+Jeremy Mccormick,Operations,2023-09-18,Active,Employee Record
+Amber Erickson,IT,2017-08-03,Active,Payslip
+Nicholas Wells,IT,2020-02-29,Inactive,NDA
+Cory Jones,Sales,2023-01-17,Active,Contract
+Debbie Reyes,Marketing,2023-10-29,Inactive,NDA
+Stacey Williams,Finance,2019-09-22,Inactive,Contract
+Julian Owens,Operations,2021-04-11,Active,Contract
+Casey Boyle,IT,2019-11-15,Active,Invoice
+Elizabeth Brown,Sales,2025-12-13,Inactive,NDA
+Michael Jenkins,HR,2016-10-30,Active,Employee Record
+Christopher Elliott,Finance,2026-05-25,Active,Contract
+Donna Clark,HR,2019-12-17,Active,Contract
+Oscar Roberson,Finance,2019-07-15,Inactive,Invoice
+Krystal Kelly,Operations,2024-07-13,Active,NDA
+Jordan Barron,HR,2023-03-01,Active,Payslip
+Joseph Terry,Operations,2023-09-14,Active,Employee Record
+Pamela Thomas,Sales,2023-01-11,Active,Employee Record
+Mark Baker,Sales,2019-08-31,Active,Payslip
+Kimberly Garner,Marketing,2017-06-15,Inactive,Contract
+Rachel Hodge,Operations,2017-07-19,Inactive,Payslip
+Joseph Smith,Sales,2016-10-23,Active,Contract
+Gregory Harrison,Operations,2023-07-13,Active,NDA
+Martha Snyder,Finance,2025-10-10,Inactive,NDA
+Thomas Garza,IT,2017-05-29,Inactive,Invoice
+Michelle Li,Sales,2023-02-25,Inactive,NDA
+Frank Wade,Marketing,2017-06-30,Inactive,Employee Record
+Bruce Smith,Finance,2017-11-10,Inactive,Employee Record
+Jessica Reid,Marketing,2016-09-10,Inactive,Payslip
+Jeffrey Coleman,Marketing,2026-05-18,Active,Payslip
+Dr. Dean Farrell Jr.,IT,2023-04-20,Inactive,Payslip
+Zachary Day Jr.,Finance,2025-11-02,Active,Payslip
+Kimberly Nichols,IT,2017-06-05,Active,Employee Record
+Bruce King,HR,2019-10-11,Inactive,Contract
+Jacqueline Carter,HR,2017-06-15,Active,Invoice
+Destiny Mooney,HR,2020-11-26,Inactive,Employee Record
+Mary Kelley,Finance,2020-09-30,Inactive,Employee Record
+Linda Thomas,Marketing,2025-05-10,Active,Invoice
+James Moreno,IT,2022-01-25,Inactive,NDA
+Dustin Johnson MD,IT,2024-09-29,Active,Invoice
+Brian Ayers,Operations,2024-03-31,Active,Payslip
+Peter Ibarra,Operations,2017-11-22,Active,NDA
+Jeff Mcgee,Operations,2022-08-24,Inactive,Employee Record
+Jeremy Sullivan,Marketing,2019-03-25,Active,Invoice
+Victoria Hurst,Sales,2017-01-13,Active,Payslip
+Mark Reed,Operations,2023-11-18,Active,Invoice
+Clayton Perkins,Sales,2021-07-17,Active,Invoice
+Jean Gamble,IT,2016-07-07,Active,Invoice
+Mary Torres,Finance,2017-09-11,Inactive,Invoice
+Andrea Baker,HR,2022-05-02,Inactive,Invoice
+David Nelson,Marketing,2024-10-06,Inactive,NDA
+Jessica Martin,Finance,2025-03-04,Active,Employee Record
+Leslie Fisher,HR,2022-03-15,Active,Employee Record
+Tonya Morton,Marketing,2025-06-14,Active,Payslip
+Robert Small,IT,2025-04-23,Active,NDA
+Nicole Campbell,Marketing,2020-09-03,Inactive,Contract
+Ashley Li,Marketing,2020-02-19,Inactive,Employee Record
+Amy Jones,Operations,2017-02-28,Inactive,NDA
+Joel Garcia,Operations,2023-08-03,Inactive,Payslip
+Jordan Kelly,Finance,2019-05-29,Inactive,Invoice
+John Fields,Sales,2025-12-01,Inactive,Employee Record
+Yvonne Delacruz,IT,2025-09-05,Inactive,Employee Record
+William Lopez,Sales,2024-04-09,Active,Employee Record
+Donald Mccoy,Finance,2024-12-28,Active,Payslip
+Sally Daniel,IT,2018-12-28,Inactive,Payslip
+Aaron Cohen,Operations,2025-08-03,Active,Employee Record
+Vanessa Guerrero,IT,2020-01-04,Inactive,Contract
+Lisa Jacobs,HR,2018-08-17,Inactive,Payslip
+Rebecca Fernandez,IT,2025-03-28,Inactive,Invoice
+Matthew Hill,IT,2025-02-24,Inactive,Employee Record
+Charles Caldwell,Marketing,2016-10-04,Active,Payslip
+Nancy Vasquez,Sales,2018-10-14,Active,Payslip
+Dana Walker,HR,2018-12-24,Inactive,Invoice
+Adam Foster PhD,HR,2024-01-27,Inactive,Invoice
+Jamie Jordan,Operations,2025-06-14,Active,NDA
+Denise Lopez,Finance,2025-09-01,Inactive,Payslip
+Miguel Howard,Finance,2021-01-06,Active,Invoice
+Richard Hines,IT,2016-08-19,Active,NDA
+Nicole Levy,Operations,2024-07-25,Inactive,Payslip
+Randy Avila,Finance,2017-04-26,Inactive,Invoice
+Jessica Nguyen,Marketing,2018-03-06,Inactive,Employee Record
+Sherry Sexton,HR,2018-07-07,Active,Invoice
+Kimberly Lopez,Sales,2025-03-10,Active,NDA
+Spencer Gray Jr.,HR,2022-10-08,Active,NDA
+Ronald Mendoza,Operations,2017-10-03,Active,Invoice
+Alison Houston,HR,2023-12-23,Active,Contract
+Kristopher Yates,IT,2026-03-19,Active,Employee Record
+Ann Smith,Operations,2026-01-10,Inactive,NDA
+Nicole Cox,Sales,2017-02-02,Active,NDA
+Richard Lambert,HR,2024-01-29,Inactive,NDA
+Chris Garcia,Sales,2020-02-27,Inactive,NDA
+Laura Beasley,IT,2021-09-21,Inactive,Payslip
+Donald Mckinney,Marketing,2017-01-23,Inactive,Payslip
+Aaron Lewis,Sales,2023-08-01,Active,Employee Record
+Julie Nichols,Operations,2025-09-28,Inactive,Contract
+Dawn Garcia,Marketing,2023-03-09,Inactive,NDA
+Alexander Haynes,HR,2019-10-01,Active,NDA
+Heather Rosales,Sales,2018-06-21,Active,Employee Record
+Robin Garcia,Sales,2024-11-01,Active,Contract
+Brandon Aguilar,Sales,2022-03-04,Inactive,Payslip
+Shawn Hart,IT,2017-07-30,Active,Invoice
+Cynthia Garza,Sales,2017-03-18,Inactive,Contract
+Shannon Barber,Sales,2021-01-05,Active,Employee Record
+Angela Mckee,Marketing,2018-10-02,Inactive,Invoice
+Alvin Thomas,HR,2018-01-12,Active,Invoice
+Richard Bauer,Sales,2021-06-08,Inactive,Contract
+David Kelley,Finance,2025-10-19,Active,Contract
+Alyssa Willis,IT,2023-10-02,Inactive,Payslip
+Timothy Nguyen,Marketing,2022-05-12,Inactive,Payslip
+Autumn Torres,Marketing,2025-06-28,Inactive,NDA
+James Summers,IT,2019-11-21,Active,Contract
+Heather Hernandez,Sales,2020-02-14,Active,Employee Record
+Drew Miller,Marketing,2023-06-21,Inactive,NDA
+Bradley Yang,HR,2026-04-24,Active,Contract
+Elizabeth Clarke,Sales,2019-12-10,Inactive,Payslip
+Fernando Warren,Finance,2018-12-08,Inactive,Contract
+Kari Fisher,Operations,2025-04-09,Active,NDA
+Colton Johnson,Operations,2020-11-30,Inactive,Contract
+Jennifer Chavez,Operations,2020-10-15,Inactive,Employee Record
+Angela Ford,IT,2023-08-30,Active,Payslip
+Misty Brown,Marketing,2022-07-12,Active,Invoice
+Thomas Burns,HR,2022-01-18,Active,NDA
+Marissa Hamilton,Finance,2021-09-07,Inactive,Payslip
+Mary Thompson,Marketing,2017-07-31,Inactive,NDA
+Chris Sanders,Marketing,2021-08-14,Active,Payslip
+Wanda Brown,Operations,2018-07-09,Inactive,Payslip
+Sarah Campbell,HR,2021-05-21,Active,NDA
+Kara Davis,Operations,2018-05-30,Active,Employee Record
+Teresa Johnson,Marketing,2018-01-07,Inactive,Employee Record
+Vanessa Alexander,HR,2025-06-20,Active,NDA
+Austin Harris,Sales,2023-11-13,Inactive,Invoice
+Jennifer Matthews,Operations,2023-09-07,Active,NDA
+Jason Lewis,IT,2016-11-02,Inactive,Contract
+Juan Kelley,Marketing,2021-02-23,Active,Contract
+Mark Allison,Operations,2025-02-11,Active,Contract
+Jodi Richardson,Finance,2021-06-22,Active,Contract
+Melissa Collins,Marketing,2018-11-25,Inactive,Invoice
+Lisa Mcgee,Marketing,2018-06-16,Inactive,Invoice
+Jacob Harrison,Marketing,2024-04-30,Inactive,Employee Record
+Yvette Crosby,IT,2016-10-08,Active,Employee Record
+Mark Peters,Operations,2020-10-17,Active,Payslip
+Anthony Short,HR,2020-12-23,Active,NDA
+Paul Johnston,Finance,2022-04-05,Active,Contract
+Patrick Contreras,Operations,2017-11-09,Active,Contract
+Gerald Compton,Marketing,2019-05-09,Inactive,Contract
+Kayla Michael,HR,2025-12-23,Active,Payslip
+Ronald Williams,IT,2020-10-07,Active,Invoice
+Michael Benjamin,Sales,2024-08-12,Inactive,Payslip
+Alexandra Gould,Sales,2019-01-17,Inactive,Contract
+Paige Green,HR,2020-09-09,Active,Invoice
+Yvonne Gray,Operations,2017-04-12,Active,Invoice
+Paula Massey,HR,2022-11-03,Active,Invoice
+Sharon Durham,Operations,2020-12-10,Active,Payslip
+Natasha Smith,Sales,2021-10-04,Active,Employee Record
+Andrew Kelly,IT,2025-10-07,Active,Invoice
+Micheal Ross,IT,2024-02-01,Active,Invoice
+John Fernandez,HR,2025-05-31,Active,NDA
+Jeremy Frazier,Marketing,2019-08-27,Inactive,Invoice
+Alexander Munoz,Finance,2021-06-26,Inactive,Employee Record
+Terry Morales,Operations,2025-02-01,Active,Payslip
+Ronnie Olson,Operations,2025-04-20,Inactive,NDA
+Kristine Howell,Marketing,2018-06-01,Inactive,Payslip
+Ryan Johnston,Marketing,2019-05-14,Inactive,Payslip
+Jordan Crosby,Finance,2021-04-15,Active,Employee Record
+Nancy Taylor,Sales,2019-12-31,Active,Contract
+Alicia Guerrero,HR,2025-06-06,Inactive,NDA
+Randy Goodman,Finance,2020-07-27,Inactive,Payslip
+Candace Moore,Operations,2024-07-03,Inactive,Employee Record
+Melissa Smith,Finance,2024-04-14,Inactive,Contract
+Renee Garza,IT,2019-03-06,Active,Payslip
+Laura Cline,Marketing,2016-06-29,Active,NDA
+Gary Lutz,Marketing,2019-06-12,Inactive,Employee Record
+Sabrina Murphy,IT,2023-08-16,Inactive,Invoice
+David Bender,Finance,2017-03-14,Active,Payslip
+Michael Bush,Sales,2018-04-16,Inactive,Contract
+Jill Foley,Marketing,2020-05-26,Inactive,Employee Record
+Miss Jillian Mckee,Sales,2016-09-11,Inactive,Invoice
+Sarah Rasmussen,Operations,2016-11-24,Active,NDA
+Brian Elliott,Finance,2020-06-16,Active,Contract
+Marvin Zavala,Finance,2016-11-15,Inactive,Employee Record
+Marisa Johnson,HR,2020-06-15,Active,NDA
+Brandon Fisher,Marketing,2019-03-01,Active,Contract
+Sarah Orr,Marketing,2019-10-09,Active,Contract
+Regina Freeman,IT,2025-04-08,Inactive,Contract
+Samuel Lopez,IT,2019-07-27,Inactive,Contract
+Samuel Berry,Finance,2020-09-08,Inactive,Employee Record
+Mark Bell,HR,2019-10-08,Inactive,Employee Record
+Richard Merritt,Sales,2019-03-31,Inactive,Payslip
+Jason Williams,Marketing,2019-01-12,Active,Employee Record
+Robert Weaver,Finance,2023-06-05,Active,Invoice
+Julia Smith,Finance,2023-11-25,Inactive,Invoice
+Henry Bush,Marketing,2017-01-19,Inactive,NDA
+Aaron Barber,Finance,2025-09-30,Active,Employee Record
+Angelica Shea,Sales,2023-01-19,Active,Payslip
+Sarah Baker,Finance,2026-05-19,Inactive,Payslip
+Mary Figueroa,HR,2019-07-22,Active,Payslip
+Anne Burnett,Operations,2025-01-29,Active,Payslip
+Sabrina Mccarthy,Sales,2026-03-12,Inactive,Payslip
+Luis Miller,Finance,2018-08-20,Active,Contract
+Eric Perez,IT,2019-01-05,Active,Employee Record
+Nicolas Miller,Marketing,2023-06-27,Inactive,Employee Record
+Sandy Le,IT,2022-10-09,Active,NDA
+Daniel Holland,Sales,2022-11-01,Active,Payslip
+Lawrence Pratt,Sales,2017-07-13,Inactive,Employee Record
+Angela Cooper,Operations,2023-05-23,Active,Payslip
+Ashley Dougherty,Finance,2021-03-27,Active,Employee Record
+Elizabeth Walker,Sales,2022-10-29,Active,Invoice
+Jennifer Mason,Sales,2023-05-15,Inactive,Invoice
+Sue Mcdaniel,Sales,2018-05-27,Inactive,NDA
+Allison Wells,HR,2018-04-30,Active,NDA
+Amber Evans,Sales,2017-01-03,Inactive,Contract
+Kristi Davis,HR,2018-08-29,Inactive,Invoice
+Bruce Jackson,Marketing,2021-06-14,Inactive,NDA
+James Jordan,Finance,2016-07-02,Inactive,Contract
+Frank Camacho,Finance,2022-11-04,Active,Invoice
+Kayla Dixon,HR,2026-01-29,Active,Payslip
+Lisa Diaz,Sales,2023-02-22,Active,Contract
+Robert Brown,IT,2022-07-25,Active,Employee Record
+Christopher Alexander,HR,2022-01-01,Active,Invoice
+David Murray,HR,2018-06-06,Active,NDA
+Crystal Moses,Sales,2021-01-11,Inactive,Employee Record
+Andrew Phillips,Operations,2026-04-12,Active,Contract
+Kathleen Myers,Operations,2019-01-16,Inactive,Invoice
