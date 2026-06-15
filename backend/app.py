@@ -17,7 +17,6 @@ def home():
 
 
 
-
 @app.route("/api/stats")
 def get_stats():
 
@@ -273,6 +272,5 @@ def export_excel():
 
 
 if __name__ == "__main__":
-    app.run(
-        debug=True
-    )
+    port = int(os.environ.get("PORT", 5000))
+    app.run(host="0.0.0.0", port=port)
